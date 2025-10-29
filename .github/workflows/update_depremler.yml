@@ -2,8 +2,8 @@ name: Update Deprem Data
 
 on:
   schedule:
-    - cron: "*/5 * * * *" # her 5 dakikada bir
-  workflow_dispatch:       # manuel tetikleme
+    - cron: "*/5 * * * *" # Her 5 dakikada bir
+  workflow_dispatch: # Manuel tetikleme için
 
 jobs:
   update-depremler:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: false  # token commit edilmesin
+          persist-credentials: false
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -61,8 +61,16 @@ for line in lines[7:]:
         ml = parts[6] if parts[6] != "-.-" else None
         yer = " ".join(parts[8:-1])
         cozum = parts[-1]
-        data.append({"Tarih": tarih, "Saat": saat, "Enlem": enlem, "Boylam": boylam, 
-                     "Derinlik": derinlik, "ML": ml, "Yer": yer, "Cozum": cozum})
+        data.append({
+            "Tarih": tarih,
+            "Saat": saat,
+            "Enlem": enlem,
+            "Boylam": boylam,
+            "Derinlik": derinlik,
+            "ML": ml,
+            "Yer": yer,
+            "Cozum": cozum
+        })
 
 df_new = pd.DataFrame(data)
 
@@ -72,8 +80,7 @@ if os.path.exists(FILE_PATH):
         try:
             old_data = json.load(f)
             df_old = pd.DataFrame(old_data)
-        except Exception as e:
-            print("Eski JSON okunamadı:", e)
+        except:
             df_old = pd.DataFrame()
 else:
     df_old = pd.DataFrame()
@@ -92,20 +99,13 @@ with open(FILE_PATH, "w", encoding="utf-8") as f:
     f.write(df_limited.to_json(orient="records", force_ascii=False, indent=2))
 
 # GitHub push
+g = Github(os.environ["GITHUB_TOKEN"])
+repo = g.get_repo(REPO_NAME)
 try:
-    g = Github(os.environ["GITHUB_TOKEN"])
-    repo = g.get_repo(REPO_NAME)
-    try:
-        file = repo.get_contents(FILE_PATH)
-        repo.update_file(FILE_PATH, f"Auto update {datetime.now()}", 
-                         df_limited.to_json(orient="records", force_ascii=False, indent=2),
-                         file.sha, branch="main")
-        print("✅ JSON dosyası güncellendi ve pushlandı.")
-    except Exception:
-        repo.create_file(FILE_PATH, f"First upload {datetime.now()}", 
-                         df_limited.to_json(orient="records", force_ascii=False, indent=2),
-                         branch="main")
-        print("✅ JSON dosyası oluşturuldu ve pushlandı.")
-except Exception as e:
-    print("❌ GitHub push sırasında hata:", e)
+    file = repo.get_contents(FILE_PATH)
+    repo.update_file(FILE_PATH, f"Auto update {datetime.now()}", df_limited.to_json(orient="records", force_ascii=False, indent=2), file.sha, branch="main")
+    print("✅ JSON dosyası güncellendi ve pushlandı.")
+except:
+    repo.create_file(FILE_PATH, f"First upload {datetime.now()}", df_limited.to_json(orient="records", force_ascii=False, indent=2), branch="main")
+    print("✅ JSON dosyası oluşturuldu ve pushlandı.")
 EOF
