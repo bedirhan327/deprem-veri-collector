@@ -29,7 +29,7 @@ for line in lines[7:]:
         derinlik = float(parts[4])
         ml = parts[6] if parts[6] != "-.-" else None
         yer = " ".join(parts[8:-1])
-        cozum = parts[-1]
+        cozum = parts[-1].replace("�", "İ")  # yanlış encoding karakterlerini düzelt
         data.append({
             "Tarih": tarih,
             "Saat": saat,
@@ -60,8 +60,8 @@ df_combined.drop_duplicates(subset=["Tarih", "Saat", "Enlem", "Boylam"], inplace
 df_combined['Datetime'] = pd.to_datetime(df_combined['Tarih'] + ' ' + df_combined['Saat'], errors='coerce')
 df_combined.sort_values(by="Datetime", ascending=False, inplace=True)
 
-# Limitle
-df_limited = df_combined.head(MAX_RECORDS)
+# Sadece gerekli kolonları al (Datetime hariç)
+df_limited = df_combined[["Tarih", "Saat", "Enlem", "Boylam", "Derinlik", "ML", "Yer", "Cozum"]].head(MAX_RECORDS)
 
 # JSON kaydet
 os.makedirs(os.path.dirname(FILE_PATH), exist_ok=True)
@@ -73,8 +73,19 @@ g = Github(os.environ["GITHUB_TOKEN"])
 repo = g.get_repo(REPO_NAME)
 try:
     file = repo.get_contents(FILE_PATH)
-    repo.update_file(FILE_PATH, f"Auto update {datetime.now()}", df_limited.to_json(orient="records", force_ascii=False, indent=2), file.sha, branch="main")
+    repo.update_file(
+        FILE_PATH,
+        f"Auto update {datetime.now()}",
+        df_limited.to_json(orient="records", force_ascii=False, indent=2),
+        file.sha,
+        branch="main"
+    )
     print("✅ JSON dosyası güncellendi ve pushlandı.")
 except:
-    repo.create_file(FILE_PATH, f"First upload {datetime.now()}", df_limited.to_json(orient="records", force_ascii=False, indent=2), branch="main")
+    repo.create_file(
+        FILE_PATH,
+        f"First upload {datetime.now()}",
+        df_limited.to_json(orient="records", force_ascii=False, indent=2),
+        branch="main"
+    )
     print("✅ JSON dosyası oluşturuldu ve pushlandı.")
