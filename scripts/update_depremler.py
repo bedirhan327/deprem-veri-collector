@@ -45,7 +45,7 @@ for line in lines[7:]:
 df_kandilli = pd.DataFrame(data_kandilli)
 
 # ---------- AFAD Verisi ----------
-url_afad = "https://deprem.afad.gov.tr/last-earthquakes.json"  # örnek URL
+url_afad = "https://deprem.afad.gov.tr/last-earthquakes" 
 response_afad = requests.get(url_afad)
 data_afad = response_afad.json()
 
