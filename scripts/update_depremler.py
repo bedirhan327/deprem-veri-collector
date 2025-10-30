@@ -68,6 +68,9 @@ os.makedirs(os.path.dirname(FILE_PATH), exist_ok=True)
 with open(FILE_PATH, "w", encoding="utf-8") as f:
     f.write(df_limited.to_json(orient="records", force_ascii=False, indent=2))
 
+# Güncel veri sayısını yazdır
+print(f"📊 Güncel JSON'daki veri sayısı: {len(df_limited)}")
+
 # GitHub push
 g = Github(os.environ["GITHUB_TOKEN"])
 repo = g.get_repo(REPO_NAME)
