@@ -2,7 +2,7 @@ name: Ping Vercel Site (ISR)
 
 on:
   schedule:
-    - cron: "*/20 * * * *"  # her 20 dakikada bir
+    - cron: "*/5 * * * *"  # her 5 dakikada bir
   workflow_dispatch:  # manuel çalıştırmak için
 
 jobs:
