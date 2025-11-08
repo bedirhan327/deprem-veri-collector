@@ -1,0 +1,13 @@
+name: Ping Vercel Site (ISR)
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"  # her 20 dakikada bir
+  workflow_dispatch:  # manuel çalıştırmak için
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Vercel
+        run: curl -s https://deprem-haritas.vercel.app > /dev/null
