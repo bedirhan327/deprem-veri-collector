@@ -68,7 +68,6 @@ os.makedirs(os.path.dirname(FILE_PATH), exist_ok=True)
 with open(FILE_PATH, "w", encoding="utf-8") as f:
     f.write(df_limited.to_json(orient="records", force_ascii=False, indent=2))
 
-# Güncel veri sayısını yazdır
 print(f"📊 Güncel JSON'daki veri sayısı: {len(df_limited)}")
 
 # GitHub push
@@ -92,3 +91,16 @@ except:
         branch="main"
     )
     print("✅ JSON dosyası oluşturuldu ve pushlandı.")
+
+# ---------------------------
+# Vercel ISR ping
+# ---------------------------
+try:
+    vercel_url = "https://deprem-haritas.vercel.app"
+    response = requests.get(vercel_url)
+    if response.status_code == 200:
+        print("🚀 Vercel ISR ping başarılı!")
+    else:
+        print(f"⚠️ Ping gönderildi ama status code: {response.status_code}")
+except Exception as e:
+    print(f"❌ Vercel ISR ping gönderilemedi: {e}")
