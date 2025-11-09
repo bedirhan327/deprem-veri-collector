@@ -1,328 +1,445 @@
 import React, { useEffect, useState, useRef } from "react";
-import {
-  View,
-  ScrollView,
-  Button,
-  StyleSheet,
-  Dimensions,
-  Text,
-  Modal,
-  TouchableOpacity,
-  Platform,
-} from "react-native";
+import { View, Text, TouchableOpacity, StyleSheet, Platform } from "react-native";
 import MapView, { Marker, PROVIDER_GOOGLE } from "react-native-maps";
-import * as d3Scale from "d3-scale";
-import * as Notifications from "expo-notifications";
+import useSupercluster from "use-supercluster";
 
-// Bildirim izinlerini ayarla
-Notifications.setNotificationHandler({
-  handleNotification: async () => ({
-    shouldShowAlert: true,
-    shouldPlaySound: true,
-    shouldSetBadge: false,
-  }),
-});
+// ✅ Constants
+import { width, height, INITIAL_REGION, HIGH_MAGNITUDE_THRESHOLD, BUBBLE_THRESHOLD, DATA_URL } from "./constants/config";
+
+// ✅ Utils
+import { getUserLocation } from "./utils/location";
+import {
+  registerForPushNotificationsAsync,
+  sendLocalNotification,
+} from "./utils/notifications";
+import { parseML, getDistanceKm, getMarkerSize, colorScale } from "./utils/helpers";
+
+// ✅ Components
+import InfoBox from "./components/InfoBox";
+import DepremModal from "./components/DepremModal";
+import SettingsModal from "./components/SettingsModal";
+import ButtonGroup from "./components/ButtonGroup";
+import PushTestResult from "./components/PushTestResult";
 
 export default function App() {
   const [depremData, setDepremData] = useState([]);
   const [limit, setLimit] = useState(100);
   const [selectedDeprem, setSelectedDeprem] = useState(null);
-  const [zoomFactor, setZoomFactor] = useState(1);
-  const [lastDepremTimestamp, setLastDepremTimestamp] = useState(null);
-  const [firstLoad, setFirstLoad] = useState(true);
-  const mapRef = useRef(null);
+  const [userLocation, setUserLocation] = useState(null);
+  const [notifyThreshold, setNotifyThreshold] = useState(1);
+  const [distanceThreshold, setDistanceThreshold] = useState(400); // km
+  const [minMagnitude, setMinMagnitude] = useState(6); // ML >= bu değer ise her zaman bildirim
+  const [firstLoadDone, setFirstLoadDone] = useState(false);
   const seenRef = useRef(new Set());
   const [debugInfo, setDebugInfo] = useState({ lastFetch: null, newCount: 0 });
+  const mapRef = useRef(null);
+  const [settingsVisible, setSettingsVisible] = useState(false);
+  const [zoom, setZoom] = useState(8);
+  const [pushTestResult, setPushTestResult] = useState(null);
+  const [bounds, setBounds] = useState([
+    INITIAL_REGION.longitude - INITIAL_REGION.longitudeDelta / 2,
+    INITIAL_REGION.latitude - INITIAL_REGION.latitudeDelta / 2,
+    INITIAL_REGION.longitude + INITIAL_REGION.longitudeDelta / 2,
+    INITIAL_REGION.latitude + INITIAL_REGION.latitudeDelta / 2,
+  ]);
 
-  const DATA_URL =
-    "https://raw.githubusercontent.com/bedirhan327/deprem-haritas-/main/public/data/deprem_data.json";
+  // 🔹 Expo Push Token al ve Vercel API'ye gönder
+  useEffect(() => {
+    (async () => {
+      const token = await registerForPushNotificationsAsync();
+      if (token) {
+        try {
+          // Platform bilgisini belirle
+          let platform = "unknown";
+          if (token.startsWith("MOCK_")) {
+            platform = "simulator";
+          } else if (Platform.OS === "android") {
+            platform = "android";
+          } else if (Platform.OS === "ios") {
+            platform = "ios";
+          }
 
+          const response = await fetch("https://deprem-haritas.vercel.app/api/register-token", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ 
+              token,
+              platform,
+              deviceInfo: {
+                os: Platform.OS,
+                version: Platform.Version,
+              }
+            }),
+          });
+          
+          const result = await response.json();
+          if (response.ok) {
+            console.log("✅ Token Vercel'e başarıyla gönderildi:", token);
+            console.log("📊 Toplam kayıtlı token sayısı:", result.count);
+          } else {
+            console.error("❌ Token gönderme hatası:", result.message || "Bilinmeyen hata");
+          }
+        } catch (err) {
+          console.error("❌ Token gönderme hatası (network):", err.message);
+        }
+      } else {
+        console.warn("⚠️ Token alınamadı - bildirimler çalışmayabilir");
+      }
+    })();
+  }, []);
+
+  // 📍 Konumu al
+  useEffect(() => {
+    (async () => {
+      const loc = await getUserLocation();
+      if (loc) setUserLocation(loc);
+    })();
+  }, []);
+
+  // 🔁 Veriyi çek ve yeni deprem varsa bildirim gönder
   const fetchData = async () => {
     try {
-      const res = await fetch(`${DATA_URL}?t=${Date.now()}`, {
-        headers: { "Cache-Control": "no-cache" },
-        cache: "no-store",
-      });
+      const res = await fetch(`${DATA_URL}?t=${Date.now()}`);
       const data = await res.json();
       setDepremData(data);
 
-      // Yardımcılar ve tespit
-      const toNumber = (v) => {
-        const s = (v ?? "").toString().replace(",", ".");
-        const n = parseFloat(s);
-        return isNaN(n) ? 0 : n;
-      };
       const eventKey = (d) =>
         `${d.Tarih}|${d.Saat}|${d.Enlem}|${d.Boylam}|${d.ML}`;
 
-      if (firstLoad) {
-        // İlk yüklemede mevcut kayıtları görmüş say
+      if (!firstLoadDone) {
         data.forEach((d) => seenRef.current.add(eventKey(d)));
-        if (data.length > 0) {
-          const newestTime = data.reduce((max, d) => {
-            const t = new Date(d.Tarih + " " + d.Saat);
-            return t > max ? t : max;
-          }, new Date(0));
-          setLastDepremTimestamp(newestTime);
-        }
-        setFirstLoad(false);
+        setFirstLoadDone(true);
         setDebugInfo({ lastFetch: new Date(), newCount: 0 });
-      } else {
-        const newEvents = [];
-        for (const d of data) {
-          const key = eventKey(d);
-          if (!seenRef.current.has(key)) {
-            seenRef.current.add(key);
-            newEvents.push(d);
-          }
-        }
+        return;
+      }
 
-        if (newEvents.length > 0) {
-          for (const deprem of newEvents) {
-            if (toNumber(deprem.ML) >= 1) {
-              await Notifications.scheduleNotificationAsync({
-                content: {
-                  title: `Yeni Deprem: ${deprem.Yer}`,
-                  body: `ML: ${deprem.ML}, Derinlik: ${deprem.Derinlik} km`,
-                },
-                trigger: null,
-              });
+      const newEvents = [];
+      for (const d of data) {
+        const key = eventKey(d);
+        if (!seenRef.current.has(key)) {
+          seenRef.current.add(key);
+          newEvents.push(d);
+        }
+      }
+
+      if (newEvents.length > 0) {
+        for (const deprem of newEvents) {
+          const ml = parseML(deprem.ML);
+          const lat = parseML(deprem.Enlem);
+          const lon = parseML(deprem.Boylam);
+
+          let shouldNotify = false;
+
+          // Yüksek büyüklük kontrolü (ayarlanabilir eşik)
+          if (ml >= minMagnitude) {
+            shouldNotify = true;
+          } else if (userLocation) {
+            // Konum bazlı kontrol (ayarlanabilir mesafe ve ML eşiği)
+            const distance = getDistanceKm(
+              userLocation.latitude,
+              userLocation.longitude,
+              lat,
+              lon
+            );
+            if (distance <= distanceThreshold && ml >= notifyThreshold) {
+              shouldNotify = true;
             }
           }
 
-          const newestTime = newEvents.reduce((max, d) => {
-            const t = new Date(d.Tarih + " " + d.Saat);
-            return t > max ? t : max;
-          }, lastDepremTimestamp || new Date(0));
-          setLastDepremTimestamp(newestTime);
+          if (shouldNotify) {
+            await sendLocalNotification(
+              `Yeni Deprem: ${deprem.Yer ?? "—"}`,
+              `ML: ${deprem.ML}, Derinlik: ${deprem.Derinlik} km`
+            );
+          }
         }
-        setDebugInfo({ lastFetch: new Date(), newCount: newEvents.length });
       }
+
+      setDebugInfo({ lastFetch: new Date(), newCount: newEvents.length });
     } catch (err) {
-      console.log(err);
+      console.error("❌ fetchData error:", err);
     }
   };
 
+  // 🔁 Her 5 sn'de bir veri çek (daha hızlı bildirim için)
   useEffect(() => {
     fetchData();
-
-    // Bildirim izinlerini sor
-    (async () => {
-      if (Platform.OS === "android") {
-        await Notifications.setNotificationChannelAsync("default", {
-          name: "default",
-          importance: Notifications.AndroidImportance.HIGH,
-          sound: true,
-          vibrationPattern: [0, 250, 250, 250],
-          lightColor: "#FF231F7C",
-        });
-      }
-      const { status } = await Notifications.requestPermissionsAsync({
-        ios: { allowAlert: true, allowBadge: true, allowSound: true },
-      });
-      if (status !== "granted") {
-        alert("Bildirim izinleri verilmedi!");
-      }
-    })();
-
-    // Her 1 dakikada bir verileri çek
-    const interval = setInterval(fetchData, 15 * 1000);
+    const interval = setInterval(fetchData, 5000); // 15 saniye → 5 saniye
     return () => clearInterval(interval);
-  }, []);
+  }, [userLocation, notifyThreshold, distanceThreshold, minMagnitude]);
 
-  const colorScale = d3Scale
-    .scaleThreshold()
-    .domain([2, 4, 6])
-    .range(["#91cf60", "#fee08b", "#fc8d59", "#d73027"]);
+  // 🔹 Yerel test bildirimi
+  const sendTestNotification = async () => {
+    await sendLocalNotification("Test Bildirimi", "Bu bir testtir 🚨");
+  };
 
-  const { width, height } = Dimensions.get("window");
+  // 🔹 Push notification API testi
+  const testPushNotification = async () => {
+    setPushTestResult({ loading: true, message: "Bildirim gönderiliyor..." });
+    
+    try {
+      const response = await fetch("https://deprem-haritas.vercel.app/api/send-notifications", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          title: "🧪 Test Bildirimi",
+          body: `Test zamanı: ${new Date().toLocaleTimeString("tr-TR")}`,
+        }),
+      });
 
-  const getMarkerSize = (ML, zoomFactor) => {
-    const magnitude = Math.max(0, ML || 0);
-    // Base size grows with magnitude but stays reasonable across full range
-    const baseSize = 10 + 5 * magnitude; // e.g., ML 2 -> 20, ML 6 -> 40
-    // Gently dampen size change across zoom levels (less sensitive than 1/sqrt)
-    const zoomDampen = Math.pow(Math.max(0.5, Math.min(zoomFactor, 20)), -0.12);
-    const size = baseSize * zoomDampen;
-    // Clamp to keep visuals balanced on both far and near zooms
-    return Math.max(12, Math.min(size, 42));
+      const result = await response.json();
+      
+      if (response.ok) {
+        setPushTestResult({
+          success: true,
+          message: `✅ Başarılı! ${result.sent || 0} bildirim gönderildi`,
+          details: result,
+        });
+        console.log("✅ Push notification test başarılı:", result);
+      } else {
+        setPushTestResult({
+          success: false,
+          message: `❌ Hata: ${result.message || "Bilinmeyen hata"}`,
+          details: result,
+        });
+        console.error("❌ Push notification test hatası:", result);
+      }
+    } catch (error) {
+      setPushTestResult({
+        success: false,
+        message: `❌ Network hatası: ${error.message}`,
+        details: null,
+      });
+      console.error("❌ Push notification test network hatası:", error);
+    }
   };
 
   const handleRegionChange = (region) => {
-    const zoom = 10 / region.longitudeDelta;
-    setZoomFactor(zoom);
+    if (!region) return;
+    const newZoom = Math.round(Math.log2(360 / region.longitudeDelta));
+    setZoom(newZoom);
+    setBounds([
+      region.longitude - region.longitudeDelta / 2,
+      region.latitude - region.latitudeDelta / 2,
+      region.longitude + region.longitudeDelta / 2,
+      region.latitude + region.latitudeDelta / 2,
+    ]);
   };
 
-  const filteredData = depremData
+  // --- Supercluster ---
+  const highMagData = depremData
     .slice(0, limit)
-    .sort((a, b) => (a.ML || 0) - (b.ML || 0));
+    .filter((d) => parseML(d.ML) >= HIGH_MAGNITUDE_THRESHOLD);
 
-  // Manuel test bildirim fonksiyonu
-  const sendTestNotification = async () => {
-    const fakeDeprem = {
-      Yer: "Test Deprem",
-      ML: 4.5,
-      Derinlik: 10,
-      Tarih: "2025-10-29",
-      Saat: "12:00",
-    };
+  const lowMagData = depremData
+    .slice(0, limit)
+    .filter((d) => parseML(d.ML) < HIGH_MAGNITUDE_THRESHOLD);
 
-    await Notifications.scheduleNotificationAsync({
-      content: {
-        title: `Yeni Deprem: ${fakeDeprem.Yer}`,
-        body: `ML: ${fakeDeprem.ML}, Derinlik: ${fakeDeprem.Derinlik} km`,
-      },
-      trigger: null,
-    });
-  };
+  const lowMagPoints = lowMagData
+    .map((deprem, index) => {
+      const ml = parseML(deprem.ML);
+      const lat = parseML(deprem.Enlem);
+      const lon = parseML(deprem.Boylam);
+      if (isNaN(lat) || isNaN(lon)) return null;
+      return {
+        type: "Feature",
+        properties: { cluster: false, depremId: index, data: deprem, ml },
+        geometry: { type: "Point", coordinates: [lon, lat] },
+      };
+    })
+    .filter(Boolean);
+
+  const { clusters, supercluster } = useSupercluster({
+    points: lowMagPoints,
+    bounds,
+    zoom,
+    options: { radius: 75, maxZoom: 20 },
+  });
 
   return (
     <View style={{ flex: 1 }}>
+      {/* Harita */}
       <MapView
         ref={mapRef}
         style={{ width, height }}
         provider={PROVIDER_GOOGLE}
-        initialRegion={{
-          latitude: 39.0,
-          longitude: 35.0,
-          latitudeDelta: 8,
-          longitudeDelta: 8,
-        }}
+        initialRegion={INITIAL_REGION}
         onRegionChangeComplete={handleRegionChange}
       >
-        {filteredData.map((deprem, index) => (
-          <Marker
-            key={index}
-            coordinate={{
-              latitude: parseFloat(deprem.Enlem),
-              longitude: parseFloat(deprem.Boylam),
-            }}
-            zIndex={Math.max(1, Math.floor((deprem.ML || 0) * 100))}
-            onPress={() => setSelectedDeprem(deprem)}
-          >
-            <View
-              style={{
-                width: getMarkerSize(deprem.ML, zoomFactor),
-                height: getMarkerSize(deprem.ML, zoomFactor),
-                borderRadius: getMarkerSize(deprem.ML, zoomFactor) / 2,
-                backgroundColor: colorScale(deprem.ML || 0),
-                borderWidth: 1,
-                borderColor: "#333",
-                justifyContent: "center",
-                alignItems: "center",
-              }}
-            />
-          </Marker>
-        ))}
+        {highMagData.map((deprem, i) => {
+          const ml = parseML(deprem.ML);
+          const lat = parseML(deprem.Enlem);
+          const lon = parseML(deprem.Boylam);
+          if (isNaN(lat) || isNaN(lon)) return null;
+          const size = getMarkerSize(ml, zoom);
+          return (
+            <Marker
+              key={`high-${i}`}
+              coordinate={{ latitude: lat, longitude: lon }}
+              onPress={() => setSelectedDeprem(deprem)}
+            >
+              <View
+                style={{
+                  width: size,
+                  height: size,
+                  borderRadius: size / 2,
+                  backgroundColor: colorScale(ml),
+                  borderWidth: 1,
+                  borderColor: "#333",
+                }}
+              />
+            </Marker>
+          );
+        })}
+
+        {clusters.map((cluster) => {
+          const [lon, lat] = cluster.geometry.coordinates;
+          const { cluster: isCluster, point_count } = cluster.properties;
+
+          if (isCluster) {
+            const clusterSize = 30 + (point_count / lowMagPoints.length) * 30;
+            return (
+              <Marker
+                key={`cluster-${cluster.id}`}
+                coordinate={{ latitude: lat, longitude: lon }}
+                onPress={() => {
+                  const expansionZoom = Math.min(
+                    supercluster.getClusterExpansionZoom(cluster.id),
+                    20
+                  );
+                  mapRef.current?.animateToRegion(
+                    {
+                      latitude: lat,
+                      longitude: lon,
+                      latitudeDelta: INITIAL_REGION.latitudeDelta / (2 * expansionZoom),
+                      longitudeDelta: INITIAL_REGION.longitudeDelta / (2 * expansionZoom),
+                    },
+                    300
+                  );
+                }}
+              >
+                <View
+                  style={{
+                    width: clusterSize,
+                    height: clusterSize,
+                    borderRadius: clusterSize / 2,
+                    backgroundColor: "#1976D2",
+                    justifyContent: "center",
+                    alignItems: "center",
+                    borderColor: "#fff",
+                    borderWidth: 1,
+                    opacity: 0.8,
+                  }}
+                >
+                  <Text style={{ color: "#fff", fontWeight: "bold" }}>
+                    {point_count}
+                  </Text>
+                </View>
+              </Marker>
+            );
+          }
+
+          const ml = cluster.properties.ml;
+          const deprem = cluster.properties.data;
+
+          if (ml >= BUBBLE_THRESHOLD) {
+            const size = getMarkerSize(ml, zoom);
+            return (
+              <Marker
+                key={`bubble-${cluster.properties.depremId}`}
+                coordinate={{ latitude: lat, longitude: lon }}
+                onPress={() => setSelectedDeprem(deprem)}
+              >
+                <View
+                  style={{
+                    width: size,
+                    height: size,
+                    borderRadius: size / 2,
+                    backgroundColor: colorScale(ml),
+                    borderWidth: 1,
+                    borderColor: "#333",
+                  }}
+                />
+              </Marker>
+            );
+          } else {
+            return (
+              <Marker
+                key={`pin-${cluster.properties.depremId}`}
+                coordinate={{ latitude: lat, longitude: lon }}
+                onPress={() => setSelectedDeprem(deprem)}
+                pinColor={colorScale(ml)}
+              />
+            );
+          }
+        })}
       </MapView>
 
-      {/* Debug overlay: last fetch time and new detection count */}
-      <View
-        style={{
-          position: "absolute",
-          top: 105,
-          left: 10,
-          backgroundColor: "rgba(0,0,0,0.5)",
-          paddingVertical: 6,
-          paddingHorizontal: 10,
-          borderRadius: 8,
-        }}
-      >
-        <Text style={{ color: "#fff", fontSize: 12 }}>
-          Son kontrol: {debugInfo.lastFetch ? new Date(debugInfo.lastFetch).toLocaleTimeString() : "-"}
-        </Text>
-        <Text style={{ color: "#fff", fontSize: 12 }}>
-          Yeni: {debugInfo.newCount}
-        </Text>
+      {/* Sağ üst ayarlar butonu */}
+      <View style={{ position: "absolute", top: 50, right: 15, zIndex: 10 }}>
+        <TouchableOpacity
+          onPress={() => setSettingsVisible(true)}
+          style={styles.settingsButton}
+        >
+          <Text style={styles.settingsButtonText}>⚙️</Text>
+        </TouchableOpacity>
       </View>
 
-      <ScrollView
-        horizontal
-        style={styles.buttonContainer}
-        contentContainerStyle={{ paddingHorizontal: 10 }}
-        showsHorizontalScrollIndicator={false}
-      >
-        {[100, 500, 1000].map((num) => (
-          <View key={num} style={styles.buttonWrapper}>
-            <Button
-              title={`Son ${num}`}
-              onPress={() => setLimit(num)}
-              color={limit === num ? "#333" : "#888"}
-            />
-          </View>
-        ))}
-        {/* Manuel test butonu */}
-        <View style={styles.buttonWrapper}>
-          <Button
-            title="Bildirim Test"
-            onPress={sendTestNotification}
-            color="#FF4500"
-          />
-        </View>
-      </ScrollView>
+      {/* Bilgi kutusu */}
+      <InfoBox debugInfo={debugInfo} />
 
-      <Modal
-        visible={!!selectedDeprem}
-        transparent
-        animationType="fade"
-        onRequestClose={() => setSelectedDeprem(null)}
-      >
-        <TouchableOpacity
-          style={styles.modalOverlay}
-          activeOpacity={1}
-          onPressOut={() => setSelectedDeprem(null)}
-        >
-          <View style={styles.modalContent}>
-            {selectedDeprem && (
-              <>
-                <Text style={styles.modalText}>
-                  Yer: {selectedDeprem.Yer || selectedDeprem.yer}
-                </Text>
-                <Text style={styles.modalText}>
-                  ML: {selectedDeprem.ML || selectedDeprem.ml}
-                </Text>
-                <Text style={styles.modalText}>
-                  Derinlik: {selectedDeprem.Derinlik || selectedDeprem.derinlik} km
-                </Text>
-                <Text style={styles.modalText}>
-                  Tarih: {selectedDeprem.Tarih || selectedDeprem.tarih}
-                </Text>
-                <Text style={styles.modalText}>
-                  Saat: {selectedDeprem.Saat || selectedDeprem.saat}
-                </Text>
-              </>
-            )}
-          </View>
-        </TouchableOpacity>
-      </Modal>
+      {/* Limit ve test butonları */}
+      <ButtonGroup
+        limit={limit}
+        onLimitChange={setLimit}
+        onTestLocal={sendTestNotification}
+        onTestPush={testPushNotification}
+        onRefresh={fetchData}
+      />
+
+      {/* Push test sonuç kutusu */}
+      <PushTestResult
+        result={pushTestResult}
+        onClose={() => setPushTestResult(null)}
+      />
+
+      {/* Deprem detay modal */}
+      <DepremModal
+        selectedDeprem={selectedDeprem}
+        onClose={() => setSelectedDeprem(null)}
+      />
+
+      {/* Ayarlar modal */}
+      <SettingsModal
+        visible={settingsVisible}
+        notifyThreshold={notifyThreshold}
+        onThresholdChange={setNotifyThreshold}
+        distanceThreshold={distanceThreshold}
+        onDistanceThresholdChange={setDistanceThreshold}
+        minMagnitude={minMagnitude}
+        onMinMagnitudeChange={setMinMagnitude}
+        onClose={() => setSettingsVisible(false)}
+      />
     </View>
   );
 }
 
 const styles = StyleSheet.create({
-  buttonContainer: {
-    position: "absolute",
-    top: 70,
-    left: 0,
-    right: 0,
-  },
-  buttonWrapper: {
-    marginHorizontal: 5,
-  },
-  modalOverlay: {
-    flex: 1,
-    backgroundColor: "rgba(0,0,0,0.3)",
-    justifyContent: "center",
+  settingsButton: {
+    padding: 12,
+    backgroundColor: "rgba(255, 255, 255, 0.95)",
+    borderRadius: 30,
     alignItems: "center",
+    justifyContent: "center",
+    shadowColor: "#000",
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.2,
+    shadowRadius: 6,
+    elevation: 5,
+    borderWidth: 1,
+    borderColor: "rgba(0, 0, 0, 0.05)",
   },
-  modalContent: {
-    backgroundColor: "#fff",
-    padding: 20,
-    borderRadius: 12,
-    minWidth: 250,
-  },
-  modalText: {
-    fontSize: 16,
-    marginBottom: 5,
+  settingsButtonText: {
+    fontSize: 20,
   },
 });
