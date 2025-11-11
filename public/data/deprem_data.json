@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2025.11.12",
+    "Saat":"02:13:47",
+    "Enlem":39.1665,
+    "Boylam":28.2407,
+    "Derinlik":8.4,
+    "ML":"1.2",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.12",
     "Saat":"02:09:51",
     "Enlem":39.1622,
     "Boylam":28.3267,
@@ -1932,21 +1942,21 @@
   {
     "Tarih":"2025.11.11",
     "Saat":"06:51:38",
-    "Enlem":39.1817,
-    "Boylam":28.1028,
-    "Derinlik":11.6,
-    "ML":"1.3",
-    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.11",
-    "Saat":"06:51:38",
     "Enlem":39.1853,
     "Boylam":28.103,
     "Derinlik":9.7,
     "ML":"1.5",
     "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.11",
+    "Saat":"06:51:38",
+    "Enlem":39.1817,
+    "Boylam":28.1028,
+    "Derinlik":11.6,
+    "ML":"1.3",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -9442,16 +9452,6 @@
   {
     "Tarih":"2025.11.08",
     "Saat":"12:42:50",
-    "Enlem":36.7165,
-    "Boylam":28.1993,
-    "Derinlik":57.2,
-    "ML":"2.4",
-    "Yer":"BAYIR-MARMARIS (MUGLA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.08",
-    "Saat":"12:42:50",
     "Enlem":36.7167,
     "Boylam":28.1997,
     "Derinlik":57.1,
@@ -9461,12 +9461,12 @@
   },
   {
     "Tarih":"2025.11.08",
-    "Saat":"12:42:07",
-    "Enlem":39.1923,
-    "Boylam":28.1913,
-    "Derinlik":12.5,
-    "ML":"3.1",
-    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Saat":"12:42:50",
+    "Enlem":36.7165,
+    "Boylam":28.1993,
+    "Derinlik":57.2,
+    "ML":"2.4",
+    "Yer":"BAYIR-MARMARIS (MUGLA)",
     "Cozum":"İlksel"
   },
   {
@@ -9476,6 +9476,16 @@
     "Boylam":28.1923,
     "Derinlik":12.3,
     "ML":"3.2",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.08",
+    "Saat":"12:42:07",
+    "Enlem":39.1923,
+    "Boylam":28.1913,
+    "Derinlik":12.5,
+    "ML":"3.1",
     "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
@@ -9987,16 +9997,6 @@
     "Derinlik":2.5,
     "ML":"2.9",
     "Yer":"EGE DENIZI",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.08",
-    "Saat":"05:28:59",
-    "Enlem":39.2155,
-    "Boylam":28.1313,
-    "Derinlik":5.2,
-    "ML":"1.5",
-    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
