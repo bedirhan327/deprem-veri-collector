@@ -11,6 +11,16 @@
   },
   {
     "Tarih":"2025.11.15",
+    "Saat":"22:23:58",
+    "Enlem":39.5793,
+    "Boylam":25.9577,
+    "Derinlik":7.0,
+    "ML":"2.1",
+    "Yer":"GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.15",
     "Saat":"22:18:07",
     "Enlem":39.1703,
     "Boylam":28.2702,
@@ -402,20 +412,20 @@
   {
     "Tarih":"2025.11.15",
     "Saat":"17:26:12",
-    "Enlem":39.2197,
-    "Boylam":28.1112,
+    "Enlem":39.2182,
+    "Boylam":28.1098,
     "Derinlik":12.5,
-    "ML":"2.0",
+    "ML":"2.1",
     "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2025.11.15",
     "Saat":"17:26:12",
-    "Enlem":39.2182,
-    "Boylam":28.1098,
+    "Enlem":39.2197,
+    "Boylam":28.1112,
     "Derinlik":12.5,
-    "ML":"2.1",
+    "ML":"2.0",
     "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
@@ -2532,20 +2542,20 @@
   {
     "Tarih":"2025.11.14",
     "Saat":"18:21:13",
-    "Enlem":39.1755,
-    "Boylam":28.2463,
+    "Enlem":39.1723,
+    "Boylam":28.2503,
     "Derinlik":9.9,
-    "ML":"1.9",
+    "ML":"1.6",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2025.11.14",
     "Saat":"18:21:13",
-    "Enlem":39.1723,
-    "Boylam":28.2503,
+    "Enlem":39.1755,
+    "Boylam":28.2463,
     "Derinlik":9.9,
-    "ML":"1.6",
+    "ML":"1.9",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
@@ -5402,9 +5412,9 @@
   {
     "Tarih":"2025.11.13",
     "Saat":"11:57:49",
-    "Enlem":40.8302,
-    "Boylam":28.2408,
-    "Derinlik":19.7,
+    "Enlem":40.8307,
+    "Boylam":28.24,
+    "Derinlik":19.1,
     "ML":"3.6",
     "Yer":"SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
     "Cozum":"İlksel"
@@ -5412,9 +5422,9 @@
   {
     "Tarih":"2025.11.13",
     "Saat":"11:57:49",
-    "Enlem":40.8307,
-    "Boylam":28.24,
-    "Derinlik":19.1,
+    "Enlem":40.8302,
+    "Boylam":28.2408,
+    "Derinlik":19.7,
     "ML":"3.6",
     "Yer":"SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
     "Cozum":"İlksel"
@@ -9987,16 +9997,6 @@
     "Derinlik":7.6,
     "ML":"1.4",
     "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.12",
-    "Saat":"01:54:17",
-    "Enlem":38.036,
-    "Boylam":36.1272,
-    "Derinlik":19.7,
-    "ML":"1.1",
-    "Yer":"SAIMBEYLI (ADANA)",
     "Cozum":"İlksel"
   }
 ]
