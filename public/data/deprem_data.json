@@ -1431,6 +1431,16 @@
   },
   {
     "Tarih":"2025.11.22",
+    "Saat":"07:02:37",
+    "Enlem":39.086,
+    "Boylam":28.3223,
+    "Derinlik":10.9,
+    "ML":"1.4",
+    "Yer":"KOBAKLAR-GORDES (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.22",
     "Saat":"06:56:20",
     "Enlem":39.1182,
     "Boylam":28.2558,
@@ -4112,21 +4122,21 @@
   {
     "Tarih":"2025.11.20",
     "Saat":"12:09:07",
-    "Enlem":37.1415,
-    "Boylam":36.6293,
-    "Derinlik":7.6,
-    "ML":"4.4",
-    "Yer":"ASAGIARICAKLI-BAHCE (OSMANIYE)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.20",
-    "Saat":"12:09:07",
     "Enlem":37.1237,
     "Boylam":36.6437,
     "Derinlik":8.4,
     "ML":"4.4",
     "Yer":"FEVZIPASA-ISLAHIYE (GAZIANTEP)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.20",
+    "Saat":"12:09:07",
+    "Enlem":37.1415,
+    "Boylam":36.6293,
+    "Derinlik":7.6,
+    "ML":"4.4",
+    "Yer":"ASAGIARICAKLI-BAHCE (OSMANIYE)",
     "Cozum":"İlksel"
   },
   {
@@ -5212,8 +5222,8 @@
   {
     "Tarih":"2025.11.19",
     "Saat":"16:39:02",
-    "Enlem":38.1188,
-    "Boylam":28.9503,
+    "Enlem":38.1183,
+    "Boylam":28.9498,
     "Derinlik":9.2,
     "ML":"1.5",
     "Yer":"HAMDIYE-GUNEY (DENIZLI)",
@@ -5222,8 +5232,8 @@
   {
     "Tarih":"2025.11.19",
     "Saat":"16:39:02",
-    "Enlem":38.1183,
-    "Boylam":28.9498,
+    "Enlem":38.1188,
+    "Boylam":28.9503,
     "Derinlik":9.2,
     "ML":"1.5",
     "Yer":"HAMDIYE-GUNEY (DENIZLI)",
@@ -6892,22 +6902,22 @@
   {
     "Tarih":"2025.11.18",
     "Saat":"14:04:55",
-    "Enlem":39.1722,
-    "Boylam":28.1757,
-    "Derinlik":8.2,
-    "ML":"2.0",
-    "Yer":"AKTAS-SINDIRGI (BALIKESIR) REVIZE01 (2025.11.18",
-    "Cozum":"14:04:55)"
-  },
-  {
-    "Tarih":"2025.11.18",
-    "Saat":"14:04:55",
     "Enlem":39.1572,
     "Boylam":28.2017,
     "Derinlik":9.5,
     "ML":"1.9",
     "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.18",
+    "Saat":"14:04:55",
+    "Enlem":39.1722,
+    "Boylam":28.1757,
+    "Derinlik":8.2,
+    "ML":"2.0",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR) REVIZE01 (2025.11.18",
+    "Cozum":"14:04:55)"
   },
   {
     "Tarih":"2025.11.18",
@@ -7082,22 +7092,22 @@
   {
     "Tarih":"2025.11.18",
     "Saat":"11:16:20",
-    "Enlem":39.2055,
-    "Boylam":28.2553,
-    "Derinlik":12.7,
-    "ML":"3.3",
-    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.18",
-    "Saat":"11:16:20",
     "Enlem":39.2043,
     "Boylam":28.2587,
     "Derinlik":11.6,
     "ML":"3.2",
     "Yer":"ILICA-SINDIRGI (BALIKESIR) REVIZE01 (2025.11.18",
     "Cozum":"11:16:20)"
+  },
+  {
+    "Tarih":"2025.11.18",
+    "Saat":"11:16:20",
+    "Enlem":39.2055,
+    "Boylam":28.2553,
+    "Derinlik":12.7,
+    "ML":"3.3",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
   },
   {
     "Tarih":"2025.11.18",
@@ -9987,16 +9997,6 @@
     "Derinlik":4.5,
     "ML":"1.6",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.16",
-    "Saat":"22:18:10",
-    "Enlem":39.2292,
-    "Boylam":28.1712,
-    "Derinlik":10.1,
-    "ML":"1.6",
-    "Yer":"SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
