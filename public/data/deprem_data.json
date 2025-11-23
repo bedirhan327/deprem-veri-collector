@@ -1411,6 +1411,16 @@
   },
   {
     "Tarih":"2025.11.22",
+    "Saat":"05:51:50",
+    "Enlem":38.223,
+    "Boylam":38.6062,
+    "Derinlik":21.1,
+    "ML":"1.1",
+    "Yer":"SOGUTLU-PUTURGE (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.22",
     "Saat":"05:36:54",
     "Enlem":39.1817,
     "Boylam":28.2847,
@@ -7112,9 +7122,9 @@
   {
     "Tarih":"2025.11.18",
     "Saat":"07:53:07",
-    "Enlem":39.2133,
-    "Boylam":28.113,
-    "Derinlik":10.1,
+    "Enlem":39.2132,
+    "Boylam":28.1157,
+    "Derinlik":9.9,
     "ML":"1.3",
     "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
@@ -7122,9 +7132,9 @@
   {
     "Tarih":"2025.11.18",
     "Saat":"07:53:07",
-    "Enlem":39.2132,
-    "Boylam":28.1157,
-    "Derinlik":9.9,
+    "Enlem":39.2133,
+    "Boylam":28.113,
+    "Derinlik":10.1,
     "ML":"1.3",
     "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
@@ -7712,9 +7722,9 @@
   {
     "Tarih":"2025.11.18",
     "Saat":"01:24:00",
-    "Enlem":39.1952,
-    "Boylam":28.0065,
-    "Derinlik":9.1,
+    "Enlem":39.1983,
+    "Boylam":28.0172,
+    "Derinlik":12.9,
     "ML":"1.4",
     "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
@@ -7722,9 +7732,9 @@
   {
     "Tarih":"2025.11.18",
     "Saat":"01:24:00",
-    "Enlem":39.1983,
-    "Boylam":28.0172,
-    "Derinlik":12.9,
+    "Enlem":39.1952,
+    "Boylam":28.0065,
+    "Derinlik":9.1,
     "ML":"1.4",
     "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
@@ -8382,22 +8392,22 @@
   {
     "Tarih":"2025.11.17",
     "Saat":"12:24:18",
-    "Enlem":39.2218,
-    "Boylam":28.1095,
-    "Derinlik":6.8,
-    "ML":"1.4",
-    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR) REVIZE01 (2025.11.17",
-    "Cozum":"12:24:18)"
-  },
-  {
-    "Tarih":"2025.11.17",
-    "Saat":"12:24:18",
     "Enlem":39.2298,
     "Boylam":28.1533,
     "Derinlik":6.2,
     "ML":"1.3",
     "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.17",
+    "Saat":"12:24:18",
+    "Enlem":39.2218,
+    "Boylam":28.1095,
+    "Derinlik":6.8,
+    "ML":"1.4",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR) REVIZE01 (2025.11.17",
+    "Cozum":"12:24:18)"
   },
   {
     "Tarih":"2025.11.17",
@@ -9987,16 +9997,6 @@
     "Derinlik":5.4,
     "ML":"1.9",
     "Yer":"SUDUGUNU-(BINGOL)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.16",
-    "Saat":"21:51:19",
-    "Enlem":41.0738,
-    "Boylam":25.6125,
-    "Derinlik":7.0,
-    "ML":"2.1",
-    "Yer":"YUNANISTAN",
     "Cozum":"İlksel"
   }
 ]
