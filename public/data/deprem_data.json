@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2025.12.03",
+    "Saat":"09:42:07",
+    "Enlem":34.6538,
+    "Boylam":32.447,
+    "Derinlik":13.6,
+    "ML":"2.6",
+    "Yer":"AKDENIZ",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.03",
     "Saat":"09:31:16",
     "Enlem":39.1858,
     "Boylam":28.3198,
@@ -2522,22 +2532,22 @@
   {
     "Tarih":"2025.12.01",
     "Saat":"12:15:49",
-    "Enlem":39.2012,
-    "Boylam":29.0287,
-    "Derinlik":22.6,
-    "ML":"0.7",
-    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.01",
-    "Saat":"12:15:49",
     "Enlem":39.2645,
     "Boylam":29.057,
     "Derinlik":18.0,
     "ML":"0.7",
     "Yer":"KATRANDAGI-EMET (KUTAHYA) REVIZE01 (2025.12.01",
     "Cozum":"12:15:49)"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"12:15:49",
+    "Enlem":39.2012,
+    "Boylam":29.0287,
+    "Derinlik":22.6,
+    "ML":"0.7",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
   },
   {
     "Tarih":"2025.12.01",
@@ -5692,21 +5702,21 @@
   {
     "Tarih":"2025.11.28",
     "Saat":"21:56:36",
-    "Enlem":36.7673,
-    "Boylam":28.0685,
-    "Derinlik":59.1,
-    "ML":"1.6",
-    "Yer":"TURGUTKOY-MARMARIS (MUGLA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.28",
-    "Saat":"21:56:36",
     "Enlem":36.7462,
     "Boylam":28.0608,
     "Derinlik":59.3,
     "ML":"1.6",
     "Yer":"SELIMIYE-MARMARIS (MUGLA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.28",
+    "Saat":"21:56:36",
+    "Enlem":36.7673,
+    "Boylam":28.0685,
+    "Derinlik":59.1,
+    "ML":"1.6",
+    "Yer":"TURGUTKOY-MARMARIS (MUGLA)",
     "Cozum":"İlksel"
   },
   {
@@ -6262,20 +6272,20 @@
   {
     "Tarih":"2025.11.28",
     "Saat":"08:11:33",
-    "Enlem":39.1935,
-    "Boylam":29.0197,
+    "Enlem":39.204,
+    "Boylam":29.0013,
     "Derinlik":14.6,
-    "ML":"1.3",
+    "ML":"1.4",
     "Yer":"EGIRLER-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2025.11.28",
     "Saat":"08:11:33",
-    "Enlem":39.204,
-    "Boylam":29.0013,
+    "Enlem":39.1935,
+    "Boylam":29.0197,
     "Derinlik":14.6,
-    "ML":"1.4",
+    "ML":"1.3",
     "Yer":"EGIRLER-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   },
@@ -6302,20 +6312,20 @@
   {
     "Tarih":"2025.11.28",
     "Saat":"08:06:01",
-    "Enlem":39.2228,
-    "Boylam":28.9975,
-    "Derinlik":11.0,
-    "ML":"1.7",
+    "Enlem":39.2292,
+    "Boylam":29.006,
+    "Derinlik":10.0,
+    "ML":"1.8",
     "Yer":"YEMISLI-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2025.11.28",
     "Saat":"08:06:01",
-    "Enlem":39.2292,
-    "Boylam":29.006,
-    "Derinlik":10.0,
-    "ML":"1.8",
+    "Enlem":39.2228,
+    "Boylam":28.9975,
+    "Derinlik":11.0,
+    "ML":"1.7",
     "Yer":"YEMISLI-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   },
@@ -6332,16 +6342,6 @@
   {
     "Tarih":"2025.11.28",
     "Saat":"08:01:35",
-    "Enlem":39.2463,
-    "Boylam":29.0147,
-    "Derinlik":5.3,
-    "ML":"3.4",
-    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.28",
-    "Saat":"08:01:35",
     "Enlem":39.2468,
     "Boylam":29.0137,
     "Derinlik":5.4,
@@ -6351,12 +6351,12 @@
   },
   {
     "Tarih":"2025.11.28",
-    "Saat":"07:41:12",
-    "Enlem":37.3498,
-    "Boylam":36.2845,
-    "Derinlik":7.0,
-    "ML":"3.0",
-    "Yer":"KIYIKCI-ANDIRIN (KAHRAMANMARAS)",
+    "Saat":"08:01:35",
+    "Enlem":39.2463,
+    "Boylam":29.0147,
+    "Derinlik":5.3,
+    "ML":"3.4",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   },
   {
@@ -6367,6 +6367,16 @@
     "Derinlik":6.6,
     "ML":"2.9",
     "Yer":"CERCIOGLU-DUZICI (OSMANIYE)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.28",
+    "Saat":"07:41:12",
+    "Enlem":37.3498,
+    "Boylam":36.2845,
+    "Derinlik":7.0,
+    "ML":"3.0",
+    "Yer":"KIYIKCI-ANDIRIN (KAHRAMANMARAS)",
     "Cozum":"İlksel"
   },
   {
@@ -6472,20 +6482,20 @@
   {
     "Tarih":"2025.11.28",
     "Saat":"07:06:02",
-    "Enlem":39.174,
-    "Boylam":28.1552,
-    "Derinlik":9.6,
-    "ML":"3.4",
+    "Enlem":39.1745,
+    "Boylam":28.1507,
+    "Derinlik":9.8,
+    "ML":"3.5",
     "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2025.11.28",
     "Saat":"07:06:02",
-    "Enlem":39.1745,
-    "Boylam":28.1507,
-    "Derinlik":9.8,
-    "ML":"3.5",
+    "Enlem":39.174,
+    "Boylam":28.1552,
+    "Derinlik":9.6,
+    "ML":"3.4",
     "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
@@ -6632,20 +6642,20 @@
   {
     "Tarih":"2025.11.28",
     "Saat":"05:53:27",
-    "Enlem":39.2583,
-    "Boylam":28.1092,
+    "Enlem":39.2567,
+    "Boylam":28.1083,
     "Derinlik":7.7,
-    "ML":"1.5",
+    "ML":"1.6",
     "Yer":"KARAGUR-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2025.11.28",
     "Saat":"05:53:27",
-    "Enlem":39.2567,
-    "Boylam":28.1083,
+    "Enlem":39.2583,
+    "Boylam":28.1092,
     "Derinlik":7.7,
-    "ML":"1.6",
+    "ML":"1.5",
     "Yer":"KARAGUR-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
@@ -6752,9 +6762,9 @@
   {
     "Tarih":"2025.11.28",
     "Saat":"05:14:13",
-    "Enlem":39.2105,
-    "Boylam":28.1535,
-    "Derinlik":7.5,
+    "Enlem":39.2107,
+    "Boylam":28.1538,
+    "Derinlik":7.4,
     "ML":"1.0",
     "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
@@ -6762,9 +6772,9 @@
   {
     "Tarih":"2025.11.28",
     "Saat":"05:14:13",
-    "Enlem":39.2107,
-    "Boylam":28.1538,
-    "Derinlik":7.4,
+    "Enlem":39.2105,
+    "Boylam":28.1535,
+    "Derinlik":7.5,
     "ML":"1.0",
     "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
@@ -6882,20 +6892,20 @@
   {
     "Tarih":"2025.11.28",
     "Saat":"03:55:17",
-    "Enlem":38.374,
-    "Boylam":30.6975,
-    "Derinlik":19.3,
-    "ML":"0.9",
+    "Enlem":38.3907,
+    "Boylam":30.6788,
+    "Derinlik":19.1,
+    "ML":"0.8",
     "Yer":"UZUNPINAR-SUHUT (AFYONKARAHISAR)",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2025.11.28",
     "Saat":"03:55:17",
-    "Enlem":38.3907,
-    "Boylam":30.6788,
-    "Derinlik":19.1,
-    "ML":"0.8",
+    "Enlem":38.374,
+    "Boylam":30.6975,
+    "Derinlik":19.3,
+    "ML":"0.9",
     "Yer":"UZUNPINAR-SUHUT (AFYONKARAHISAR)",
     "Cozum":"İlksel"
   },
@@ -6922,9 +6932,9 @@
   {
     "Tarih":"2025.11.28",
     "Saat":"03:51:57",
-    "Enlem":38.0682,
-    "Boylam":37.5138,
-    "Derinlik":7.4,
+    "Enlem":38.0662,
+    "Boylam":37.5137,
+    "Derinlik":8.1,
     "ML":"1.1",
     "Yer":"TATLAR-NURHAK (KAHRAMANMARAS)",
     "Cozum":"İlksel"
@@ -6932,9 +6942,9 @@
   {
     "Tarih":"2025.11.28",
     "Saat":"03:51:57",
-    "Enlem":38.0662,
-    "Boylam":37.5137,
-    "Derinlik":8.1,
+    "Enlem":38.0682,
+    "Boylam":37.5138,
+    "Derinlik":7.4,
     "ML":"1.1",
     "Yer":"TATLAR-NURHAK (KAHRAMANMARAS)",
     "Cozum":"İlksel"
@@ -7083,9 +7093,9 @@
     "Tarih":"2025.11.28",
     "Saat":"03:06:46",
     "Enlem":39.1718,
-    "Boylam":28.2738,
-    "Derinlik":5.4,
-    "ML":"0.8",
+    "Boylam":28.2732,
+    "Derinlik":5.3,
+    "ML":"0.9",
     "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
@@ -7093,9 +7103,9 @@
     "Tarih":"2025.11.28",
     "Saat":"03:06:46",
     "Enlem":39.1718,
-    "Boylam":28.2732,
-    "Derinlik":5.3,
-    "ML":"0.9",
+    "Boylam":28.2738,
+    "Derinlik":5.4,
+    "ML":"0.8",
     "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
@@ -7192,20 +7202,20 @@
   {
     "Tarih":"2025.11.28",
     "Saat":"01:45:29",
-    "Enlem":39.1228,
-    "Boylam":28.2768,
-    "Derinlik":9.9,
-    "ML":"1.2",
+    "Enlem":39.1232,
+    "Boylam":28.2772,
+    "Derinlik":10.0,
+    "ML":"1.3",
     "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2025.11.28",
     "Saat":"01:45:29",
-    "Enlem":39.1232,
-    "Boylam":28.2772,
-    "Derinlik":10.0,
-    "ML":"1.3",
+    "Enlem":39.1228,
+    "Boylam":28.2768,
+    "Derinlik":9.9,
+    "ML":"1.2",
     "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
@@ -7232,16 +7242,6 @@
   {
     "Tarih":"2025.11.28",
     "Saat":"01:40:49",
-    "Enlem":40.082,
-    "Boylam":38.665,
-    "Derinlik":5.0,
-    "ML":"2.0",
-    "Yer":"BOZAT-GOLOVA (SIVAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.28",
-    "Saat":"01:40:49",
     "Enlem":40.0832,
     "Boylam":38.6688,
     "Derinlik":5.0,
@@ -7251,12 +7251,12 @@
   },
   {
     "Tarih":"2025.11.28",
-    "Saat":"01:21:50",
-    "Enlem":39.8992,
-    "Boylam":40.926,
-    "Derinlik":1.1,
-    "ML":"2.1",
-    "Yer":"ATLIKONAK-AZIZIYE (ERZURUM)",
+    "Saat":"01:40:49",
+    "Enlem":40.082,
+    "Boylam":38.665,
+    "Derinlik":5.0,
+    "ML":"2.0",
+    "Yer":"BOZAT-GOLOVA (SIVAS)",
     "Cozum":"İlksel"
   },
   {
@@ -7265,6 +7265,16 @@
     "Enlem":39.8933,
     "Boylam":40.9282,
     "Derinlik":5.0,
+    "ML":"2.1",
+    "Yer":"ATLIKONAK-AZIZIYE (ERZURUM)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.28",
+    "Saat":"01:21:50",
+    "Enlem":39.8992,
+    "Boylam":40.926,
+    "Derinlik":1.1,
     "ML":"2.1",
     "Yer":"ATLIKONAK-AZIZIYE (ERZURUM)",
     "Cozum":"İlksel"
@@ -7352,16 +7362,6 @@
   {
     "Tarih":"2025.11.28",
     "Saat":"00:31:49",
-    "Enlem":39.1753,
-    "Boylam":28.186,
-    "Derinlik":11.0,
-    "ML":"1.1",
-    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.28",
-    "Saat":"00:31:49",
     "Enlem":39.1777,
     "Boylam":28.1902,
     "Derinlik":9.4,
@@ -7371,12 +7371,12 @@
   },
   {
     "Tarih":"2025.11.28",
-    "Saat":"00:29:26",
-    "Enlem":39.2378,
-    "Boylam":29.03,
-    "Derinlik":6.8,
-    "ML":"1.8",
-    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Saat":"00:31:49",
+    "Enlem":39.1753,
+    "Boylam":28.186,
+    "Derinlik":11.0,
+    "ML":"1.1",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -7386,6 +7386,16 @@
     "Boylam":29.0355,
     "Derinlik":6.6,
     "ML":"1.6",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.28",
+    "Saat":"00:29:26",
+    "Enlem":39.2378,
+    "Boylam":29.03,
+    "Derinlik":6.8,
+    "ML":"1.8",
     "Yer":"KATRANDAGI-EMET (KUTAHYA)",
     "Cozum":"İlksel"
   },
@@ -7502,16 +7512,6 @@
   {
     "Tarih":"2025.11.27",
     "Saat":"23:27:40",
-    "Enlem":39.2307,
-    "Boylam":28.9582,
-    "Derinlik":9.7,
-    "ML":"1.6",
-    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.27",
-    "Saat":"23:27:40",
     "Enlem":39.2283,
     "Boylam":28.9573,
     "Derinlik":10.0,
@@ -7521,12 +7521,12 @@
   },
   {
     "Tarih":"2025.11.27",
-    "Saat":"23:04:04",
-    "Enlem":37.311,
-    "Boylam":37.032,
-    "Derinlik":5.4,
-    "ML":"1.8",
-    "Yer":"CENNETPINARI-PAZARCIK (KAHRAMANMARAS)",
+    "Saat":"23:27:40",
+    "Enlem":39.2307,
+    "Boylam":28.9582,
+    "Derinlik":9.7,
+    "ML":"1.6",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   },
   {
@@ -7535,6 +7535,16 @@
     "Enlem":37.3128,
     "Boylam":37.0333,
     "Derinlik":5.3,
+    "ML":"1.8",
+    "Yer":"CENNETPINARI-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.27",
+    "Saat":"23:04:04",
+    "Enlem":37.311,
+    "Boylam":37.032,
+    "Derinlik":5.4,
     "ML":"1.8",
     "Yer":"CENNETPINARI-PAZARCIK (KAHRAMANMARAS)",
     "Cozum":"İlksel"
@@ -7552,16 +7562,6 @@
   {
     "Tarih":"2025.11.27",
     "Saat":"22:03:37",
-    "Enlem":39.07,
-    "Boylam":28.2685,
-    "Derinlik":21.1,
-    "ML":"1.2",
-    "Yer":"DUTLUCA-GORDES (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.27",
-    "Saat":"22:03:37",
     "Enlem":39.0825,
     "Boylam":28.2822,
     "Derinlik":20.8,
@@ -7571,12 +7571,12 @@
   },
   {
     "Tarih":"2025.11.27",
-    "Saat":"21:47:34",
-    "Enlem":39.219,
-    "Boylam":28.1198,
-    "Derinlik":7.7,
-    "ML":"1.8",
-    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Saat":"22:03:37",
+    "Enlem":39.07,
+    "Boylam":28.2685,
+    "Derinlik":21.1,
+    "ML":"1.2",
+    "Yer":"DUTLUCA-GORDES (MANISA)",
     "Cozum":"İlksel"
   },
   {
@@ -7591,12 +7591,12 @@
   },
   {
     "Tarih":"2025.11.27",
-    "Saat":"21:38:24",
-    "Enlem":39.199,
-    "Boylam":28.1623,
-    "Derinlik":16.7,
-    "ML":"2.3",
-    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Saat":"21:47:34",
+    "Enlem":39.219,
+    "Boylam":28.1198,
+    "Derinlik":7.7,
+    "ML":"1.8",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -7605,6 +7605,16 @@
     "Enlem":39.2003,
     "Boylam":28.1653,
     "Derinlik":16.5,
+    "ML":"2.3",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.27",
+    "Saat":"21:38:24",
+    "Enlem":39.199,
+    "Boylam":28.1623,
+    "Derinlik":16.7,
     "ML":"2.3",
     "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
@@ -7752,20 +7762,20 @@
   {
     "Tarih":"2025.11.27",
     "Saat":"20:15:40",
-    "Enlem":39.1543,
-    "Boylam":28.2652,
-    "Derinlik":9.6,
-    "ML":"1.4",
+    "Enlem":39.1533,
+    "Boylam":28.2602,
+    "Derinlik":11.0,
+    "ML":"1.5",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2025.11.27",
     "Saat":"20:15:40",
-    "Enlem":39.1533,
-    "Boylam":28.2602,
-    "Derinlik":11.0,
-    "ML":"1.5",
+    "Enlem":39.1543,
+    "Boylam":28.2652,
+    "Derinlik":9.6,
+    "ML":"1.4",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
@@ -7862,16 +7872,6 @@
   {
     "Tarih":"2025.11.27",
     "Saat":"18:18:53",
-    "Enlem":38.2868,
-    "Boylam":38.1983,
-    "Derinlik":21.3,
-    "ML":"1.2",
-    "Yer":"IKIZCE-YESILYURT (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.27",
-    "Saat":"18:18:53",
     "Enlem":38.2878,
     "Boylam":38.2012,
     "Derinlik":21.5,
@@ -7881,12 +7881,12 @@
   },
   {
     "Tarih":"2025.11.27",
-    "Saat":"18:11:28",
-    "Enlem":39.181,
-    "Boylam":28.1912,
-    "Derinlik":14.5,
-    "ML":"1.3",
-    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Saat":"18:18:53",
+    "Enlem":38.2868,
+    "Boylam":38.1983,
+    "Derinlik":21.3,
+    "ML":"1.2",
+    "Yer":"IKIZCE-YESILYURT (MALATYA)",
     "Cozum":"İlksel"
   },
   {
@@ -7901,12 +7901,12 @@
   },
   {
     "Tarih":"2025.11.27",
-    "Saat":"18:06:33",
-    "Enlem":39.1873,
-    "Boylam":28.213,
-    "Derinlik":13.4,
-    "ML":"2.9",
-    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Saat":"18:11:28",
+    "Enlem":39.181,
+    "Boylam":28.1912,
+    "Derinlik":14.5,
+    "ML":"1.3",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -7917,6 +7917,16 @@
     "Derinlik":13.6,
     "ML":"3.0",
     "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.27",
+    "Saat":"18:06:33",
+    "Enlem":39.1873,
+    "Boylam":28.213,
+    "Derinlik":13.4,
+    "ML":"2.9",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -8202,20 +8212,20 @@
   {
     "Tarih":"2025.11.27",
     "Saat":"13:02:36",
-    "Enlem":39.215,
+    "Enlem":39.2143,
     "Boylam":28.0805,
     "Derinlik":13.3,
-    "ML":"3.4",
+    "ML":"3.3",
     "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2025.11.27",
     "Saat":"13:02:36",
-    "Enlem":39.2143,
+    "Enlem":39.215,
     "Boylam":28.0805,
     "Derinlik":13.3,
-    "ML":"3.3",
+    "ML":"3.4",
     "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
@@ -8342,20 +8352,20 @@
   {
     "Tarih":"2025.11.27",
     "Saat":"09:51:47",
-    "Enlem":39.2292,
-    "Boylam":28.1435,
+    "Enlem":39.2302,
+    "Boylam":28.1382,
     "Derinlik":11.6,
-    "ML":"1.5",
+    "ML":"1.4",
     "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2025.11.27",
     "Saat":"09:51:47",
-    "Enlem":39.2302,
-    "Boylam":28.1382,
+    "Enlem":39.2292,
+    "Boylam":28.1435,
     "Derinlik":11.6,
-    "ML":"1.4",
+    "ML":"1.5",
     "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
@@ -8472,16 +8482,6 @@
   {
     "Tarih":"2025.11.27",
     "Saat":"08:36:31",
-    "Enlem":39.1,
-    "Boylam":28.0723,
-    "Derinlik":12.0,
-    "ML":"1.3",
-    "Yer":"SAGRAKCI-AKHISAR (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.27",
-    "Saat":"08:36:31",
     "Enlem":39.098,
     "Boylam":28.0713,
     "Derinlik":11.8,
@@ -8491,12 +8491,12 @@
   },
   {
     "Tarih":"2025.11.27",
-    "Saat":"08:32:57",
-    "Enlem":39.1083,
-    "Boylam":28.163,
-    "Derinlik":22.2,
-    "ML":"1.2",
-    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Saat":"08:36:31",
+    "Enlem":39.1,
+    "Boylam":28.0723,
+    "Derinlik":12.0,
+    "ML":"1.3",
+    "Yer":"SAGRAKCI-AKHISAR (MANISA)",
     "Cozum":"İlksel"
   },
   {
@@ -8506,6 +8506,16 @@
     "Boylam":28.1633,
     "Derinlik":22.1,
     "ML":"1.3",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.27",
+    "Saat":"08:32:57",
+    "Enlem":39.1083,
+    "Boylam":28.163,
+    "Derinlik":22.2,
+    "ML":"1.2",
     "Yer":"KINIK-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
@@ -8622,16 +8632,6 @@
   {
     "Tarih":"2025.11.27",
     "Saat":"06:46:44",
-    "Enlem":39.313,
-    "Boylam":25.4985,
-    "Derinlik":11.8,
-    "ML":"2.5",
-    "Yer":"EGE DENIZI",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.27",
-    "Saat":"06:46:44",
     "Enlem":39.3092,
     "Boylam":25.504,
     "Derinlik":12.0,
@@ -8641,12 +8641,12 @@
   },
   {
     "Tarih":"2025.11.27",
-    "Saat":"06:38:23",
-    "Enlem":39.1462,
-    "Boylam":28.2808,
-    "Derinlik":8.6,
-    "ML":"1.9",
-    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Saat":"06:46:44",
+    "Enlem":39.313,
+    "Boylam":25.4985,
+    "Derinlik":11.8,
+    "ML":"2.5",
+    "Yer":"EGE DENIZI",
     "Cozum":"İlksel"
   },
   {
@@ -8656,6 +8656,16 @@
     "Boylam":28.2745,
     "Derinlik":8.7,
     "ML":"1.8",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.27",
+    "Saat":"06:38:23",
+    "Enlem":39.1462,
+    "Boylam":28.2808,
+    "Derinlik":8.6,
+    "ML":"1.9",
     "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
@@ -8782,16 +8792,6 @@
   {
     "Tarih":"2025.11.27",
     "Saat":"05:43:08",
-    "Enlem":38.3702,
-    "Boylam":37.4848,
-    "Derinlik":10.3,
-    "ML":"1.3",
-    "Yer":"YALINTAS-ELBISTAN (KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.27",
-    "Saat":"05:43:08",
     "Enlem":38.3718,
     "Boylam":37.4282,
     "Derinlik":9.3,
@@ -8801,12 +8801,12 @@
   },
   {
     "Tarih":"2025.11.27",
-    "Saat":"05:33:03",
-    "Enlem":38.5018,
-    "Boylam":38.0495,
-    "Derinlik":8.0,
-    "ML":"1.4",
-    "Yer":"ILICAK-AKCADAG (MALATYA)",
+    "Saat":"05:43:08",
+    "Enlem":38.3702,
+    "Boylam":37.4848,
+    "Derinlik":10.3,
+    "ML":"1.3",
+    "Yer":"YALINTAS-ELBISTAN (KAHRAMANMARAS)",
     "Cozum":"İlksel"
   },
   {
@@ -8821,12 +8821,12 @@
   },
   {
     "Tarih":"2025.11.27",
-    "Saat":"05:28:56",
-    "Enlem":39.0528,
-    "Boylam":28.2422,
-    "Derinlik":9.2,
-    "ML":"1.7",
-    "Yer":"DUTLUCA-GORDES (MANISA)",
+    "Saat":"05:33:03",
+    "Enlem":38.5018,
+    "Boylam":38.0495,
+    "Derinlik":8.0,
+    "ML":"1.4",
+    "Yer":"ILICAK-AKCADAG (MALATYA)",
     "Cozum":"İlksel"
   },
   {
@@ -8841,12 +8841,12 @@
   },
   {
     "Tarih":"2025.11.27",
-    "Saat":"05:23:37",
-    "Enlem":40.7973,
-    "Boylam":30.9772,
-    "Derinlik":12.7,
-    "ML":"1.4",
-    "Yer":"YAZLIK-GOLYAKA (DUZCE)",
+    "Saat":"05:28:56",
+    "Enlem":39.0528,
+    "Boylam":28.2422,
+    "Derinlik":9.2,
+    "ML":"1.7",
+    "Yer":"DUTLUCA-GORDES (MANISA)",
     "Cozum":"İlksel"
   },
   {
@@ -8855,6 +8855,16 @@
     "Enlem":40.799,
     "Boylam":30.9772,
     "Derinlik":13.2,
+    "ML":"1.4",
+    "Yer":"YAZLIK-GOLYAKA (DUZCE)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.27",
+    "Saat":"05:23:37",
+    "Enlem":40.7973,
+    "Boylam":30.9772,
+    "Derinlik":12.7,
     "ML":"1.4",
     "Yer":"YAZLIK-GOLYAKA (DUZCE)",
     "Cozum":"İlksel"
@@ -8972,9 +8982,9 @@
   {
     "Tarih":"2025.11.27",
     "Saat":"04:33:53",
-    "Enlem":37.1377,
-    "Boylam":36.6875,
-    "Derinlik":5.0,
+    "Enlem":37.129,
+    "Boylam":36.6978,
+    "Derinlik":3.4,
     "ML":"1.1",
     "Yer":"KARABURCLU-NURDAGI (GAZIANTEP)",
     "Cozum":"İlksel"
@@ -8982,9 +8992,9 @@
   {
     "Tarih":"2025.11.27",
     "Saat":"04:33:53",
-    "Enlem":37.129,
-    "Boylam":36.6978,
-    "Derinlik":3.4,
+    "Enlem":37.1377,
+    "Boylam":36.6875,
+    "Derinlik":5.0,
     "ML":"1.1",
     "Yer":"KARABURCLU-NURDAGI (GAZIANTEP)",
     "Cozum":"İlksel"
@@ -9102,20 +9112,20 @@
   {
     "Tarih":"2025.11.27",
     "Saat":"03:41:23",
-    "Enlem":39.2013,
-    "Boylam":28.3102,
-    "Derinlik":7.6,
-    "ML":"1.7",
+    "Enlem":39.1992,
+    "Boylam":28.3073,
+    "Derinlik":7.5,
+    "ML":"1.9",
     "Yer":"ASLANDEDE-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2025.11.27",
     "Saat":"03:41:23",
-    "Enlem":39.1992,
-    "Boylam":28.3073,
-    "Derinlik":7.5,
-    "ML":"1.9",
+    "Enlem":39.2013,
+    "Boylam":28.3102,
+    "Derinlik":7.6,
+    "ML":"1.7",
     "Yer":"ASLANDEDE-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
@@ -9132,21 +9142,21 @@
   {
     "Tarih":"2025.11.27",
     "Saat":"03:36:09",
-    "Enlem":40.4023,
-    "Boylam":28.8813,
-    "Derinlik":13.5,
-    "ML":"1.4",
-    "Yer":"MUDANYA (BURSA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.27",
-    "Saat":"03:36:09",
     "Enlem":40.4048,
     "Boylam":28.8817,
     "Derinlik":13.4,
     "ML":"1.4",
     "Yer":"GEMLIK KORFEZI (MARMARA DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.27",
+    "Saat":"03:36:09",
+    "Enlem":40.4023,
+    "Boylam":28.8813,
+    "Derinlik":13.5,
+    "ML":"1.4",
+    "Yer":"MUDANYA (BURSA)",
     "Cozum":"İlksel"
   },
   {
@@ -9252,16 +9262,6 @@
   {
     "Tarih":"2025.11.27",
     "Saat":"02:34:28",
-    "Enlem":39.1577,
-    "Boylam":28.2135,
-    "Derinlik":12.8,
-    "ML":"1.2",
-    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.27",
-    "Saat":"02:34:28",
     "Enlem":39.1683,
     "Boylam":28.2147,
     "Derinlik":13.0,
@@ -9271,12 +9271,12 @@
   },
   {
     "Tarih":"2025.11.27",
-    "Saat":"02:28:13",
-    "Enlem":39.062,
-    "Boylam":28.246,
-    "Derinlik":11.8,
-    "ML":"1.7",
-    "Yer":"DUTLUCA-GORDES (MANISA)",
+    "Saat":"02:34:28",
+    "Enlem":39.1577,
+    "Boylam":28.2135,
+    "Derinlik":12.8,
+    "ML":"1.2",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -9286,6 +9286,16 @@
     "Boylam":28.2455,
     "Derinlik":11.9,
     "ML":"1.6",
+    "Yer":"DUTLUCA-GORDES (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.27",
+    "Saat":"02:28:13",
+    "Enlem":39.062,
+    "Boylam":28.246,
+    "Derinlik":11.8,
+    "ML":"1.7",
     "Yer":"DUTLUCA-GORDES (MANISA)",
     "Cozum":"İlksel"
   },
@@ -9432,9 +9442,9 @@
   {
     "Tarih":"2025.11.27",
     "Saat":"01:39:20",
-    "Enlem":39.1647,
-    "Boylam":28.143,
-    "Derinlik":8.8,
+    "Enlem":39.166,
+    "Boylam":28.1428,
+    "Derinlik":8.7,
     "ML":"1.6",
     "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
@@ -9442,9 +9452,9 @@
   {
     "Tarih":"2025.11.27",
     "Saat":"01:39:20",
-    "Enlem":39.166,
-    "Boylam":28.1428,
-    "Derinlik":8.7,
+    "Enlem":39.1647,
+    "Boylam":28.143,
+    "Derinlik":8.8,
     "ML":"1.6",
     "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
@@ -9987,16 +9997,6 @@
     "Derinlik":6.2,
     "ML":"1.9",
     "Yer":"GAZIKOY-SARKOY (TEKIRDAG)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.26",
-    "Saat":"17:00:11",
-    "Enlem":39.1812,
-    "Boylam":28.2062,
-    "Derinlik":12.4,
-    "ML":"1.7",
-    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
