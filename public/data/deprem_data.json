@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2025.12.06",
+    "Saat":"16:55:41",
+    "Enlem":39.1823,
+    "Boylam":28.1668,
+    "Derinlik":12.7,
+    "ML":"1.7",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.06",
     "Saat":"16:54:20",
     "Enlem":36.2582,
     "Boylam":28.5485,
@@ -6162,22 +6172,22 @@
   {
     "Tarih":"2025.12.01",
     "Saat":"12:15:49",
-    "Enlem":39.2012,
-    "Boylam":29.0287,
-    "Derinlik":22.6,
-    "ML":"0.7",
-    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.01",
-    "Saat":"12:15:49",
     "Enlem":39.2645,
     "Boylam":29.057,
     "Derinlik":18.0,
     "ML":"0.7",
     "Yer":"KATRANDAGI-EMET (KUTAHYA) REVIZE01 (2025.12.01",
     "Cozum":"12:15:49)"
+  },
+  {
+    "Tarih":"2025.12.01",
+    "Saat":"12:15:49",
+    "Enlem":39.2012,
+    "Boylam":29.0287,
+    "Derinlik":22.6,
+    "ML":"0.7",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
   },
   {
     "Tarih":"2025.12.01",
@@ -9863,16 +9873,6 @@
     "Tarih":"2025.11.28",
     "Saat":"08:14:43",
     "Enlem":39.223,
-    "Boylam":28.9935,
-    "Derinlik":16.5,
-    "ML":"1.3",
-    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.28",
-    "Saat":"08:14:43",
-    "Enlem":39.223,
     "Boylam":28.9872,
     "Derinlik":16.4,
     "ML":"1.2",
@@ -9881,12 +9881,12 @@
   },
   {
     "Tarih":"2025.11.28",
-    "Saat":"08:14:09",
-    "Enlem":38.3092,
-    "Boylam":30.4768,
-    "Derinlik":9.4,
-    "ML":"1.8",
-    "Yer":"GOCERLI-DINAR (AFYONKARAHISAR)",
+    "Saat":"08:14:43",
+    "Enlem":39.223,
+    "Boylam":28.9935,
+    "Derinlik":16.5,
+    "ML":"1.3",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   },
   {
@@ -9897,6 +9897,16 @@
     "Derinlik":10.4,
     "ML":"1.7",
     "Yer":"YIPRAK-DINAR (AFYONKARAHISAR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.28",
+    "Saat":"08:14:09",
+    "Enlem":38.3092,
+    "Boylam":30.4768,
+    "Derinlik":9.4,
+    "ML":"1.8",
+    "Yer":"GOCERLI-DINAR (AFYONKARAHISAR)",
     "Cozum":"İlksel"
   },
   {
@@ -9987,16 +9997,6 @@
     "Derinlik":5.4,
     "ML":"3.4",
     "Yer":"YEMISLI-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.28",
-    "Saat":"07:41:12",
-    "Enlem":37.3425,
-    "Boylam":36.2927,
-    "Derinlik":6.6,
-    "ML":"2.9",
-    "Yer":"CERCIOGLU-DUZICI (OSMANIYE)",
     "Cozum":"İlksel"
   }
 ]
