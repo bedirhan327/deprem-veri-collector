@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2025.12.06",
+    "Saat":"14:25:07",
+    "Enlem":36.9293,
+    "Boylam":29.699,
+    "Derinlik":11.1,
+    "ML":"2.0",
+    "Yer":"CALTILAR-FETHIYE (MUGLA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.06",
     "Saat":"14:22:08",
     "Enlem":36.9563,
     "Boylam":29.7172,
@@ -9743,9 +9753,9 @@
     "Tarih":"2025.11.28",
     "Saat":"08:14:43",
     "Enlem":39.223,
-    "Boylam":28.9935,
-    "Derinlik":16.5,
-    "ML":"1.3",
+    "Boylam":28.9872,
+    "Derinlik":16.4,
+    "ML":"1.2",
     "Yer":"YEMISLI-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   },
@@ -9753,9 +9763,9 @@
     "Tarih":"2025.11.28",
     "Saat":"08:14:43",
     "Enlem":39.223,
-    "Boylam":28.9872,
-    "Derinlik":16.4,
-    "ML":"1.2",
+    "Boylam":28.9935,
+    "Derinlik":16.5,
+    "ML":"1.3",
     "Yer":"YEMISLI-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   },
@@ -9872,21 +9882,21 @@
   {
     "Tarih":"2025.11.28",
     "Saat":"07:41:12",
-    "Enlem":37.3425,
-    "Boylam":36.2927,
-    "Derinlik":6.6,
-    "ML":"2.9",
-    "Yer":"CERCIOGLU-DUZICI (OSMANIYE)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.28",
-    "Saat":"07:41:12",
     "Enlem":37.3498,
     "Boylam":36.2845,
     "Derinlik":7.0,
     "ML":"3.0",
     "Yer":"KIYIKCI-ANDIRIN (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.11.28",
+    "Saat":"07:41:12",
+    "Enlem":37.3425,
+    "Boylam":36.2927,
+    "Derinlik":6.6,
+    "ML":"2.9",
+    "Yer":"CERCIOGLU-DUZICI (OSMANIYE)",
     "Cozum":"İlksel"
   },
   {
@@ -9987,16 +9997,6 @@
     "Derinlik":9.9,
     "ML":"1.5",
     "Yer":"EPREME-YAZIHAN (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.11.28",
-    "Saat":"07:06:02",
-    "Enlem":39.1745,
-    "Boylam":28.1507,
-    "Derinlik":9.8,
-    "ML":"3.5",
-    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
