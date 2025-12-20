@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.20",
+    "Saat":"16:46:15",
+    "Enlem":39.0445,
+    "Boylam":25.9492,
+    "Derinlik":5.4,
+    "ML":"2.5",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.20",
+    "Saat":"16:45:47",
+    "Enlem":36.6897,
+    "Boylam":28.1033,
+    "Derinlik":7.8,
+    "ML":"1.8",
+    "Yer":"SELIMIYE-MARMARIS (MUGLA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.20",
     "Saat":"16:06:52",
     "Enlem":39.2387,
     "Boylam":28.9467,
@@ -1682,22 +1702,22 @@
   {
     "Tarih":"2025.12.19",
     "Saat":"02:32:11",
-    "Enlem":40.3997,
-    "Boylam":27.1857,
-    "Derinlik":13.3,
-    "ML":"1.4",
-    "Yer":"ORTULUCE-BIGA (CANAKKALE) REVIZE01 (2025.12.19",
-    "Cozum":"02:32:11)"
-  },
-  {
-    "Tarih":"2025.12.19",
-    "Saat":"02:32:11",
     "Enlem":40.3995,
     "Boylam":27.1855,
     "Derinlik":13.2,
     "ML":"1.7",
     "Yer":"ORTULUCE-BIGA (CANAKKALE)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"02:32:11",
+    "Enlem":40.3997,
+    "Boylam":27.1857,
+    "Derinlik":13.3,
+    "ML":"1.4",
+    "Yer":"ORTULUCE-BIGA (CANAKKALE) REVIZE01 (2025.12.19",
+    "Cozum":"02:32:11)"
   },
   {
     "Tarih":"2025.12.19",
@@ -9977,26 +9997,6 @@
     "Derinlik":24.7,
     "ML":"1.7",
     "Yer":"YAGCA-HEKIMHAN (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.12",
-    "Saat":"07:57:36",
-    "Enlem":39.1835,
-    "Boylam":28.2057,
-    "Derinlik":18.8,
-    "ML":"1.0",
-    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.12",
-    "Saat":"07:54:39",
-    "Enlem":37.2823,
-    "Boylam":30.9152,
-    "Derinlik":112.7,
-    "ML":"2.4",
-    "Yer":"BOZDOGAN-SERIK (ANTALYA)",
     "Cozum":"İlksel"
   }
 ]
