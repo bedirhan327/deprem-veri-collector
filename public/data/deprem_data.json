@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.21",
+    "Saat":"01:29:50",
+    "Enlem":38.0075,
+    "Boylam":36.6195,
+    "Derinlik":4.7,
+    "ML":"1.8",
+    "Yer":"ELMALI-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"01:29:35",
+    "Enlem":39.2452,
+    "Boylam":28.1288,
+    "Derinlik":7.6,
+    "ML":"2.2",
+    "Yer":"IBILLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"01:24:41",
+    "Enlem":39.1705,
+    "Boylam":28.2105,
+    "Derinlik":12.9,
+    "ML":"1.1",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.21",
     "Saat":"01:11:21",
     "Enlem":39.089,
     "Boylam":28.3225,
@@ -5682,9 +5712,9 @@
   {
     "Tarih":"2025.12.16",
     "Saat":"02:40:06",
-    "Enlem":36.6155,
-    "Boylam":28.0575,
-    "Derinlik":80.5,
+    "Enlem":36.6317,
+    "Boylam":28.0753,
+    "Derinlik":80.4,
     "ML":"1.7",
     "Yer":"TASLICA-MARMARIS (MUGLA)",
     "Cozum":"İlksel"
@@ -5692,9 +5722,9 @@
   {
     "Tarih":"2025.12.16",
     "Saat":"02:40:06",
-    "Enlem":36.6317,
-    "Boylam":28.0753,
-    "Derinlik":80.4,
+    "Enlem":36.6155,
+    "Boylam":28.0575,
+    "Derinlik":80.5,
     "ML":"1.7",
     "Yer":"TASLICA-MARMARIS (MUGLA)",
     "Cozum":"İlksel"
@@ -9967,36 +9997,6 @@
     "Derinlik":0.0,
     "ML":"1.4",
     "Yer":"CAVDIR-SOMA (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.12",
-    "Saat":"12:39:09",
-    "Enlem":40.3517,
-    "Boylam":27.1597,
-    "Derinlik":16.0,
-    "ML":"2.5",
-    "Yer":"KARAPURCEK-BIGA (CANAKKALE)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.12",
-    "Saat":"12:27:07",
-    "Enlem":39.1918,
-    "Boylam":28.3055,
-    "Derinlik":9.8,
-    "ML":"2.1",
-    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.12",
-    "Saat":"12:07:22",
-    "Enlem":39.8777,
-    "Boylam":26.261,
-    "Derinlik":5.0,
-    "ML":"1.3",
-    "Yer":"PINARBASI-EZINE (CANAKKALE)",
     "Cozum":"İlksel"
   }
 ]
