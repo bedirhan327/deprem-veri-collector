@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.21",
+    "Saat":"03:46:49",
+    "Enlem":38.1395,
+    "Boylam":37.0163,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"ORTAKLI-AFSIN (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"03:33:15",
+    "Enlem":39.148,
+    "Boylam":28.06,
+    "Derinlik":9.6,
+    "ML":"1.6",
+    "Yer":"ISACA-AKHISAR (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"03:24:08",
+    "Enlem":39.168,
+    "Boylam":28.222,
+    "Derinlik":8.8,
+    "ML":"1.9",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.21",
     "Saat":"02:24:35",
     "Enlem":39.1992,
     "Boylam":28.1505,
@@ -2092,22 +2122,22 @@
   {
     "Tarih":"2025.12.19",
     "Saat":"02:32:11",
-    "Enlem":40.3997,
-    "Boylam":27.1857,
-    "Derinlik":13.3,
-    "ML":"1.4",
-    "Yer":"ORTULUCE-BIGA (CANAKKALE) REVIZE01 (2025.12.19",
-    "Cozum":"02:32:11)"
-  },
-  {
-    "Tarih":"2025.12.19",
-    "Saat":"02:32:11",
     "Enlem":40.3995,
     "Boylam":27.1855,
     "Derinlik":13.2,
     "ML":"1.7",
     "Yer":"ORTULUCE-BIGA (CANAKKALE)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"02:32:11",
+    "Enlem":40.3997,
+    "Boylam":27.1857,
+    "Derinlik":13.3,
+    "ML":"1.4",
+    "Yer":"ORTULUCE-BIGA (CANAKKALE) REVIZE01 (2025.12.19",
+    "Cozum":"02:32:11)"
   },
   {
     "Tarih":"2025.12.19",
@@ -9967,36 +9997,6 @@
     "Derinlik":7.9,
     "ML":"2.1",
     "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.12",
-    "Saat":"13:47:14",
-    "Enlem":39.1762,
-    "Boylam":28.3128,
-    "Derinlik":7.9,
-    "ML":"1.7",
-    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.12",
-    "Saat":"13:43:46",
-    "Enlem":39.181,
-    "Boylam":28.3102,
-    "Derinlik":10.7,
-    "ML":"1.2",
-    "Yer":"BUYUKDAGDERE-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.12",
-    "Saat":"13:37:14",
-    "Enlem":37.0547,
-    "Boylam":36.645,
-    "Derinlik":11.8,
-    "ML":"2.4",
-    "Yer":"TURKBAHCE-ISLAHIYE (GAZIANTEP)",
     "Cozum":"İlksel"
   }
 ]
