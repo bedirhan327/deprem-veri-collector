@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2025.12.21",
+    "Saat":"17:35:04",
+    "Enlem":38.1878,
+    "Boylam":38.355,
+    "Derinlik":20.5,
+    "ML":"1.2",
+    "Yer":"ONCU-YESILYURT (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.21",
     "Saat":"17:09:21",
     "Enlem":39.206,
     "Boylam":28.1032,
@@ -2602,22 +2612,22 @@
   {
     "Tarih":"2025.12.19",
     "Saat":"02:32:11",
-    "Enlem":40.3997,
-    "Boylam":27.1857,
-    "Derinlik":13.3,
-    "ML":"1.4",
-    "Yer":"ORTULUCE-BIGA (CANAKKALE) REVIZE01 (2025.12.19",
-    "Cozum":"02:32:11)"
-  },
-  {
-    "Tarih":"2025.12.19",
-    "Saat":"02:32:11",
     "Enlem":40.3995,
     "Boylam":27.1855,
     "Derinlik":13.2,
     "ML":"1.7",
     "Yer":"ORTULUCE-BIGA (CANAKKALE)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"02:32:11",
+    "Enlem":40.3997,
+    "Boylam":27.1857,
+    "Derinlik":13.3,
+    "ML":"1.4",
+    "Yer":"ORTULUCE-BIGA (CANAKKALE) REVIZE01 (2025.12.19",
+    "Cozum":"02:32:11)"
   },
   {
     "Tarih":"2025.12.19",
@@ -6282,9 +6292,9 @@
   {
     "Tarih":"2025.12.16",
     "Saat":"02:40:06",
-    "Enlem":36.6317,
-    "Boylam":28.0753,
-    "Derinlik":80.4,
+    "Enlem":36.6155,
+    "Boylam":28.0575,
+    "Derinlik":80.5,
     "ML":"1.7",
     "Yer":"TASLICA-MARMARIS (MUGLA)",
     "Cozum":"İlksel"
@@ -6292,9 +6302,9 @@
   {
     "Tarih":"2025.12.16",
     "Saat":"02:40:06",
-    "Enlem":36.6155,
-    "Boylam":28.0575,
-    "Derinlik":80.5,
+    "Enlem":36.6317,
+    "Boylam":28.0753,
+    "Derinlik":80.4,
     "ML":"1.7",
     "Yer":"TASLICA-MARMARIS (MUGLA)",
     "Cozum":"İlksel"
@@ -9987,16 +9997,6 @@
     "Derinlik":15.4,
     "ML":"2.5",
     "Yer":"EGE DENIZI",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.12",
-    "Saat":"19:27:14",
-    "Enlem":39.1878,
-    "Boylam":28.2142,
-    "Derinlik":13.2,
-    "ML":"2.0",
-    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
