@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2025.12.21",
+    "Saat":"13:25:41",
+    "Enlem":39.2453,
+    "Boylam":29.0275,
+    "Derinlik":5.2,
+    "ML":"0.6",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.21",
     "Saat":"13:05:52",
     "Enlem":36.8837,
     "Boylam":34.6037,
     "Derinlik":11.2,
     "ML":"2.5",
     "Yer":"RESULKOY-TOROSLAR (MERSIN)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"12:57:23",
+    "Enlem":39.9123,
+    "Boylam":40.0463,
+    "Derinlik":16.2,
+    "ML":"2.0",
+    "Yer":"BOLUKOVA-CAYIRLI (ERZINCAN)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"12:41:14",
+    "Enlem":37.9342,
+    "Boylam":27.5483,
+    "Derinlik":14.9,
+    "ML":"1.5",
+    "Yer":"ABDURRAHMANLAR-GERMENCIK (AYDIN)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.21",
+    "Saat":"12:27:16",
+    "Enlem":38.9287,
+    "Boylam":37.9027,
+    "Derinlik":6.1,
+    "ML":"1.9",
+    "Yer":"CULHALI-HEKIMHAN (MALATYA)",
     "Cozum":"İlksel"
   },
   {
@@ -2392,22 +2432,22 @@
   {
     "Tarih":"2025.12.19",
     "Saat":"02:32:11",
-    "Enlem":40.3997,
-    "Boylam":27.1857,
-    "Derinlik":13.3,
-    "ML":"1.4",
-    "Yer":"ORTULUCE-BIGA (CANAKKALE) REVIZE01 (2025.12.19",
-    "Cozum":"02:32:11)"
-  },
-  {
-    "Tarih":"2025.12.19",
-    "Saat":"02:32:11",
     "Enlem":40.3995,
     "Boylam":27.1855,
     "Derinlik":13.2,
     "ML":"1.7",
     "Yer":"ORTULUCE-BIGA (CANAKKALE)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"02:32:11",
+    "Enlem":40.3997,
+    "Boylam":27.1857,
+    "Derinlik":13.3,
+    "ML":"1.4",
+    "Yer":"ORTULUCE-BIGA (CANAKKALE) REVIZE01 (2025.12.19",
+    "Cozum":"02:32:11)"
   },
   {
     "Tarih":"2025.12.19",
@@ -9957,46 +9997,6 @@
     "Derinlik":4.8,
     "ML":"1.6",
     "Yer":"POYRACIK-DURSUNBEY (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.12",
-    "Saat":"18:00:34",
-    "Enlem":38.7693,
-    "Boylam":37.9538,
-    "Derinlik":2.1,
-    "ML":"2.3",
-    "Yer":"HEKIMHAN (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.12",
-    "Saat":"17:55:48",
-    "Enlem":39.2547,
-    "Boylam":29.0448,
-    "Derinlik":8.5,
-    "ML":"2.0",
-    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.12",
-    "Saat":"17:53:02",
-    "Enlem":38.7657,
-    "Boylam":37.9643,
-    "Derinlik":7.5,
-    "ML":"1.8",
-    "Yer":"DUMLU-HEKIMHAN (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.12",
-    "Saat":"17:48:33",
-    "Enlem":39.1725,
-    "Boylam":28.2973,
-    "Derinlik":14.3,
-    "ML":"2.1",
-    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
