@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.22",
+    "Saat":"12:38:37",
+    "Enlem":39.1218,
+    "Boylam":28.2995,
+    "Derinlik":16.4,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"12:23:51",
+    "Enlem":38.6165,
+    "Boylam":39.2955,
+    "Derinlik":5.4,
+    "ML":"1.2",
+    "Yer":"YAZIKONAK-(ELAZIG)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.22",
     "Saat":"12:18:54",
     "Enlem":37.353,
     "Boylam":40.4153,
@@ -17,6 +37,16 @@
     "Derinlik":5.0,
     "ML":"1.2",
     "Yer":"CAKIRLAR-(KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"11:50:29",
+    "Enlem":38.1328,
+    "Boylam":38.3987,
+    "Derinlik":14.9,
+    "ML":"1.2",
+    "Yer":"SALKONAK-YESILYURT (MALATYA)",
     "Cozum":"İlksel"
   },
   {
@@ -3302,22 +3332,22 @@
   {
     "Tarih":"2025.12.19",
     "Saat":"02:32:11",
-    "Enlem":40.3995,
-    "Boylam":27.1855,
-    "Derinlik":13.2,
-    "ML":"1.7",
-    "Yer":"ORTULUCE-BIGA (CANAKKALE)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.19",
-    "Saat":"02:32:11",
     "Enlem":40.3997,
     "Boylam":27.1857,
     "Derinlik":13.3,
     "ML":"1.4",
     "Yer":"ORTULUCE-BIGA (CANAKKALE) REVIZE01 (2025.12.19",
     "Cozum":"02:32:11)"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"02:32:11",
+    "Enlem":40.3995,
+    "Boylam":27.1855,
+    "Derinlik":13.2,
+    "ML":"1.7",
+    "Yer":"ORTULUCE-BIGA (CANAKKALE)",
+    "Cozum":"İlksel"
   },
   {
     "Tarih":"2025.12.19",
@@ -6982,9 +7012,9 @@
   {
     "Tarih":"2025.12.16",
     "Saat":"02:40:06",
-    "Enlem":36.6317,
-    "Boylam":28.0753,
-    "Derinlik":80.4,
+    "Enlem":36.6155,
+    "Boylam":28.0575,
+    "Derinlik":80.5,
     "ML":"1.7",
     "Yer":"TASLICA-MARMARIS (MUGLA)",
     "Cozum":"İlksel"
@@ -6992,9 +7022,9 @@
   {
     "Tarih":"2025.12.16",
     "Saat":"02:40:06",
-    "Enlem":36.6155,
-    "Boylam":28.0575,
-    "Derinlik":80.5,
+    "Enlem":36.6317,
+    "Boylam":28.0753,
+    "Derinlik":80.4,
     "ML":"1.7",
     "Yer":"TASLICA-MARMARIS (MUGLA)",
     "Cozum":"İlksel"
@@ -9967,36 +9997,6 @@
     "Derinlik":4.5,
     "ML":"1.2",
     "Yer":"KIBRIS RUM KESIMI",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.13",
-    "Saat":"06:21:33",
-    "Enlem":40.1012,
-    "Boylam":23.6593,
-    "Derinlik":5.0,
-    "ML":"2.2",
-    "Yer":"YUNANISTAN",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.13",
-    "Saat":"06:13:12",
-    "Enlem":40.1175,
-    "Boylam":23.676,
-    "Derinlik":5.0,
-    "ML":"1.9",
-    "Yer":"YUNANISTAN",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.13",
-    "Saat":"06:06:36",
-    "Enlem":39.9705,
-    "Boylam":23.6978,
-    "Derinlik":21.1,
-    "ML":"3.2",
-    "Yer":"YUNANISTAN",
     "Cozum":"İlksel"
   }
 ]
