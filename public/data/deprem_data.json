@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.22",
+    "Saat":"09:39:08",
+    "Enlem":39.8168,
+    "Boylam":25.7515,
+    "Derinlik":12.0,
+    "ML":"1.4",
+    "Yer":"EGE DENIZI",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"09:13:23",
+    "Enlem":39.3623,
+    "Boylam":44.0512,
+    "Derinlik":15.8,
+    "ML":"1.8",
+    "Yer":"KIZILKAYA-DOGUBAYAZIT (AGRI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"09:04:13",
+    "Enlem":36.6835,
+    "Boylam":28.2497,
+    "Derinlik":55.7,
+    "ML":"1.7",
+    "Yer":"OSMANIYE-MARMARIS (MUGLA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.22",
     "Saat":"08:40:50",
     "Enlem":39.2202,
     "Boylam":28.1282,
@@ -3152,22 +3182,22 @@
   {
     "Tarih":"2025.12.19",
     "Saat":"02:32:11",
-    "Enlem":40.3997,
-    "Boylam":27.1857,
-    "Derinlik":13.3,
-    "ML":"1.4",
-    "Yer":"ORTULUCE-BIGA (CANAKKALE) REVIZE01 (2025.12.19",
-    "Cozum":"02:32:11)"
-  },
-  {
-    "Tarih":"2025.12.19",
-    "Saat":"02:32:11",
     "Enlem":40.3995,
     "Boylam":27.1855,
     "Derinlik":13.2,
     "ML":"1.7",
     "Yer":"ORTULUCE-BIGA (CANAKKALE)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"02:32:11",
+    "Enlem":40.3997,
+    "Boylam":27.1857,
+    "Derinlik":13.3,
+    "ML":"1.4",
+    "Yer":"ORTULUCE-BIGA (CANAKKALE) REVIZE01 (2025.12.19",
+    "Cozum":"02:32:11)"
   },
   {
     "Tarih":"2025.12.19",
@@ -9967,36 +9997,6 @@
     "Derinlik":4.9,
     "ML":"1.2",
     "Yer":"DUMLU-HEKIMHAN (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.13",
-    "Saat":"04:47:32",
-    "Enlem":39.1995,
-    "Boylam":28.1213,
-    "Derinlik":8.2,
-    "ML":"2.0",
-    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.13",
-    "Saat":"04:42:37",
-    "Enlem":39.0908,
-    "Boylam":28.2758,
-    "Derinlik":13.5,
-    "ML":"1.0",
-    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.13",
-    "Saat":"04:36:24",
-    "Enlem":40.3547,
-    "Boylam":24.0802,
-    "Derinlik":5.7,
-    "ML":"1.2",
-    "Yer":"YUNANISTAN",
     "Cozum":"İlksel"
   }
 ]
