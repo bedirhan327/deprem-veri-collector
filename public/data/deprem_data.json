@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2025.12.22",
+    "Saat":"03:40:32",
+    "Enlem":39.2475,
+    "Boylam":28.9948,
+    "Derinlik":8.6,
+    "ML":"1.7",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"03:25:06",
+    "Enlem":39.2067,
+    "Boylam":28.1772,
+    "Derinlik":6.9,
+    "ML":"1.5",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"03:16:45",
+    "Enlem":38.0398,
+    "Boylam":37.4075,
+    "Derinlik":1.3,
+    "ML":"1.6",
+    "Yer":"AGCASAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"03:05:21",
+    "Enlem":39.2057,
+    "Boylam":28.1208,
+    "Derinlik":11.7,
+    "ML":"2.2",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.22",
+    "Saat":"02:54:45",
+    "Enlem":39.1733,
+    "Boylam":28.2733,
+    "Derinlik":9.4,
+    "ML":"1.4",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.22",
     "Saat":"01:26:47",
     "Enlem":39.2425,
     "Boylam":27.9357,
@@ -2952,22 +3002,22 @@
   {
     "Tarih":"2025.12.19",
     "Saat":"02:32:11",
-    "Enlem":40.3995,
-    "Boylam":27.1855,
-    "Derinlik":13.2,
-    "ML":"1.7",
-    "Yer":"ORTULUCE-BIGA (CANAKKALE)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.19",
-    "Saat":"02:32:11",
     "Enlem":40.3997,
     "Boylam":27.1857,
     "Derinlik":13.3,
     "ML":"1.4",
     "Yer":"ORTULUCE-BIGA (CANAKKALE) REVIZE01 (2025.12.19",
     "Cozum":"02:32:11)"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"02:32:11",
+    "Enlem":40.3995,
+    "Boylam":27.1855,
+    "Derinlik":13.2,
+    "ML":"1.7",
+    "Yer":"ORTULUCE-BIGA (CANAKKALE)",
+    "Cozum":"İlksel"
   },
   {
     "Tarih":"2025.12.19",
@@ -9947,56 +9997,6 @@
     "Derinlik":5.0,
     "ML":"2.1",
     "Yer":"DUMLU-HEKIMHAN (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.13",
-    "Saat":"02:18:59",
-    "Enlem":38.3063,
-    "Boylam":38.199,
-    "Derinlik":7.0,
-    "ML":"1.4",
-    "Yer":"IKIZCE-YESILYURT (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.13",
-    "Saat":"02:08:40",
-    "Enlem":39.8492,
-    "Boylam":39.7285,
-    "Derinlik":11.5,
-    "ML":"1.6",
-    "Yer":"TURNACAYIRI-CAYIRLI (ERZINCAN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.13",
-    "Saat":"01:59:16",
-    "Enlem":39.1373,
-    "Boylam":28.16,
-    "Derinlik":5.1,
-    "ML":"1.2",
-    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.13",
-    "Saat":"01:57:28",
-    "Enlem":38.5477,
-    "Boylam":39.5263,
-    "Derinlik":8.9,
-    "ML":"1.2",
-    "Yer":"KUCUKOVA-MADEN (ELAZIG)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.13",
-    "Saat":"01:17:09",
-    "Enlem":38.1083,
-    "Boylam":37.0217,
-    "Derinlik":5.3,
-    "ML":"1.5",
-    "Yer":"CALIS-ELBISTAN (KAHRAMANMARAS)",
     "Cozum":"İlksel"
   }
 ]
