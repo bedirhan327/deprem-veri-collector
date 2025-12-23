@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2025.12.23",
+    "Saat":"19:16:56",
+    "Enlem":39.0533,
+    "Boylam":28.0928,
+    "Derinlik":12.4,
+    "ML":"1.1",
+    "Yer":"HANPASA-AKHISAR (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"18:53:09",
+    "Enlem":38.7362,
+    "Boylam":37.9683,
+    "Derinlik":5.3,
+    "ML":"1.7",
+    "Yer":"IPEKYOLU-HEKIMHAN (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.23",
     "Saat":"18:25:24",
     "Enlem":38.757,
     "Boylam":37.9495,
@@ -57,6 +77,16 @@
     "Derinlik":8.5,
     "ML":"1.8",
     "Yer":"KURUYAKA-TATVAN (BITLIS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"17:28:23",
+    "Enlem":35.0135,
+    "Boylam":26.2777,
+    "Derinlik":18.4,
+    "ML":"2.3",
+    "Yer":"GIRIT ADASI ACIKLARI (AKDENIZ)",
     "Cozum":"İlksel"
   },
   {
@@ -4522,22 +4552,22 @@
   {
     "Tarih":"2025.12.19",
     "Saat":"02:32:11",
-    "Enlem":40.3995,
-    "Boylam":27.1855,
-    "Derinlik":13.2,
-    "ML":"1.7",
-    "Yer":"ORTULUCE-BIGA (CANAKKALE)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.19",
-    "Saat":"02:32:11",
     "Enlem":40.3997,
     "Boylam":27.1857,
     "Derinlik":13.3,
     "ML":"1.4",
     "Yer":"ORTULUCE-BIGA (CANAKKALE) REVIZE01 (2025.12.19",
     "Cozum":"02:32:11)"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"02:32:11",
+    "Enlem":40.3995,
+    "Boylam":27.1855,
+    "Derinlik":13.2,
+    "ML":"1.7",
+    "Yer":"ORTULUCE-BIGA (CANAKKALE)",
+    "Cozum":"İlksel"
   },
   {
     "Tarih":"2025.12.19",
@@ -9967,36 +9997,6 @@
     "Derinlik":19.0,
     "ML":"1.4",
     "Yer":"YAYLAONU-EDREMIT (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.14",
-    "Saat":"06:24:16",
-    "Enlem":39.0382,
-    "Boylam":40.4355,
-    "Derinlik":5.1,
-    "ML":"1.4",
-    "Yer":"SUDUGUNU-(BINGOL)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.14",
-    "Saat":"06:23:38",
-    "Enlem":39.0835,
-    "Boylam":40.4503,
-    "Derinlik":5.1,
-    "ML":"1.6",
-    "Yer":"SUDUGUNU-(BINGOL)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.14",
-    "Saat":"06:16:37",
-    "Enlem":40.2825,
-    "Boylam":27.0518,
-    "Derinlik":13.9,
-    "ML":"1.6",
-    "Yer":"HISARLI-BIGA (CANAKKALE)",
     "Cozum":"İlksel"
   }
 ]
