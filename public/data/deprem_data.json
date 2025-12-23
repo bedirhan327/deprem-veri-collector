@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2025.12.23",
+    "Saat":"18:25:24",
+    "Enlem":38.757,
+    "Boylam":37.9495,
+    "Derinlik":5.0,
+    "ML":"2.0",
+    "Yer":"KOCAOZU-HEKIMHAN (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.23",
     "Saat":"18:02:59",
     "Enlem":39.0787,
     "Boylam":28.0668,
@@ -27,6 +37,16 @@
     "Derinlik":12.0,
     "ML":"1.6",
     "Yer":"SUNGULLU-(MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.23",
+    "Saat":"17:32:23",
+    "Enlem":38.4528,
+    "Boylam":42.59,
+    "Derinlik":8.5,
+    "ML":"1.8",
+    "Yer":"KURUYAKA-TATVAN (BITLIS)",
     "Cozum":"İlksel"
   },
   {
@@ -4492,22 +4512,22 @@
   {
     "Tarih":"2025.12.19",
     "Saat":"02:32:11",
-    "Enlem":40.3997,
-    "Boylam":27.1857,
-    "Derinlik":13.3,
-    "ML":"1.4",
-    "Yer":"ORTULUCE-BIGA (CANAKKALE) REVIZE01 (2025.12.19",
-    "Cozum":"02:32:11)"
-  },
-  {
-    "Tarih":"2025.12.19",
-    "Saat":"02:32:11",
     "Enlem":40.3995,
     "Boylam":27.1855,
     "Derinlik":13.2,
     "ML":"1.7",
     "Yer":"ORTULUCE-BIGA (CANAKKALE)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.19",
+    "Saat":"02:32:11",
+    "Enlem":40.3997,
+    "Boylam":27.1857,
+    "Derinlik":13.3,
+    "ML":"1.4",
+    "Yer":"ORTULUCE-BIGA (CANAKKALE) REVIZE01 (2025.12.19",
+    "Cozum":"02:32:11)"
   },
   {
     "Tarih":"2025.12.19",
@@ -9977,26 +9997,6 @@
     "Derinlik":4.0,
     "ML":"2.2",
     "Yer":"YUKARIORUKCU-AKCADAG (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.14",
-    "Saat":"05:48:32",
-    "Enlem":39.1838,
-    "Boylam":28.1718,
-    "Derinlik":11.4,
-    "ML":"1.4",
-    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.14",
-    "Saat":"05:29:47",
-    "Enlem":40.2862,
-    "Boylam":27.0485,
-    "Derinlik":11.7,
-    "ML":"2.7",
-    "Yer":"HISARLI-BIGA (CANAKKALE)",
     "Cozum":"İlksel"
   }
 ]
