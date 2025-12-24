@@ -1,6 +1,76 @@
 [
   {
     "Tarih":"2025.12.24",
+    "Saat":"15:24:07",
+    "Enlem":36.1312,
+    "Boylam":33.584,
+    "Derinlik":0.0,
+    "ML":"1.0",
+    "Yer":"BUYUKECELI-GULNAR (MERSIN)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"15:15:49",
+    "Enlem":36.0478,
+    "Boylam":33.5707,
+    "Derinlik":5.0,
+    "ML":"0.9",
+    "Yer":"AYDINCIK ACIKLARI-MERSIN (AKDENIZ)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"15:00:53",
+    "Enlem":39.1957,
+    "Boylam":40.3233,
+    "Derinlik":5.0,
+    "ML":"2.1",
+    "Yer":"DEMIRKANAT-KIGI (BINGOL)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"14:56:58",
+    "Enlem":39.168,
+    "Boylam":28.296,
+    "Derinlik":9.8,
+    "ML":"2.5",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"14:52:50",
+    "Enlem":39.158,
+    "Boylam":27.8478,
+    "Derinlik":8.9,
+    "ML":"1.4",
+    "Yer":"GELENBE-KIRKAGAC (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"14:48:16",
+    "Enlem":38.8062,
+    "Boylam":27.354,
+    "Derinlik":8.3,
+    "ML":"1.7",
+    "Yer":"DAVUTLAR-(MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.24",
+    "Saat":"14:01:48",
+    "Enlem":37.7055,
+    "Boylam":28.8728,
+    "Derinlik":5.7,
+    "ML":"2.0",
+    "Yer":"SEKI-TAVAS (DENIZLI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.24",
     "Saat":"13:45:10",
     "Enlem":37.9812,
     "Boylam":28.9562,
@@ -9002,9 +9072,9 @@
   {
     "Tarih":"2025.12.16",
     "Saat":"02:40:06",
-    "Enlem":36.6155,
-    "Boylam":28.0575,
-    "Derinlik":80.5,
+    "Enlem":36.6317,
+    "Boylam":28.0753,
+    "Derinlik":80.4,
     "ML":"1.7",
     "Yer":"TASLICA-MARMARIS (MUGLA)",
     "Cozum":"İlksel"
@@ -9012,9 +9082,9 @@
   {
     "Tarih":"2025.12.16",
     "Saat":"02:40:06",
-    "Enlem":36.6317,
-    "Boylam":28.0753,
-    "Derinlik":80.4,
+    "Enlem":36.6155,
+    "Boylam":28.0575,
+    "Derinlik":80.5,
     "ML":"1.7",
     "Yer":"TASLICA-MARMARIS (MUGLA)",
     "Cozum":"İlksel"
@@ -9927,76 +9997,6 @@
     "Derinlik":6.7,
     "ML":"1.6",
     "Yer":"EVCILER-SOMA (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.15",
-    "Saat":"04:42:59",
-    "Enlem":40.1722,
-    "Boylam":23.2942,
-    "Derinlik":11.9,
-    "ML":"2.0",
-    "Yer":"YUNANISTAN",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.15",
-    "Saat":"04:28:47",
-    "Enlem":39.1517,
-    "Boylam":28.3103,
-    "Derinlik":8.4,
-    "ML":"1.2",
-    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.15",
-    "Saat":"04:05:43",
-    "Enlem":39.1643,
-    "Boylam":28.1418,
-    "Derinlik":12.2,
-    "ML":"1.4",
-    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.15",
-    "Saat":"03:55:54",
-    "Enlem":38.4803,
-    "Boylam":38.0803,
-    "Derinlik":5.0,
-    "ML":"1.4",
-    "Yer":"ILICAK-AKCADAG (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.15",
-    "Saat":"03:52:49",
-    "Enlem":39.1622,
-    "Boylam":28.0232,
-    "Derinlik":17.0,
-    "ML":"1.2",
-    "Yer":"SOGUTLU-AKHISAR (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.15",
-    "Saat":"03:46:34",
-    "Enlem":38.9852,
-    "Boylam":28.1645,
-    "Derinlik":15.7,
-    "ML":"0.9",
-    "Yer":"YEGENOBA-AKHISAR (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.15",
-    "Saat":"03:38:23",
-    "Enlem":39.2493,
-    "Boylam":28.934,
-    "Derinlik":7.5,
-    "ML":"2.3",
-    "Yer":"YENILER-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   }
 ]
