@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2025.12.26",
+    "Saat":"21:01:26",
+    "Enlem":40.8202,
+    "Boylam":28.0825,
+    "Derinlik":11.8,
+    "ML":"2.0",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"20:47:37",
+    "Enlem":39.2202,
+    "Boylam":28.1323,
+    "Derinlik":12.9,
+    "ML":"2.3",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.26",
+    "Saat":"20:22:24",
+    "Enlem":39.3917,
+    "Boylam":28.808,
+    "Derinlik":6.7,
+    "ML":"2.4",
+    "Yer":"CANAKCI-DURSUNBEY (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.26",
     "Saat":"20:22:08",
     "Enlem":39.3983,
     "Boylam":28.8192,
@@ -9967,36 +9997,6 @@
     "Derinlik":4.0,
     "ML":"1.8",
     "Yer":"BALIKALAN-NURDAGI (GAZIANTEP)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.16",
-    "Saat":"21:24:06",
-    "Enlem":39.2183,
-    "Boylam":28.9827,
-    "Derinlik":4.5,
-    "ML":"2.0",
-    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.16",
-    "Saat":"21:22:51",
-    "Enlem":39.2408,
-    "Boylam":28.9412,
-    "Derinlik":6.2,
-    "ML":"2.0",
-    "Yer":"YENILER-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.16",
-    "Saat":"20:56:09",
-    "Enlem":40.2925,
-    "Boylam":27.0397,
-    "Derinlik":10.4,
-    "ML":"1.6",
-    "Yer":"HISARLI-BIGA (CANAKKALE)",
     "Cozum":"İlksel"
   }
 ]
