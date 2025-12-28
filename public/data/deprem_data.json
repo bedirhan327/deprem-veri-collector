@@ -11,12 +11,32 @@
   },
   {
     "Tarih":"2025.12.28",
+    "Saat":"18:34:06",
+    "Enlem":38.9068,
+    "Boylam":43.5118,
+    "Derinlik":5.0,
+    "ML":"2.0",
+    "Yer":"COLPAN-(VAN)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.28",
     "Saat":"18:27:44",
     "Enlem":37.6257,
     "Boylam":37.3412,
     "Derinlik":23.7,
     "ML":"1.5",
     "Yer":"KARAAGAC-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.28",
+    "Saat":"18:26:56",
+    "Enlem":39.1858,
+    "Boylam":28.1202,
+    "Derinlik":9.8,
+    "ML":"1.2",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -1182,8 +1202,8 @@
   {
     "Tarih":"2025.12.27",
     "Saat":"09:29:04",
-    "Enlem":38.0917,
-    "Boylam":37.7768,
+    "Enlem":38.0887,
+    "Boylam":37.7785,
     "Derinlik":5.0,
     "ML":"2.1",
     "Yer":"SOGUT-DOGANSEHIR (MALATYA)",
@@ -1192,8 +1212,8 @@
   {
     "Tarih":"2025.12.27",
     "Saat":"09:29:04",
-    "Enlem":38.0887,
-    "Boylam":37.7785,
+    "Enlem":38.0917,
+    "Boylam":37.7768,
     "Derinlik":5.0,
     "ML":"2.1",
     "Yer":"SOGUT-DOGANSEHIR (MALATYA)",
@@ -3232,20 +3252,20 @@
   {
     "Tarih":"2025.12.25",
     "Saat":"15:53:04",
-    "Enlem":39.141,
-    "Boylam":28.2732,
-    "Derinlik":12.3,
-    "ML":"1.5",
+    "Enlem":39.14,
+    "Boylam":28.2735,
+    "Derinlik":12.8,
+    "ML":"1.6",
     "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2025.12.25",
     "Saat":"15:53:04",
-    "Enlem":39.14,
-    "Boylam":28.2735,
-    "Derinlik":12.8,
-    "ML":"1.6",
+    "Enlem":39.141,
+    "Boylam":28.2732,
+    "Derinlik":12.3,
+    "ML":"1.5",
     "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
@@ -3532,16 +3552,6 @@
   {
     "Tarih":"2025.12.25",
     "Saat":"11:07:04",
-    "Enlem":39.1092,
-    "Boylam":28.3327,
-    "Derinlik":4.9,
-    "ML":"2.0",
-    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.25",
-    "Saat":"11:07:04",
     "Enlem":39.102,
     "Boylam":28.3168,
     "Derinlik":10.5,
@@ -3551,12 +3561,12 @@
   },
   {
     "Tarih":"2025.12.25",
-    "Saat":"11:05:54",
-    "Enlem":40.1395,
-    "Boylam":29.6258,
-    "Derinlik":5.3,
-    "ML":"1.9",
-    "Yer":"YENIYORUK-INEGOL (BURSA)",
+    "Saat":"11:07:04",
+    "Enlem":39.1092,
+    "Boylam":28.3327,
+    "Derinlik":4.9,
+    "ML":"2.0",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -3571,12 +3581,12 @@
   },
   {
     "Tarih":"2025.12.25",
-    "Saat":"10:17:49",
-    "Enlem":40.2895,
-    "Boylam":27.359,
-    "Derinlik":2.4,
-    "ML":"1.0",
-    "Yer":"EMIRORMAN-BIGA (CANAKKALE)",
+    "Saat":"11:05:54",
+    "Enlem":40.1395,
+    "Boylam":29.6258,
+    "Derinlik":5.3,
+    "ML":"1.9",
+    "Yer":"YENIYORUK-INEGOL (BURSA)",
     "Cozum":"İlksel"
   },
   {
@@ -3587,6 +3597,16 @@
     "Derinlik":3.1,
     "ML":"1.0",
     "Yer":"KANIBEY-BIGA (CANAKKALE)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"10:17:49",
+    "Enlem":40.2895,
+    "Boylam":27.359,
+    "Derinlik":2.4,
+    "ML":"1.0",
+    "Yer":"EMIRORMAN-BIGA (CANAKKALE)",
     "Cozum":"İlksel"
   },
   {
@@ -3702,9 +3722,9 @@
   {
     "Tarih":"2025.12.25",
     "Saat":"08:37:52",
-    "Enlem":39.238,
-    "Boylam":28.1452,
-    "Derinlik":6.3,
+    "Enlem":39.239,
+    "Boylam":28.1457,
+    "Derinlik":7.6,
     "ML":"1.9",
     "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
@@ -3712,9 +3732,9 @@
   {
     "Tarih":"2025.12.25",
     "Saat":"08:37:52",
-    "Enlem":39.239,
-    "Boylam":28.1457,
-    "Derinlik":7.6,
+    "Enlem":39.238,
+    "Boylam":28.1452,
+    "Derinlik":6.3,
     "ML":"1.9",
     "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
@@ -9977,26 +9997,6 @@
     "Derinlik":17.0,
     "ML":"1.0",
     "Yer":"ASLANDEDE-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.19",
-    "Saat":"05:05:07",
-    "Enlem":38.1765,
-    "Boylam":38.8342,
-    "Derinlik":6.0,
-    "ML":"1.4",
-    "Yer":"TASMIS-PUTURGE (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.19",
-    "Saat":"04:56:43",
-    "Enlem":37.0713,
-    "Boylam":28.3188,
-    "Derinlik":16.2,
-    "ML":"1.0",
-    "Yer":"AKYAKA-ULA (MUGLA)",
     "Cozum":"İlksel"
   }
 ]
