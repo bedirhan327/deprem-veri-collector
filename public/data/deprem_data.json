@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.04",
+    "Saat":"15:11:30",
+    "Enlem":39.223,
+    "Boylam":28.1385,
+    "Derinlik":15.0,
+    "ML":"1.8",
+    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.04",
+    "Saat":"14:18:22",
+    "Enlem":39.1327,
+    "Boylam":28.2593,
+    "Derinlik":13.7,
+    "ML":"1.9",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.04",
     "Saat":"14:13:21",
     "Enlem":38.0588,
     "Boylam":36.901,
@@ -7822,8 +7842,8 @@
   {
     "Tarih":"2025.12.27",
     "Saat":"09:29:04",
-    "Enlem":38.0887,
-    "Boylam":37.7785,
+    "Enlem":38.0917,
+    "Boylam":37.7768,
     "Derinlik":5.0,
     "ML":"2.1",
     "Yer":"SOGUT-DOGANSEHIR (MALATYA)",
@@ -7832,8 +7852,8 @@
   {
     "Tarih":"2025.12.27",
     "Saat":"09:29:04",
-    "Enlem":38.0917,
-    "Boylam":37.7768,
+    "Enlem":38.0887,
+    "Boylam":37.7785,
     "Derinlik":5.0,
     "ML":"2.1",
     "Yer":"SOGUT-DOGANSEHIR (MALATYA)",
@@ -9892,21 +9912,21 @@
   {
     "Tarih":"2025.12.25",
     "Saat":"15:30:27",
-    "Enlem":39.2198,
-    "Boylam":28.171,
-    "Derinlik":7.7,
-    "ML":"2.2",
-    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.25",
-    "Saat":"15:30:27",
     "Enlem":39.2238,
     "Boylam":28.1862,
     "Derinlik":8.6,
     "ML":"2.1",
     "Yer":"PURSUNLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.25",
+    "Saat":"15:30:27",
+    "Enlem":39.2198,
+    "Boylam":28.171,
+    "Derinlik":7.7,
+    "ML":"2.2",
+    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -9977,26 +9997,6 @@
     "Derinlik":10.4,
     "ML":"2.6",
     "Yer":"MIDILLI ADASI (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.25",
-    "Saat":"13:52:00",
-    "Enlem":39.3982,
-    "Boylam":28.8063,
-    "Derinlik":7.8,
-    "ML":"2.0",
-    "Yer":"YASSIOREN-DURSUNBEY (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.25",
-    "Saat":"13:44:07",
-    "Enlem":39.8645,
-    "Boylam":32.7158,
-    "Derinlik":0.0,
-    "ML":"1.0",
-    "Yer":"ETIMESGUT (ANKARA)",
     "Cozum":"İlksel"
   }
 ]
