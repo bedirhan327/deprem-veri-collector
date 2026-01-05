@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.05",
+    "Saat":"14:30:55",
+    "Enlem":38.562,
+    "Boylam":40.4057,
+    "Derinlik":11.2,
+    "ML":"2.0",
+    "Yer":"YELKAYA-GENC (BINGOL)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.05",
     "Saat":"13:40:54",
     "Enlem":39.1863,
     "Boylam":28.0982,
@@ -3172,22 +3182,22 @@
   {
     "Tarih":"2026.01.02",
     "Saat":"09:22:26",
-    "Enlem":39.1337,
-    "Boylam":28.1292,
-    "Derinlik":11.0,
-    "ML":"1.4",
-    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.02",
-    "Saat":"09:22:26",
     "Enlem":39.1322,
     "Boylam":28.1268,
     "Derinlik":8.6,
     "ML":"1.4",
     "Yer":"SINANDEDE-SINDIRGI (BALIKESIR) REVIZE01 (2026.01.02",
     "Cozum":"09:22:26)"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"09:22:26",
+    "Enlem":39.1337,
+    "Boylam":28.1292,
+    "Derinlik":11.0,
+    "ML":"1.4",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.01.02",
@@ -8812,8 +8822,8 @@
   {
     "Tarih":"2025.12.27",
     "Saat":"09:29:04",
-    "Enlem":38.0887,
-    "Boylam":37.7785,
+    "Enlem":38.0917,
+    "Boylam":37.7768,
     "Derinlik":5.0,
     "ML":"2.1",
     "Yer":"SOGUT-DOGANSEHIR (MALATYA)",
@@ -8822,8 +8832,8 @@
   {
     "Tarih":"2025.12.27",
     "Saat":"09:29:04",
-    "Enlem":38.0917,
-    "Boylam":37.7768,
+    "Enlem":38.0887,
+    "Boylam":37.7785,
     "Derinlik":5.0,
     "ML":"2.1",
     "Yer":"SOGUT-DOGANSEHIR (MALATYA)",
@@ -9985,16 +9995,6 @@
     "Enlem":38.3743,
     "Boylam":28.0777,
     "Derinlik":4.7,
-    "ML":"1.2",
-    "Yer":"BOZDAG-ODEMIS (IZMIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"04:43:08",
-    "Enlem":38.3765,
-    "Boylam":28.0852,
-    "Derinlik":8.1,
     "ML":"1.2",
     "Yer":"BOZDAG-ODEMIS (IZMIR)",
     "Cozum":"İlksel"
