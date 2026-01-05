@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.05",
+    "Saat":"16:57:14",
+    "Enlem":40.182,
+    "Boylam":31.7545,
+    "Derinlik":3.1,
+    "ML":"2.5",
+    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.05",
     "Saat":"16:11:37",
     "Enlem":39.4763,
     "Boylam":37.4028,
@@ -3202,22 +3212,22 @@
   {
     "Tarih":"2026.01.02",
     "Saat":"09:22:26",
-    "Enlem":39.1322,
-    "Boylam":28.1268,
-    "Derinlik":8.6,
-    "ML":"1.4",
-    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR) REVIZE01 (2026.01.02",
-    "Cozum":"09:22:26)"
-  },
-  {
-    "Tarih":"2026.01.02",
-    "Saat":"09:22:26",
     "Enlem":39.1337,
     "Boylam":28.1292,
     "Derinlik":11.0,
     "ML":"1.4",
     "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"09:22:26",
+    "Enlem":39.1322,
+    "Boylam":28.1268,
+    "Derinlik":8.6,
+    "ML":"1.4",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR) REVIZE01 (2026.01.02",
+    "Cozum":"09:22:26)"
   },
   {
     "Tarih":"2026.01.02",
@@ -8842,8 +8852,8 @@
   {
     "Tarih":"2025.12.27",
     "Saat":"09:29:04",
-    "Enlem":38.0887,
-    "Boylam":37.7785,
+    "Enlem":38.0917,
+    "Boylam":37.7768,
     "Derinlik":5.0,
     "ML":"2.1",
     "Yer":"SOGUT-DOGANSEHIR (MALATYA)",
@@ -8852,8 +8862,8 @@
   {
     "Tarih":"2025.12.27",
     "Saat":"09:29:04",
-    "Enlem":38.0917,
-    "Boylam":37.7768,
+    "Enlem":38.0887,
+    "Boylam":37.7785,
     "Derinlik":5.0,
     "ML":"2.1",
     "Yer":"SOGUT-DOGANSEHIR (MALATYA)",
@@ -9987,16 +9997,6 @@
     "Derinlik":10.4,
     "ML":"1.4",
     "Yer":"SARIOT-KALE (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"04:53:34",
-    "Enlem":39.108,
-    "Boylam":28.2312,
-    "Derinlik":10.7,
-    "ML":"1.2",
-    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
