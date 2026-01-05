@@ -1,5 +1,15 @@
 [
   {
+    "Tarih":"2026.01.06",
+    "Saat":"00:33:24",
+    "Enlem":38.6413,
+    "Boylam":43.1588,
+    "Derinlik":5.5,
+    "ML":"2.9",
+    "Yer":"MOLLAKASIM-(VAN)",
+    "Cozum":"İlksel"
+  },
+  {
     "Tarih":"2026.01.05",
     "Saat":"23:35:58",
     "Enlem":40.6775,
@@ -27,6 +37,26 @@
     "Derinlik":2.9,
     "ML":"2.4",
     "Yer":"KAPICAM-(KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"22:43:39",
+    "Enlem":36.3578,
+    "Boylam":43.653,
+    "Derinlik":2.6,
+    "ML":"2.7",
+    "Yer":"IRAK",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"22:37:40",
+    "Enlem":38.1875,
+    "Boylam":38.0448,
+    "Derinlik":11.7,
+    "ML":"0.9",
+    "Yer":"GOZENE-YESILYURT (MALATYA)",
     "Cozum":"İlksel"
   },
   {
@@ -8582,21 +8612,21 @@
   {
     "Tarih":"2025.12.28",
     "Saat":"02:19:17",
-    "Enlem":39.1592,
-    "Boylam":28.1758,
-    "Derinlik":8.9,
-    "ML":"2.2",
-    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.28",
-    "Saat":"02:19:17",
     "Enlem":38.7725,
     "Boylam":42.3917,
     "Derinlik":8.5,
     "ML":"1.7",
     "Yer":"CATALAGZI-AHLAT (BITLIS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2025.12.28",
+    "Saat":"02:19:17",
+    "Enlem":39.1592,
+    "Boylam":28.1758,
+    "Derinlik":8.9,
+    "ML":"2.2",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -9967,36 +9997,6 @@
     "Derinlik":0.0,
     "ML":"0.9",
     "Yer":"YANISLI-GULNAR (MERSIN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"13:22:04",
-    "Enlem":39.1847,
-    "Boylam":28.143,
-    "Derinlik":11.1,
-    "ML":"1.4",
-    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"12:55:25",
-    "Enlem":39.2152,
-    "Boylam":29.2575,
-    "Derinlik":5.3,
-    "ML":"1.6",
-    "Yer":"YUKARIYONCAAGAC-HISARCIK (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"12:52:27",
-    "Enlem":36.1565,
-    "Boylam":33.6752,
-    "Derinlik":0.0,
-    "ML":"1.0",
-    "Yer":"YESILOVACIK-SILIFKE (MERSIN)",
     "Cozum":"İlksel"
   }
 ]
