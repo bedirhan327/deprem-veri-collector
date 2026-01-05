@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.06",
+    "Saat":"02:15:08",
+    "Enlem":39.5788,
+    "Boylam":25.948,
+    "Derinlik":10.6,
+    "ML":"1.3",
+    "Yer":"GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"02:11:55",
+    "Enlem":40.8255,
+    "Boylam":31.5975,
+    "Derinlik":18.2,
+    "ML":"1.2",
+    "Yer":"KOZLU-(BOLU)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"02:04:00",
+    "Enlem":39.164,
+    "Boylam":28.2873,
+    "Derinlik":8.0,
+    "ML":"2.0",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.06",
     "Saat":"01:35:21",
     "Enlem":37.758,
     "Boylam":27.6933,
@@ -3592,22 +3622,22 @@
   {
     "Tarih":"2026.01.02",
     "Saat":"09:22:26",
-    "Enlem":39.1337,
-    "Boylam":28.1292,
-    "Derinlik":11.0,
-    "ML":"1.4",
-    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.02",
-    "Saat":"09:22:26",
     "Enlem":39.1322,
     "Boylam":28.1268,
     "Derinlik":8.6,
     "ML":"1.4",
     "Yer":"SINANDEDE-SINDIRGI (BALIKESIR) REVIZE01 (2026.01.02",
     "Cozum":"09:22:26)"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"09:22:26",
+    "Enlem":39.1337,
+    "Boylam":28.1292,
+    "Derinlik":11.0,
+    "ML":"1.4",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.01.02",
@@ -9232,8 +9262,8 @@
   {
     "Tarih":"2025.12.27",
     "Saat":"09:29:04",
-    "Enlem":38.0887,
-    "Boylam":37.7785,
+    "Enlem":38.0917,
+    "Boylam":37.7768,
     "Derinlik":5.0,
     "ML":"2.1",
     "Yer":"SOGUT-DOGANSEHIR (MALATYA)",
@@ -9242,8 +9272,8 @@
   {
     "Tarih":"2025.12.27",
     "Saat":"09:29:04",
-    "Enlem":38.0917,
-    "Boylam":37.7768,
+    "Enlem":38.0887,
+    "Boylam":37.7785,
     "Derinlik":5.0,
     "ML":"2.1",
     "Yer":"SOGUT-DOGANSEHIR (MALATYA)",
@@ -9967,36 +9997,6 @@
     "Derinlik":4.6,
     "ML":"1.4",
     "Yer":"ASAGIORUKCU-AKCADAG (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"16:27:11",
-    "Enlem":37.8867,
-    "Boylam":37.9258,
-    "Derinlik":12.1,
-    "ML":"1.5",
-    "Yer":"ERKENEK-DOGANSEHIR (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"15:49:13",
-    "Enlem":39.1702,
-    "Boylam":28.1733,
-    "Derinlik":12.2,
-    "ML":"1.1",
-    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"15:17:16",
-    "Enlem":39.1912,
-    "Boylam":28.2237,
-    "Derinlik":12.3,
-    "ML":"2.6",
-    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
