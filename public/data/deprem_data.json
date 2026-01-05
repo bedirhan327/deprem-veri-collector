@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.05",
+    "Saat":"19:57:14",
+    "Enlem":40.8653,
+    "Boylam":28.062,
+    "Derinlik":19.5,
+    "ML":"1.4",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"19:55:54",
+    "Enlem":38.1227,
+    "Boylam":37.0477,
+    "Derinlik":2.0,
+    "ML":"1.9",
+    "Yer":"CALIS-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"19:28:59",
+    "Enlem":40.011,
+    "Boylam":32.278,
+    "Derinlik":3.0,
+    "ML":"1.6",
+    "Yer":"UGURCAYIRI-AYAS (ANKARA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.05",
     "Saat":"18:47:53",
     "Enlem":39.0225,
     "Boylam":25.938,
@@ -3272,22 +3302,22 @@
   {
     "Tarih":"2026.01.02",
     "Saat":"09:22:26",
-    "Enlem":39.1337,
-    "Boylam":28.1292,
-    "Derinlik":11.0,
-    "ML":"1.4",
-    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.02",
-    "Saat":"09:22:26",
     "Enlem":39.1322,
     "Boylam":28.1268,
     "Derinlik":8.6,
     "ML":"1.4",
     "Yer":"SINANDEDE-SINDIRGI (BALIKESIR) REVIZE01 (2026.01.02",
     "Cozum":"09:22:26)"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"09:22:26",
+    "Enlem":39.1337,
+    "Boylam":28.1292,
+    "Derinlik":11.0,
+    "ML":"1.4",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.01.02",
@@ -9967,36 +9997,6 @@
     "Derinlik":9.4,
     "ML":"1.1",
     "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"07:49:52",
-    "Enlem":39.219,
-    "Boylam":29.0415,
-    "Derinlik":15.7,
-    "ML":"1.0",
-    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"07:49:08",
-    "Enlem":39.3188,
-    "Boylam":29.0088,
-    "Derinlik":5.1,
-    "ML":"0.8",
-    "Yer":"YUKARIDOLAYLAR-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"07:25:59",
-    "Enlem":39.2477,
-    "Boylam":28.1403,
-    "Derinlik":7.6,
-    "ML":"1.8",
-    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
