@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.05",
+    "Saat":"23:35:58",
+    "Enlem":40.6775,
+    "Boylam":27.54,
+    "Derinlik":9.9,
+    "ML":"1.6",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.05",
+    "Saat":"23:15:32",
+    "Enlem":40.8,
+    "Boylam":31.5408,
+    "Derinlik":11.9,
+    "ML":"1.0",
+    "Yer":"KIZILAGIL-(BOLU)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.05",
     "Saat":"22:56:45",
     "Enlem":37.4665,
     "Boylam":37.0358,
@@ -3592,20 +3612,20 @@
   {
     "Tarih":"2026.01.02",
     "Saat":"05:07:46",
-    "Enlem":38.3595,
-    "Boylam":25.3153,
-    "Derinlik":8.3,
-    "ML":"2.3",
+    "Enlem":38.4052,
+    "Boylam":25.2823,
+    "Derinlik":17.1,
+    "ML":"2.6",
     "Yer":"EGE DENIZI",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.01.02",
     "Saat":"05:07:46",
-    "Enlem":38.4052,
-    "Boylam":25.2823,
-    "Derinlik":17.1,
-    "ML":"2.6",
+    "Enlem":38.3595,
+    "Boylam":25.3153,
+    "Derinlik":8.3,
+    "ML":"2.3",
     "Yer":"EGE DENIZI",
     "Cozum":"İlksel"
   },
@@ -9042,8 +9062,8 @@
   {
     "Tarih":"2025.12.27",
     "Saat":"09:29:04",
-    "Enlem":38.0917,
-    "Boylam":37.7768,
+    "Enlem":38.0887,
+    "Boylam":37.7785,
     "Derinlik":5.0,
     "ML":"2.1",
     "Yer":"SOGUT-DOGANSEHIR (MALATYA)",
@@ -9052,8 +9072,8 @@
   {
     "Tarih":"2025.12.27",
     "Saat":"09:29:04",
-    "Enlem":38.0887,
-    "Boylam":37.7785,
+    "Enlem":38.0917,
+    "Boylam":37.7768,
     "Derinlik":5.0,
     "ML":"2.1",
     "Yer":"SOGUT-DOGANSEHIR (MALATYA)",
@@ -9977,26 +9997,6 @@
     "Derinlik":15.0,
     "ML":"2.6",
     "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"11:05:48",
-    "Enlem":39.2057,
-    "Boylam":27.914,
-    "Derinlik":7.0,
-    "ML":"2.1",
-    "Yer":"DUALAR-KIRKAGAC (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"10:56:29",
-    "Enlem":39.5998,
-    "Boylam":28.8365,
-    "Derinlik":5.2,
-    "ML":"1.5",
-    "Yer":"KAZIMIYE-DURSUNBEY (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
