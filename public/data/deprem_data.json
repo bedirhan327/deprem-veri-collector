@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.01.06",
+    "Saat":"07:39:15",
+    "Enlem":39.2495,
+    "Boylam":29.0095,
+    "Derinlik":9.5,
+    "ML":"1.6",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"07:06:12",
+    "Enlem":39.7848,
+    "Boylam":26.84,
+    "Derinlik":18.3,
+    "ML":"1.6",
+    "Yer":"TOLUKLAR-BAYRAMIC (CANAKKALE)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"07:00:00",
+    "Enlem":36.9813,
+    "Boylam":27.7267,
+    "Derinlik":3.5,
+    "ML":"1.2",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"06:57:25",
+    "Enlem":36.9432,
+    "Boylam":27.757,
+    "Derinlik":17.1,
+    "ML":"2.0",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"06:53:32",
+    "Enlem":39.2462,
+    "Boylam":29.0143,
+    "Derinlik":8.5,
+    "ML":"1.5",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.06",
     "Saat":"06:38:15",
     "Enlem":39.2105,
     "Boylam":28.1202,
@@ -27,6 +77,16 @@
     "Derinlik":7.8,
     "ML":"1.1",
     "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"06:06:31",
+    "Enlem":37.6782,
+    "Boylam":35.8192,
+    "Derinlik":16.7,
+    "ML":"1.6",
+    "Yer":"CAMDERE-KOZAN (ADANA)",
     "Cozum":"İlksel"
   },
   {
@@ -3772,22 +3832,22 @@
   {
     "Tarih":"2026.01.02",
     "Saat":"09:22:26",
-    "Enlem":39.1337,
-    "Boylam":28.1292,
-    "Derinlik":11.0,
-    "ML":"1.4",
-    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.02",
-    "Saat":"09:22:26",
     "Enlem":39.1322,
     "Boylam":28.1268,
     "Derinlik":8.6,
     "ML":"1.4",
     "Yer":"SINANDEDE-SINDIRGI (BALIKESIR) REVIZE01 (2026.01.02",
     "Cozum":"09:22:26)"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"09:22:26",
+    "Enlem":39.1337,
+    "Boylam":28.1292,
+    "Derinlik":11.0,
+    "ML":"1.4",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.01.02",
@@ -3962,20 +4022,20 @@
   {
     "Tarih":"2026.01.02",
     "Saat":"05:07:46",
-    "Enlem":38.3595,
-    "Boylam":25.3153,
-    "Derinlik":8.3,
-    "ML":"2.3",
+    "Enlem":38.4052,
+    "Boylam":25.2823,
+    "Derinlik":17.1,
+    "ML":"2.6",
     "Yer":"EGE DENIZI",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.01.02",
     "Saat":"05:07:46",
-    "Enlem":38.4052,
-    "Boylam":25.2823,
-    "Derinlik":17.1,
-    "ML":"2.6",
+    "Enlem":38.3595,
+    "Boylam":25.3153,
+    "Derinlik":8.3,
+    "ML":"2.3",
     "Yer":"EGE DENIZI",
     "Cozum":"İlksel"
   },
@@ -9937,66 +9997,6 @@
     "Derinlik":8.8,
     "ML":"1.5",
     "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"21:39:15",
-    "Enlem":38.0748,
-    "Boylam":38.4382,
-    "Derinlik":13.2,
-    "ML":"1.8",
-    "Yer":"KARAGOL-CELIKHAN (ADIYAMAN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"21:30:36",
-    "Enlem":39.2497,
-    "Boylam":29.0338,
-    "Derinlik":15.1,
-    "ML":"1.1",
-    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"21:01:26",
-    "Enlem":40.8202,
-    "Boylam":28.0825,
-    "Derinlik":11.8,
-    "ML":"2.0",
-    "Yer":"MARMARA DENIZI",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"20:47:37",
-    "Enlem":39.2202,
-    "Boylam":28.1323,
-    "Derinlik":12.9,
-    "ML":"2.3",
-    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"20:22:24",
-    "Enlem":39.3917,
-    "Boylam":28.808,
-    "Derinlik":6.7,
-    "ML":"2.4",
-    "Yer":"CANAKCI-DURSUNBEY (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"20:22:08",
-    "Enlem":39.3983,
-    "Boylam":28.8192,
-    "Derinlik":5.5,
-    "ML":"2.6",
-    "Yer":"YASSIOREN-DURSUNBEY (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
