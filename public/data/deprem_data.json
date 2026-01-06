@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.06",
+    "Saat":"17:41:11",
+    "Enlem":38.2977,
+    "Boylam":37.7593,
+    "Derinlik":18.0,
+    "ML":"1.3",
+    "Yer":"CEVIRME-AKCADAG (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.06",
     "Saat":"17:23:13",
     "Enlem":39.164,
     "Boylam":28.0583,
@@ -4272,22 +4282,22 @@
   {
     "Tarih":"2026.01.02",
     "Saat":"09:22:26",
-    "Enlem":39.1337,
-    "Boylam":28.1292,
-    "Derinlik":11.0,
-    "ML":"1.4",
-    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.02",
-    "Saat":"09:22:26",
     "Enlem":39.1322,
     "Boylam":28.1268,
     "Derinlik":8.6,
     "ML":"1.4",
     "Yer":"SINANDEDE-SINDIRGI (BALIKESIR) REVIZE01 (2026.01.02",
     "Cozum":"09:22:26)"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"09:22:26",
+    "Enlem":39.1337,
+    "Boylam":28.1292,
+    "Derinlik":11.0,
+    "ML":"1.4",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.01.02",
@@ -9987,16 +9997,6 @@
     "Derinlik":10.1,
     "ML":"1.3",
     "Yer":"GULPINAR-AYVACIK (CANAKKALE)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.27",
-    "Saat":"07:14:39",
-    "Enlem":39.455,
-    "Boylam":28.195,
-    "Derinlik":12.4,
-    "ML":"1.3",
-    "Yer":"CAMKOY-BIGADIC (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
