@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.06",
+    "Saat":"08:09:59",
+    "Enlem":40.8107,
+    "Boylam":25.7688,
+    "Derinlik":5.4,
+    "ML":"2.6",
+    "Yer":"EGE DENIZI",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"08:07:41",
+    "Enlem":40.8205,
+    "Boylam":28.121,
+    "Derinlik":15.2,
+    "ML":"2.1",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.06",
     "Saat":"07:39:15",
     "Enlem":39.2495,
     "Boylam":29.0095,
@@ -3832,22 +3852,22 @@
   {
     "Tarih":"2026.01.02",
     "Saat":"09:22:26",
-    "Enlem":39.1322,
-    "Boylam":28.1268,
-    "Derinlik":8.6,
-    "ML":"1.4",
-    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR) REVIZE01 (2026.01.02",
-    "Cozum":"09:22:26)"
-  },
-  {
-    "Tarih":"2026.01.02",
-    "Saat":"09:22:26",
     "Enlem":39.1337,
     "Boylam":28.1292,
     "Derinlik":11.0,
     "ML":"1.4",
     "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"09:22:26",
+    "Enlem":39.1322,
+    "Boylam":28.1268,
+    "Derinlik":8.6,
+    "ML":"1.4",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR) REVIZE01 (2026.01.02",
+    "Cozum":"09:22:26)"
   },
   {
     "Tarih":"2026.01.02",
@@ -4022,20 +4042,20 @@
   {
     "Tarih":"2026.01.02",
     "Saat":"05:07:46",
-    "Enlem":38.4052,
-    "Boylam":25.2823,
-    "Derinlik":17.1,
-    "ML":"2.6",
+    "Enlem":38.3595,
+    "Boylam":25.3153,
+    "Derinlik":8.3,
+    "ML":"2.3",
     "Yer":"EGE DENIZI",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.01.02",
     "Saat":"05:07:46",
-    "Enlem":38.3595,
-    "Boylam":25.3153,
-    "Derinlik":8.3,
-    "ML":"2.3",
+    "Enlem":38.4052,
+    "Boylam":25.2823,
+    "Derinlik":17.1,
+    "ML":"2.6",
     "Yer":"EGE DENIZI",
     "Cozum":"İlksel"
   },
@@ -9472,8 +9492,8 @@
   {
     "Tarih":"2025.12.27",
     "Saat":"09:29:04",
-    "Enlem":38.0887,
-    "Boylam":37.7785,
+    "Enlem":38.0917,
+    "Boylam":37.7768,
     "Derinlik":5.0,
     "ML":"2.1",
     "Yer":"SOGUT-DOGANSEHIR (MALATYA)",
@@ -9482,8 +9502,8 @@
   {
     "Tarih":"2025.12.27",
     "Saat":"09:29:04",
-    "Enlem":38.0917,
-    "Boylam":37.7768,
+    "Enlem":38.0887,
+    "Boylam":37.7785,
     "Derinlik":5.0,
     "ML":"2.1",
     "Yer":"SOGUT-DOGANSEHIR (MALATYA)",
@@ -9977,26 +9997,6 @@
     "Derinlik":9.2,
     "ML":"2.5",
     "Yer":"MARMARA DENIZI",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"21:54:03",
-    "Enlem":40.8455,
-    "Boylam":27.9438,
-    "Derinlik":24.5,
-    "ML":"1.5",
-    "Yer":"MARMARAEREGLISI ACIK.-TEKIRDAG (MARMARA DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.26",
-    "Saat":"21:42:06",
-    "Enlem":39.1903,
-    "Boylam":28.1365,
-    "Derinlik":8.8,
-    "ML":"1.5",
-    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
