@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.06",
+    "Saat":"12:22:22",
+    "Enlem":38.9618,
+    "Boylam":37.8487,
+    "Derinlik":8.0,
+    "ML":"1.8",
+    "Yer":"DAVULKU-HEKIMHAN (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.06",
+    "Saat":"12:16:15",
+    "Enlem":37.5488,
+    "Boylam":40.3258,
+    "Derinlik":6.3,
+    "ML":"1.1",
+    "Yer":"SURENDAL-CINAR (DIYARBAKIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.06",
     "Saat":"11:14:51",
     "Enlem":38.3162,
     "Boylam":27.4557,
@@ -4172,20 +4192,20 @@
   {
     "Tarih":"2026.01.02",
     "Saat":"05:07:46",
-    "Enlem":38.4052,
-    "Boylam":25.2823,
-    "Derinlik":17.1,
-    "ML":"2.6",
+    "Enlem":38.3595,
+    "Boylam":25.3153,
+    "Derinlik":8.3,
+    "ML":"2.3",
     "Yer":"EGE DENIZI",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.01.02",
     "Saat":"05:07:46",
-    "Enlem":38.3595,
-    "Boylam":25.3153,
-    "Derinlik":8.3,
-    "ML":"2.3",
+    "Enlem":38.4052,
+    "Boylam":25.2823,
+    "Derinlik":17.1,
+    "ML":"2.6",
     "Yer":"EGE DENIZI",
     "Cozum":"İlksel"
   },
@@ -9977,26 +9997,6 @@
     "Derinlik":11.9,
     "ML":"1.2",
     "Yer":"AKHISAR (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.27",
-    "Saat":"00:27:32",
-    "Enlem":35.445,
-    "Boylam":27.4975,
-    "Derinlik":26.8,
-    "ML":"2.6",
-    "Yer":"AKDENIZ",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.27",
-    "Saat":"00:18:42",
-    "Enlem":39.1525,
-    "Boylam":28.2038,
-    "Derinlik":13.2,
-    "ML":"1.7",
-    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
