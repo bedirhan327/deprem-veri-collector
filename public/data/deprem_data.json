@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.07",
+    "Saat":"20:49:03",
+    "Enlem":38.3808,
+    "Boylam":37.4095,
+    "Derinlik":15.4,
+    "ML":"1.2",
+    "Yer":"YALINTAS-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"20:19:38",
+    "Enlem":37.812,
+    "Boylam":36.5077,
+    "Derinlik":24.2,
+    "ML":"1.2",
+    "Yer":"KUMARLI-(KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.07",
+    "Saat":"20:10:35",
+    "Enlem":38.1437,
+    "Boylam":38.4718,
+    "Derinlik":18.3,
+    "ML":"0.9",
+    "Yer":"AKSU-SINCIK (ADIYAMAN)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.07",
     "Saat":"20:08:44",
     "Enlem":38.121,
     "Boylam":38.498,
@@ -5672,20 +5702,20 @@
   {
     "Tarih":"2026.01.02",
     "Saat":"05:07:46",
-    "Enlem":38.3595,
-    "Boylam":25.3153,
-    "Derinlik":8.3,
-    "ML":"2.3",
+    "Enlem":38.4052,
+    "Boylam":25.2823,
+    "Derinlik":17.1,
+    "ML":"2.6",
     "Yer":"EGE DENIZI",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.01.02",
     "Saat":"05:07:46",
-    "Enlem":38.4052,
-    "Boylam":25.2823,
-    "Derinlik":17.1,
-    "ML":"2.6",
+    "Enlem":38.3595,
+    "Boylam":25.3153,
+    "Derinlik":8.3,
+    "ML":"2.3",
     "Yer":"EGE DENIZI",
     "Cozum":"İlksel"
   },
@@ -9967,36 +9997,6 @@
     "Derinlik":4.0,
     "ML":"1.2",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.28",
-    "Saat":"18:13:54",
-    "Enlem":39.9103,
-    "Boylam":39.9935,
-    "Derinlik":14.5,
-    "ML":"2.2",
-    "Yer":"CENNETPINAR-CAYIRLI (ERZINCAN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.28",
-    "Saat":"18:12:09",
-    "Enlem":39.8773,
-    "Boylam":39.9905,
-    "Derinlik":30.4,
-    "ML":"1.8",
-    "Yer":"YESILYAKA-CAYIRLI (ERZINCAN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.28",
-    "Saat":"18:06:52",
-    "Enlem":39.0735,
-    "Boylam":28.1345,
-    "Derinlik":1.6,
-    "ML":"1.5",
-    "Yer":"HANPASA-AKHISAR (MANISA)",
     "Cozum":"İlksel"
   }
 ]
