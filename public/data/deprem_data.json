@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.08",
+    "Saat":"18:51:43",
+    "Enlem":38.0685,
+    "Boylam":37.5693,
+    "Derinlik":7.8,
+    "ML":"1.4",
+    "Yer":"GOVDELI-DOGANSEHIR (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.08",
+    "Saat":"18:25:35",
+    "Enlem":39.2157,
+    "Boylam":25.9847,
+    "Derinlik":5.7,
+    "ML":"2.1",
+    "Yer":"MIDILLI ADASI (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.08",
     "Saat":"17:40:39",
     "Enlem":39.1245,
     "Boylam":28.2357,
@@ -6352,22 +6372,22 @@
   {
     "Tarih":"2026.01.02",
     "Saat":"09:22:26",
-    "Enlem":39.1322,
-    "Boylam":28.1268,
-    "Derinlik":8.6,
-    "ML":"1.4",
-    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR) REVIZE01 (2026.01.02",
-    "Cozum":"09:22:26)"
-  },
-  {
-    "Tarih":"2026.01.02",
-    "Saat":"09:22:26",
     "Enlem":39.1337,
     "Boylam":28.1292,
     "Derinlik":11.0,
     "ML":"1.4",
     "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"09:22:26",
+    "Enlem":39.1322,
+    "Boylam":28.1268,
+    "Derinlik":8.6,
+    "ML":"1.4",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR) REVIZE01 (2026.01.02",
+    "Cozum":"09:22:26)"
   },
   {
     "Tarih":"2026.01.02",
@@ -6542,20 +6562,20 @@
   {
     "Tarih":"2026.01.02",
     "Saat":"05:07:46",
-    "Enlem":38.3595,
-    "Boylam":25.3153,
-    "Derinlik":8.3,
-    "ML":"2.3",
+    "Enlem":38.4052,
+    "Boylam":25.2823,
+    "Derinlik":17.1,
+    "ML":"2.6",
     "Yer":"EGE DENIZI",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.01.02",
     "Saat":"05:07:46",
-    "Enlem":38.4052,
-    "Boylam":25.2823,
-    "Derinlik":17.1,
-    "ML":"2.6",
+    "Enlem":38.3595,
+    "Boylam":25.3153,
+    "Derinlik":8.3,
+    "ML":"2.3",
     "Yer":"EGE DENIZI",
     "Cozum":"İlksel"
   },
@@ -9977,26 +9997,6 @@
     "Derinlik":8.8,
     "ML":"1.8",
     "Yer":"CINARCIK (YALOVA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.29",
-    "Saat":"22:30:34",
-    "Enlem":39.4345,
-    "Boylam":28.8288,
-    "Derinlik":7.7,
-    "ML":"1.4",
-    "Yer":"TURNACIK-DURSUNBEY (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.29",
-    "Saat":"22:29:36",
-    "Enlem":38.7588,
-    "Boylam":37.9695,
-    "Derinlik":5.4,
-    "ML":"1.8",
-    "Yer":"KOCAOZU-HEKIMHAN (MALATYA)",
     "Cozum":"İlksel"
   }
 ]
