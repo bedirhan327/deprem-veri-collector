@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.10",
+    "Saat":"11:55:02",
+    "Enlem":39.2318,
+    "Boylam":28.9977,
+    "Derinlik":15.4,
+    "ML":"1.4",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"11:50:12",
+    "Enlem":39.2247,
+    "Boylam":28.2042,
+    "Derinlik":6.3,
+    "ML":"1.7",
+    "Yer":"PURSUNLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.10",
     "Saat":"10:29:40",
     "Enlem":39.1625,
     "Boylam":28.272,
@@ -7822,22 +7842,22 @@
   {
     "Tarih":"2026.01.02",
     "Saat":"09:22:26",
-    "Enlem":39.1322,
-    "Boylam":28.1268,
-    "Derinlik":8.6,
-    "ML":"1.4",
-    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR) REVIZE01 (2026.01.02",
-    "Cozum":"09:22:26)"
-  },
-  {
-    "Tarih":"2026.01.02",
-    "Saat":"09:22:26",
     "Enlem":39.1337,
     "Boylam":28.1292,
     "Derinlik":11.0,
     "ML":"1.4",
     "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"09:22:26",
+    "Enlem":39.1322,
+    "Boylam":28.1268,
+    "Derinlik":8.6,
+    "ML":"1.4",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR) REVIZE01 (2026.01.02",
+    "Cozum":"09:22:26)"
   },
   {
     "Tarih":"2026.01.02",
@@ -9977,26 +9997,6 @@
     "Derinlik":6.7,
     "ML":"1.9",
     "Yer":"YEMISLI-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.31",
-    "Saat":"10:21:50",
-    "Enlem":39.2003,
-    "Boylam":28.1478,
-    "Derinlik":7.6,
-    "ML":"1.7",
-    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2025.12.31",
-    "Saat":"10:17:09",
-    "Enlem":39.2498,
-    "Boylam":28.199,
-    "Derinlik":8.3,
-    "ML":"1.6",
-    "Yer":"CAYGOREN-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
