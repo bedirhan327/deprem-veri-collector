@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.11",
+    "Saat":"09:27:23",
+    "Enlem":39.2238,
+    "Boylam":27.8687,
+    "Derinlik":9.1,
+    "ML":"1.8",
+    "Yer":"GUVENDIK-KIRKAGAC (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"09:20:33",
+    "Enlem":39.1668,
+    "Boylam":28.1343,
+    "Derinlik":14.3,
+    "ML":"1.9",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"07:36:48",
     "Enlem":38.2053,
     "Boylam":38.0647,
@@ -452,21 +472,21 @@
   {
     "Tarih":"2026.01.10",
     "Saat":"20:27:35",
-    "Enlem":38.217,
-    "Boylam":38.5992,
-    "Derinlik":13.4,
-    "ML":"1.5",
-    "Yer":"SOGUTLU-PUTURGE (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.10",
-    "Saat":"20:27:35",
     "Enlem":38.3358,
     "Boylam":38.5867,
     "Derinlik":19.1,
     "ML":"1.5",
     "Yer":"BULUTLU-(MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"20:27:35",
+    "Enlem":38.217,
+    "Boylam":38.5992,
+    "Derinlik":13.4,
+    "ML":"1.5",
+    "Yer":"SOGUTLU-PUTURGE (MALATYA)",
     "Cozum":"İlksel"
   },
   {
@@ -8552,22 +8572,22 @@
   {
     "Tarih":"2026.01.02",
     "Saat":"09:22:26",
-    "Enlem":39.1337,
-    "Boylam":28.1292,
-    "Derinlik":11.0,
-    "ML":"1.4",
-    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.02",
-    "Saat":"09:22:26",
     "Enlem":39.1322,
     "Boylam":28.1268,
     "Derinlik":8.6,
     "ML":"1.4",
     "Yer":"SINANDEDE-SINDIRGI (BALIKESIR) REVIZE01 (2026.01.02",
     "Cozum":"09:22:26)"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"09:22:26",
+    "Enlem":39.1337,
+    "Boylam":28.1292,
+    "Derinlik":11.0,
+    "ML":"1.4",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.01.02",
@@ -9977,26 +9997,6 @@
     "Derinlik":11.0,
     "ML":"1.1",
     "Yer":"DUMLU-HEKIMHAN (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.01",
-    "Saat":"03:59:23",
-    "Enlem":39.1847,
-    "Boylam":28.3457,
-    "Derinlik":7.8,
-    "ML":"1.4",
-    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.01",
-    "Saat":"03:43:29",
-    "Enlem":39.2267,
-    "Boylam":29.0648,
-    "Derinlik":11.8,
-    "ML":"1.1",
-    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
     "Cozum":"İlksel"
   }
 ]
