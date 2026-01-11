@@ -11,6 +11,16 @@
   },
   {
     "Tarih":"2026.01.11",
+    "Saat":"13:27:28",
+    "Enlem":39.2392,
+    "Boylam":28.1042,
+    "Derinlik":13.5,
+    "ML":"1.7",
+    "Yer":"KOZLU-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"13:06:53",
     "Enlem":40.8788,
     "Boylam":28.6818,
@@ -27,6 +37,16 @@
     "Derinlik":4.3,
     "ML":"2.0",
     "Yer":"AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"12:33:55",
+    "Enlem":39.1847,
+    "Boylam":28.1978,
+    "Derinlik":13.6,
+    "ML":"2.6",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -8672,22 +8692,22 @@
   {
     "Tarih":"2026.01.02",
     "Saat":"09:22:26",
-    "Enlem":39.1322,
-    "Boylam":28.1268,
-    "Derinlik":8.6,
-    "ML":"1.4",
-    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR) REVIZE01 (2026.01.02",
-    "Cozum":"09:22:26)"
-  },
-  {
-    "Tarih":"2026.01.02",
-    "Saat":"09:22:26",
     "Enlem":39.1337,
     "Boylam":28.1292,
     "Derinlik":11.0,
     "ML":"1.4",
     "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.02",
+    "Saat":"09:22:26",
+    "Enlem":39.1322,
+    "Boylam":28.1268,
+    "Derinlik":8.6,
+    "ML":"1.4",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR) REVIZE01 (2026.01.02",
+    "Cozum":"09:22:26)"
   },
   {
     "Tarih":"2026.01.02",
@@ -9977,26 +9997,6 @@
     "Derinlik":2.9,
     "ML":"2.5",
     "Yer":"KARATERZI-DOGANSEHIR (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.01",
-    "Saat":"06:14:05",
-    "Enlem":38.4218,
-    "Boylam":27.0778,
-    "Derinlik":7.6,
-    "ML":"1.9",
-    "Yer":"IZMIR KORFEZI (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.01",
-    "Saat":"06:11:42",
-    "Enlem":38.8077,
-    "Boylam":37.9307,
-    "Derinlik":11.7,
-    "ML":"1.0",
-    "Yer":"HEKIMHAN (MALATYA)",
     "Cozum":"İlksel"
   }
 ]
