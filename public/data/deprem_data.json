@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.11",
+    "Saat":"05:57:27",
+    "Enlem":39.1843,
+    "Boylam":28.1615,
+    "Derinlik":10.2,
+    "ML":"2.1",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"05:54:13",
+    "Enlem":38.7695,
+    "Boylam":27.127,
+    "Derinlik":16.0,
+    "ML":"3.5",
+    "Yer":"KARAKUZU-ALIAGA (IZMIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"05:23:24",
+    "Enlem":39.1705,
+    "Boylam":28.087,
+    "Derinlik":10.5,
+    "ML":"1.6",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.11",
+    "Saat":"05:22:10",
+    "Enlem":39.3733,
+    "Boylam":27.9717,
+    "Derinlik":5.2,
+    "ML":"1.2",
+    "Yer":"HAMIDIYE-BIGADIC (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"05:18:29",
     "Enlem":39.3515,
     "Boylam":28.0202,
@@ -332,21 +372,21 @@
   {
     "Tarih":"2026.01.10",
     "Saat":"20:27:35",
-    "Enlem":38.3358,
-    "Boylam":38.5867,
-    "Derinlik":19.1,
-    "ML":"1.5",
-    "Yer":"BULUTLU-(MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.10",
-    "Saat":"20:27:35",
     "Enlem":38.217,
     "Boylam":38.5992,
     "Derinlik":13.4,
     "ML":"1.5",
     "Yer":"SOGUTLU-PUTURGE (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"20:27:35",
+    "Enlem":38.3358,
+    "Boylam":38.5867,
+    "Derinlik":19.1,
+    "ML":"1.5",
+    "Yer":"BULUTLU-(MALATYA)",
     "Cozum":"İlksel"
   },
   {
@@ -9957,46 +9997,6 @@
     "Derinlik":4.7,
     "ML":"1.0",
     "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.01",
-    "Saat":"02:23:11",
-    "Enlem":39.1957,
-    "Boylam":28.1823,
-    "Derinlik":11.1,
-    "ML":"1.3",
-    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.01",
-    "Saat":"02:02:36",
-    "Enlem":39.1813,
-    "Boylam":28.1785,
-    "Derinlik":7.9,
-    "ML":"2.6",
-    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.01",
-    "Saat":"01:52:25",
-    "Enlem":38.1655,
-    "Boylam":38.5818,
-    "Derinlik":2.8,
-    "ML":"2.0",
-    "Yer":"ULUKOY-(MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.01",
-    "Saat":"01:51:11",
-    "Enlem":39.1803,
-    "Boylam":28.2247,
-    "Derinlik":6.6,
-    "ML":"3.4",
-    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
