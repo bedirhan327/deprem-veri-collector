@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.11",
+    "Saat":"23:54:55",
+    "Enlem":38.7408,
+    "Boylam":28.7038,
+    "Derinlik":5.1,
+    "ML":"1.7",
+    "Yer":"KURSUNLU-SELENDI (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.11",
     "Saat":"22:59:56",
     "Enlem":38.1645,
     "Boylam":38.013,
@@ -982,21 +992,21 @@
   {
     "Tarih":"2026.01.10",
     "Saat":"20:27:35",
-    "Enlem":38.3358,
-    "Boylam":38.5867,
-    "Derinlik":19.1,
-    "ML":"1.5",
-    "Yer":"BULUTLU-(MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.10",
-    "Saat":"20:27:35",
     "Enlem":38.217,
     "Boylam":38.5992,
     "Derinlik":13.4,
     "ML":"1.5",
     "Yer":"SOGUTLU-PUTURGE (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"20:27:35",
+    "Enlem":38.3358,
+    "Boylam":38.5867,
+    "Derinlik":19.1,
+    "ML":"1.5",
+    "Yer":"BULUTLU-(MALATYA)",
     "Cozum":"İlksel"
   },
   {
@@ -9272,20 +9282,20 @@
   {
     "Tarih":"2026.01.02",
     "Saat":"05:07:46",
-    "Enlem":38.4052,
-    "Boylam":25.2823,
-    "Derinlik":17.1,
-    "ML":"2.6",
+    "Enlem":38.3595,
+    "Boylam":25.3153,
+    "Derinlik":8.3,
+    "ML":"2.3",
     "Yer":"EGE DENIZI",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.01.02",
     "Saat":"05:07:46",
-    "Enlem":38.3595,
-    "Boylam":25.3153,
-    "Derinlik":8.3,
-    "ML":"2.3",
+    "Enlem":38.4052,
+    "Boylam":25.2823,
+    "Derinlik":17.1,
+    "ML":"2.6",
     "Yer":"EGE DENIZI",
     "Cozum":"İlksel"
   },
@@ -9987,16 +9997,6 @@
     "Derinlik":0.0,
     "ML":"2.2",
     "Yer":"KARAHIDIR-GURSU (BURSA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.01",
-    "Saat":"15:19:21",
-    "Enlem":39.0793,
-    "Boylam":25.3862,
-    "Derinlik":9.1,
-    "ML":"2.2",
-    "Yer":"EGE DENIZI",
     "Cozum":"İlksel"
   }
 ]
