@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.13",
+    "Saat":"11:26:02",
+    "Enlem":39.2182,
+    "Boylam":28.057,
+    "Derinlik":12.2,
+    "ML":"2.0",
+    "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.13",
     "Saat":"11:18:03",
     "Enlem":38.1993,
     "Boylam":25.939,
@@ -1932,21 +1942,21 @@
   {
     "Tarih":"2026.01.10",
     "Saat":"20:27:35",
-    "Enlem":38.3358,
-    "Boylam":38.5867,
-    "Derinlik":19.1,
-    "ML":"1.5",
-    "Yer":"BULUTLU-(MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.10",
-    "Saat":"20:27:35",
     "Enlem":38.217,
     "Boylam":38.5992,
     "Derinlik":13.4,
     "ML":"1.5",
     "Yer":"SOGUTLU-PUTURGE (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"20:27:35",
+    "Enlem":38.3358,
+    "Boylam":38.5867,
+    "Derinlik":19.1,
+    "ML":"1.5",
+    "Yer":"BULUTLU-(MALATYA)",
     "Cozum":"İlksel"
   },
   {
@@ -9987,16 +9997,6 @@
     "Derinlik":10.9,
     "ML":"1.6",
     "Yer":"SURGU-DOGANSEHIR (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.02",
-    "Saat":"09:37:32",
-    "Enlem":39.135,
-    "Boylam":28.878,
-    "Derinlik":17.0,
-    "ML":"1.1",
-    "Yer":"GUMUSSU-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   }
 ]
