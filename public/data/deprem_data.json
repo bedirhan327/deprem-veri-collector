@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.14",
+    "Saat":"18:19:01",
+    "Enlem":38.1377,
+    "Boylam":38.5398,
+    "Derinlik":5.3,
+    "ML":"1.6",
+    "Yer":"GECITLI-SINCIK (ADIYAMAN)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.14",
     "Saat":"17:52:33",
     "Enlem":37.3973,
     "Boylam":29.1997,
@@ -2732,21 +2742,21 @@
   {
     "Tarih":"2026.01.10",
     "Saat":"20:27:35",
-    "Enlem":38.3358,
-    "Boylam":38.5867,
-    "Derinlik":19.1,
-    "ML":"1.5",
-    "Yer":"BULUTLU-(MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.10",
-    "Saat":"20:27:35",
     "Enlem":38.217,
     "Boylam":38.5992,
     "Derinlik":13.4,
     "ML":"1.5",
     "Yer":"SOGUTLU-PUTURGE (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"20:27:35",
+    "Enlem":38.3358,
+    "Boylam":38.5867,
+    "Derinlik":19.1,
+    "ML":"1.5",
+    "Yer":"BULUTLU-(MALATYA)",
     "Cozum":"İlksel"
   },
   {
@@ -9987,16 +9997,6 @@
     "Derinlik":9.4,
     "ML":"2.2",
     "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.03",
-    "Saat":"03:36:15",
-    "Enlem":40.8407,
-    "Boylam":28.396,
-    "Derinlik":5.2,
-    "ML":"1.9",
-    "Yer":"MARMARA DENIZI",
     "Cozum":"İlksel"
   }
 ]
