@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.01.15",
+    "Saat":"10:02:00",
+    "Enlem":34.1668,
+    "Boylam":33.6098,
+    "Derinlik":16.7,
+    "ML":"3.2",
+    "Yer":"KIBRIS ACIKLARI-GUNEY--(AKDENIZ) REVIZE01 (2026.01.15",
+    "Cozum":"10:02:00)"
+  },
+  {
+    "Tarih":"2026.01.15",
     "Saat":"09:53:29",
     "Enlem":35.7423,
     "Boylam":28.1635,
     "Derinlik":38.6,
     "ML":"3.4",
     "Yer":"AKDENIZ",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.15",
+    "Saat":"09:42:24",
+    "Enlem":39.2988,
+    "Boylam":27.7182,
+    "Derinlik":15.1,
+    "ML":"1.0",
+    "Yer":"KOZLUOREN-SOMA (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.15",
+    "Saat":"09:37:58",
+    "Enlem":39.2735,
+    "Boylam":27.8123,
+    "Derinlik":5.5,
+    "ML":"1.7",
+    "Yer":"HAMIDIYE-KIRKAGAC (MANISA)",
     "Cozum":"İlksel"
   },
   {
@@ -822,21 +852,21 @@
   {
     "Tarih":"2026.01.14",
     "Saat":"13:29:55",
-    "Enlem":39.0052,
-    "Boylam":28.3312,
-    "Derinlik":22.3,
-    "ML":"1.8",
-    "Yer":"SALUR-GORDES (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.14",
-    "Saat":"13:29:55",
     "Enlem":39.14,
     "Boylam":28.2535,
     "Derinlik":14.2,
     "ML":"2.0",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"13:29:55",
+    "Enlem":39.0052,
+    "Boylam":28.3312,
+    "Derinlik":22.3,
+    "ML":"1.8",
+    "Yer":"SALUR-GORDES (MANISA)",
     "Cozum":"İlksel"
   },
   {
@@ -3432,21 +3462,21 @@
   {
     "Tarih":"2026.01.10",
     "Saat":"20:27:35",
-    "Enlem":38.3358,
-    "Boylam":38.5867,
-    "Derinlik":19.1,
-    "ML":"1.5",
-    "Yer":"BULUTLU-(MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.10",
-    "Saat":"20:27:35",
     "Enlem":38.217,
     "Boylam":38.5992,
     "Derinlik":13.4,
     "ML":"1.5",
     "Yer":"SOGUTLU-PUTURGE (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"20:27:35",
+    "Enlem":38.3358,
+    "Boylam":38.5867,
+    "Derinlik":19.1,
+    "ML":"1.5",
+    "Yer":"BULUTLU-(MALATYA)",
     "Cozum":"İlksel"
   },
   {
@@ -9967,36 +9997,6 @@
     "Derinlik":53.4,
     "ML":"2.3",
     "Yer":"YENIKOY-KAS (ANTALYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.03",
-    "Saat":"19:39:14",
-    "Enlem":38.3233,
-    "Boylam":38.8933,
-    "Derinlik":7.3,
-    "ML":"1.5",
-    "Yer":"UZUNHUSEYIN-KALE (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.03",
-    "Saat":"19:20:29",
-    "Enlem":39.1645,
-    "Boylam":28.9138,
-    "Derinlik":18.9,
-    "ML":"1.6",
-    "Yer":"GUNEY-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.03",
-    "Saat":"18:50:59",
-    "Enlem":39.7262,
-    "Boylam":26.8927,
-    "Derinlik":8.5,
-    "ML":"1.9",
-    "Yer":"DAGOBA-BAYRAMIC (CANAKKALE)",
     "Cozum":"İlksel"
   }
 ]
