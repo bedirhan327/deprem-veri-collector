@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.15",
+    "Saat":"11:34:30",
+    "Enlem":39.8433,
+    "Boylam":26.0957,
+    "Derinlik":4.3,
+    "ML":"1.6",
+    "Yer":"BOZCAADA (CANAKKALE)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.15",
+    "Saat":"10:49:36",
+    "Enlem":38.8302,
+    "Boylam":26.7812,
+    "Derinlik":6.6,
+    "ML":"1.7",
+    "Yer":"CANDARLI KORFEZI (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.15",
     "Saat":"10:18:06",
     "Enlem":38.1958,
     "Boylam":25.9818,
@@ -67,6 +87,16 @@
     "Derinlik":4.6,
     "ML":"1.2",
     "Yer":"IPEKYOLU-HEKIMHAN (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.15",
+    "Saat":"09:06:51",
+    "Enlem":35.7773,
+    "Boylam":23.8405,
+    "Derinlik":6.6,
+    "ML":"3.0",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
     "Cozum":"İlksel"
   },
   {
@@ -3492,21 +3522,21 @@
   {
     "Tarih":"2026.01.10",
     "Saat":"20:27:35",
-    "Enlem":38.3358,
-    "Boylam":38.5867,
-    "Derinlik":19.1,
-    "ML":"1.5",
-    "Yer":"BULUTLU-(MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.10",
-    "Saat":"20:27:35",
     "Enlem":38.217,
     "Boylam":38.5992,
     "Derinlik":13.4,
     "ML":"1.5",
     "Yer":"SOGUTLU-PUTURGE (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"20:27:35",
+    "Enlem":38.3358,
+    "Boylam":38.5867,
+    "Derinlik":19.1,
+    "ML":"1.5",
+    "Yer":"BULUTLU-(MALATYA)",
     "Cozum":"İlksel"
   },
   {
@@ -9967,36 +9997,6 @@
     "Derinlik":5.0,
     "ML":"3.3",
     "Yer":"HACIHUSEYINLER-BASKIL (ELAZIG)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.03",
-    "Saat":"20:50:02",
-    "Enlem":39.0337,
-    "Boylam":25.8953,
-    "Derinlik":10.9,
-    "ML":"2.4",
-    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.03",
-    "Saat":"20:43:13",
-    "Enlem":38.4028,
-    "Boylam":38.9153,
-    "Derinlik":1.6,
-    "ML":"2.3",
-    "Yer":"HACIHUSEYINLER-BASKIL (ELAZIG)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.03",
-    "Saat":"20:39:18",
-    "Enlem":38.422,
-    "Boylam":38.949,
-    "Derinlik":15.7,
-    "ML":"1.7",
-    "Yer":"SARITAS-BASKIL (ELAZIG)",
     "Cozum":"İlksel"
   }
 ]
