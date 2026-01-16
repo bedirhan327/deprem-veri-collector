@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.16",
+    "Saat":"22:54:27",
+    "Enlem":38.3872,
+    "Boylam":25.3242,
+    "Derinlik":4.4,
+    "ML":"2.4",
+    "Yer":"EGE DENIZI",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"22:51:16",
+    "Enlem":39.1077,
+    "Boylam":28.3153,
+    "Derinlik":7.9,
+    "ML":"1.8",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"22:43:00",
+    "Enlem":36.828,
+    "Boylam":28.0123,
+    "Derinlik":59.5,
+    "ML":"1.2",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"22:34:22",
     "Enlem":39.2605,
     "Boylam":28.99,
@@ -2482,21 +2512,21 @@
   {
     "Tarih":"2026.01.14",
     "Saat":"13:29:55",
-    "Enlem":39.14,
-    "Boylam":28.2535,
-    "Derinlik":14.2,
-    "ML":"2.0",
-    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.14",
-    "Saat":"13:29:55",
     "Enlem":39.0052,
     "Boylam":28.3312,
     "Derinlik":22.3,
     "ML":"1.8",
     "Yer":"SALUR-GORDES (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"13:29:55",
+    "Enlem":39.14,
+    "Boylam":28.2535,
+    "Derinlik":14.2,
+    "ML":"2.0",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -9967,36 +9997,6 @@
     "Derinlik":9.0,
     "ML":"2.7",
     "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.05",
-    "Saat":"17:12:55",
-    "Enlem":39.2527,
-    "Boylam":28.972,
-    "Derinlik":16.6,
-    "ML":"1.2",
-    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.05",
-    "Saat":"16:57:14",
-    "Enlem":40.182,
-    "Boylam":31.7545,
-    "Derinlik":3.1,
-    "ML":"2.5",
-    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.05",
-    "Saat":"16:11:37",
-    "Enlem":39.4763,
-    "Boylam":37.4028,
-    "Derinlik":7.6,
-    "ML":"1.8",
-    "Yer":"KAPUKAYA-ULAS (SIVAS)",
     "Cozum":"İlksel"
   }
 ]
