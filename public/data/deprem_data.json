@@ -81,6 +81,16 @@
   },
   {
     "Tarih":"2026.01.16",
+    "Saat":"20:19:18",
+    "Enlem":35.653,
+    "Boylam":27.3697,
+    "Derinlik":10.0,
+    "ML":"2.3",
+    "Yer":"AKDENIZ",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.16",
     "Saat":"19:57:24",
     "Enlem":40.2493,
     "Boylam":24.056,
@@ -107,6 +117,16 @@
     "Derinlik":10.4,
     "ML":"0.9",
     "Yer":"AKDAG-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.16",
+    "Saat":"19:45:01",
+    "Enlem":38.3992,
+    "Boylam":25.3618,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"EGE DENIZI",
     "Cozum":"İlksel"
   },
   {
@@ -5062,21 +5082,21 @@
   {
     "Tarih":"2026.01.10",
     "Saat":"20:27:35",
-    "Enlem":38.3358,
-    "Boylam":38.5867,
-    "Derinlik":19.1,
-    "ML":"1.5",
-    "Yer":"BULUTLU-(MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.10",
-    "Saat":"20:27:35",
     "Enlem":38.217,
     "Boylam":38.5992,
     "Derinlik":13.4,
     "ML":"1.5",
     "Yer":"SOGUTLU-PUTURGE (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"20:27:35",
+    "Enlem":38.3358,
+    "Boylam":38.5867,
+    "Derinlik":19.1,
+    "ML":"1.5",
+    "Yer":"BULUTLU-(MALATYA)",
     "Cozum":"İlksel"
   },
   {
@@ -9977,26 +9997,6 @@
     "Derinlik":12.9,
     "ML":"1.7",
     "Yer":"ILICA-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.05",
-    "Saat":"14:30:55",
-    "Enlem":38.562,
-    "Boylam":40.4057,
-    "Derinlik":11.2,
-    "ML":"2.0",
-    "Yer":"YELKAYA-GENC (BINGOL)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.05",
-    "Saat":"13:40:54",
-    "Enlem":39.1863,
-    "Boylam":28.0982,
-    "Derinlik":9.8,
-    "ML":"2.0",
-    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
