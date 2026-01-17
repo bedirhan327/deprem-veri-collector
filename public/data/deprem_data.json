@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.17",
+    "Saat":"22:00:52",
+    "Enlem":37.2133,
+    "Boylam":28.4815,
+    "Derinlik":5.0,
+    "ML":"0.9",
+    "Yer":"OZLUCE-(MUGLA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"21:35:25",
+    "Enlem":39.1667,
+    "Boylam":28.2007,
+    "Derinlik":15.6,
+    "ML":"1.7",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.17",
+    "Saat":"21:35:00",
+    "Enlem":39.097,
+    "Boylam":28.2717,
+    "Derinlik":16.4,
+    "ML":"2.1",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.17",
     "Saat":"20:57:23",
     "Enlem":38.2617,
     "Boylam":37.8,
@@ -3122,21 +3152,21 @@
   {
     "Tarih":"2026.01.14",
     "Saat":"13:29:55",
-    "Enlem":39.14,
-    "Boylam":28.2535,
-    "Derinlik":14.2,
-    "ML":"2.0",
-    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.14",
-    "Saat":"13:29:55",
     "Enlem":39.0052,
     "Boylam":28.3312,
     "Derinlik":22.3,
     "ML":"1.8",
     "Yer":"SALUR-GORDES (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"13:29:55",
+    "Enlem":39.14,
+    "Boylam":28.2535,
+    "Derinlik":14.2,
+    "ML":"2.0",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -9967,36 +9997,6 @@
     "Derinlik":13.7,
     "ML":"1.5",
     "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.06",
-    "Saat":"08:21:35",
-    "Enlem":36.5932,
-    "Boylam":25.611,
-    "Derinlik":2.3,
-    "ML":"2.1",
-    "Yer":"EGE DENIZI",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.06",
-    "Saat":"08:09:59",
-    "Enlem":40.8107,
-    "Boylam":25.7688,
-    "Derinlik":5.4,
-    "ML":"2.6",
-    "Yer":"EGE DENIZI",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.06",
-    "Saat":"08:07:41",
-    "Enlem":40.8205,
-    "Boylam":28.121,
-    "Derinlik":15.2,
-    "ML":"2.1",
-    "Yer":"MARMARA DENIZI",
     "Cozum":"İlksel"
   }
 ]
