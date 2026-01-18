@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.18",
+    "Saat":"13:05:38",
+    "Enlem":39.2553,
+    "Boylam":29.0287,
+    "Derinlik":3.4,
+    "ML":"2.2",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"12:53:32",
+    "Enlem":39.2597,
+    "Boylam":28.9945,
+    "Derinlik":9.9,
+    "ML":"1.4",
+    "Yer":"YESILDERE-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.18",
     "Saat":"12:37:49",
     "Enlem":39.2637,
     "Boylam":28.9843,
@@ -6322,21 +6342,21 @@
   {
     "Tarih":"2026.01.10",
     "Saat":"20:27:35",
-    "Enlem":38.217,
-    "Boylam":38.5992,
-    "Derinlik":13.4,
-    "ML":"1.5",
-    "Yer":"SOGUTLU-PUTURGE (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.10",
-    "Saat":"20:27:35",
     "Enlem":38.3358,
     "Boylam":38.5867,
     "Derinlik":19.1,
     "ML":"1.5",
     "Yer":"BULUTLU-(MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"20:27:35",
+    "Enlem":38.217,
+    "Boylam":38.5992,
+    "Derinlik":13.4,
+    "ML":"1.5",
+    "Yer":"SOGUTLU-PUTURGE (MALATYA)",
     "Cozum":"İlksel"
   },
   {
@@ -9977,26 +9997,6 @@
     "Derinlik":14.6,
     "ML":"1.5",
     "Yer":"PASACAYI-BIGA (CANAKKALE)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.06",
-    "Saat":"20:57:11",
-    "Enlem":41.9183,
-    "Boylam":30.0678,
-    "Derinlik":20.8,
-    "ML":"1.8",
-    "Yer":"KARADENIZ",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.06",
-    "Saat":"20:25:54",
-    "Enlem":39.0045,
-    "Boylam":25.9422,
-    "Derinlik":5.7,
-    "ML":"1.6",
-    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
     "Cozum":"İlksel"
   }
 ]
