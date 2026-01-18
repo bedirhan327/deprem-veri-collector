@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.18",
+    "Saat":"20:05:23",
+    "Enlem":39.5193,
+    "Boylam":28.1085,
+    "Derinlik":5.2,
+    "ML":"0.9",
+    "Yer":"YENIKOY-BIGADIC (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"20:01:36",
+    "Enlem":39.5083,
+    "Boylam":28.0728,
+    "Derinlik":11.7,
+    "ML":"2.1",
+    "Yer":"GUVEMCETMI-BIGADIC (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"19:53:21",
+    "Enlem":40.8218,
+    "Boylam":27.818,
+    "Derinlik":10.1,
+    "ML":"2.2",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.18",
+    "Saat":"19:42:24",
+    "Enlem":39.1717,
+    "Boylam":28.0828,
+    "Derinlik":9.2,
+    "ML":"1.8",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.18",
     "Saat":"19:36:45",
     "Enlem":37.1442,
     "Boylam":36.12,
@@ -4002,21 +4042,21 @@
   {
     "Tarih":"2026.01.14",
     "Saat":"13:29:55",
-    "Enlem":39.14,
-    "Boylam":28.2535,
-    "Derinlik":14.2,
-    "ML":"2.0",
-    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.14",
-    "Saat":"13:29:55",
     "Enlem":39.0052,
     "Boylam":28.3312,
     "Derinlik":22.3,
     "ML":"1.8",
     "Yer":"SALUR-GORDES (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"13:29:55",
+    "Enlem":39.14,
+    "Boylam":28.2535,
+    "Derinlik":14.2,
+    "ML":"2.0",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -9957,46 +9997,6 @@
     "Derinlik":4.6,
     "ML":"1.2",
     "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.07",
-    "Saat":"04:09:14",
-    "Enlem":39.0358,
-    "Boylam":25.9688,
-    "Derinlik":12.5,
-    "ML":"2.2",
-    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.07",
-    "Saat":"04:09:10",
-    "Enlem":38.0632,
-    "Boylam":35.4368,
-    "Derinlik":7.9,
-    "ML":"1.2",
-    "Yer":"KUZOLUK-YAHYALI (KAYSERI) REVIZE01 (2026.01.07",
-    "Cozum":"04:09:14)"
-  },
-  {
-    "Tarih":"2026.01.07",
-    "Saat":"04:04:12",
-    "Enlem":38.3452,
-    "Boylam":37.248,
-    "Derinlik":15.1,
-    "ML":"0.7",
-    "Yer":"BUYUKYAPALAK-ELBISTAN (KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.07",
-    "Saat":"03:59:29",
-    "Enlem":39.1247,
-    "Boylam":28.3188,
-    "Derinlik":9.2,
-    "ML":"1.4",
-    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
