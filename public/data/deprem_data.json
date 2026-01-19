@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.19",
+    "Saat":"17:13:44",
+    "Enlem":38.4818,
+    "Boylam":32.5042,
+    "Derinlik":7.5,
+    "ML":"1.8",
+    "Yer":"OZKENT-SARAYONU (KONYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.19",
+    "Saat":"17:11:15",
+    "Enlem":39.1943,
+    "Boylam":28.2212,
+    "Derinlik":7.6,
+    "ML":"1.9",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.19",
+    "Saat":"16:15:27",
+    "Enlem":39.5625,
+    "Boylam":38.4993,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"DORUKSARAY-ILIC (ERZINCAN)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.19",
     "Saat":"16:05:47",
     "Enlem":36.619,
     "Boylam":23.415,
@@ -4502,21 +4532,21 @@
   {
     "Tarih":"2026.01.14",
     "Saat":"13:29:55",
-    "Enlem":39.0052,
-    "Boylam":28.3312,
-    "Derinlik":22.3,
-    "ML":"1.8",
-    "Yer":"SALUR-GORDES (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.14",
-    "Saat":"13:29:55",
     "Enlem":39.14,
     "Boylam":28.2535,
     "Derinlik":14.2,
     "ML":"2.0",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"13:29:55",
+    "Enlem":39.0052,
+    "Boylam":28.3312,
+    "Derinlik":22.3,
+    "ML":"1.8",
+    "Yer":"SALUR-GORDES (MANISA)",
     "Cozum":"İlksel"
   },
   {
@@ -9967,36 +9997,6 @@
     "Derinlik":13.4,
     "ML":"2.0",
     "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.07",
-    "Saat":"15:28:27",
-    "Enlem":39.2402,
-    "Boylam":28.0612,
-    "Derinlik":8.4,
-    "ML":"2.0",
-    "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.07",
-    "Saat":"15:18:57",
-    "Enlem":35.7717,
-    "Boylam":25.0733,
-    "Derinlik":12.1,
-    "ML":"2.6",
-    "Yer":"EGE DENIZI",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.07",
-    "Saat":"15:18:38",
-    "Enlem":39.2147,
-    "Boylam":28.1578,
-    "Derinlik":10.4,
-    "ML":"2.6",
-    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
