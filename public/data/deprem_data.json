@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.19",
+    "Saat":"10:31:46",
+    "Enlem":36.4153,
+    "Boylam":28.0472,
+    "Derinlik":30.1,
+    "ML":"1.6",
+    "Yer":"EGE DENIZI",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.19",
     "Saat":"09:57:33",
     "Enlem":39.0125,
     "Boylam":25.8483,
@@ -6942,21 +6952,21 @@
   {
     "Tarih":"2026.01.10",
     "Saat":"20:27:35",
-    "Enlem":38.3358,
-    "Boylam":38.5867,
-    "Derinlik":19.1,
-    "ML":"1.5",
-    "Yer":"BULUTLU-(MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.10",
-    "Saat":"20:27:35",
     "Enlem":38.217,
     "Boylam":38.5992,
     "Derinlik":13.4,
     "ML":"1.5",
     "Yer":"SOGUTLU-PUTURGE (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"20:27:35",
+    "Enlem":38.3358,
+    "Boylam":38.5867,
+    "Derinlik":19.1,
+    "ML":"1.5",
+    "Yer":"BULUTLU-(MALATYA)",
     "Cozum":"İlksel"
   },
   {
@@ -9987,16 +9997,6 @@
     "Derinlik":0.0,
     "ML":"1.7",
     "Yer":"CALISKANLAR-(SANLIURFA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.07",
-    "Saat":"12:15:39",
-    "Enlem":39.2113,
-    "Boylam":28.1495,
-    "Derinlik":11.4,
-    "ML":"1.5",
-    "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
