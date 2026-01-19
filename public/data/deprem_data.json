@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.19",
+    "Saat":"18:27:39",
+    "Enlem":39.1368,
+    "Boylam":28.2498,
+    "Derinlik":12.7,
+    "ML":"1.5",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.19",
+    "Saat":"18:07:00",
+    "Enlem":37.5452,
+    "Boylam":36.2362,
+    "Derinlik":21.1,
+    "ML":"1.5",
+    "Yer":"TAHTA-KADIRLI (OSMANIYE)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.19",
     "Saat":"18:03:38",
     "Enlem":40.6865,
     "Boylam":29.1525,
@@ -7162,21 +7182,21 @@
   {
     "Tarih":"2026.01.10",
     "Saat":"20:27:35",
-    "Enlem":38.217,
-    "Boylam":38.5992,
-    "Derinlik":13.4,
-    "ML":"1.5",
-    "Yer":"SOGUTLU-PUTURGE (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.10",
-    "Saat":"20:27:35",
     "Enlem":38.3358,
     "Boylam":38.5867,
     "Derinlik":19.1,
     "ML":"1.5",
     "Yer":"BULUTLU-(MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"20:27:35",
+    "Enlem":38.217,
+    "Boylam":38.5992,
+    "Derinlik":13.4,
+    "ML":"1.5",
+    "Yer":"SOGUTLU-PUTURGE (MALATYA)",
     "Cozum":"İlksel"
   },
   {
@@ -9977,26 +9997,6 @@
     "Derinlik":3.6,
     "ML":"2.2",
     "Yer":"KUCUKBAHCE-KARABURUN (IZMIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.07",
-    "Saat":"16:11:04",
-    "Enlem":36.494,
-    "Boylam":34.1782,
-    "Derinlik":0.0,
-    "ML":"2.0",
-    "Yer":"AYAS-ERDEMLI (MERSIN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.07",
-    "Saat":"15:41:51",
-    "Enlem":38.792,
-    "Boylam":37.9398,
-    "Derinlik":9.9,
-    "ML":"1.8",
-    "Yer":"HEKIMHAN (MALATYA)",
     "Cozum":"İlksel"
   }
 ]
