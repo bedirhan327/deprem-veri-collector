@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.19",
+    "Saat":"13:59:34",
+    "Enlem":35.3573,
+    "Boylam":32.1887,
+    "Derinlik":5.0,
+    "ML":"2.9",
+    "Yer":"AKDENIZ",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.19",
     "Saat":"13:06:43",
     "Enlem":35.3452,
     "Boylam":33.4512,
@@ -4422,21 +4432,21 @@
   {
     "Tarih":"2026.01.14",
     "Saat":"13:29:55",
-    "Enlem":39.0052,
-    "Boylam":28.3312,
-    "Derinlik":22.3,
-    "ML":"1.8",
-    "Yer":"SALUR-GORDES (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.14",
-    "Saat":"13:29:55",
     "Enlem":39.14,
     "Boylam":28.2535,
     "Derinlik":14.2,
     "ML":"2.0",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"13:29:55",
+    "Enlem":39.0052,
+    "Boylam":28.3312,
+    "Derinlik":22.3,
+    "ML":"1.8",
+    "Yer":"SALUR-GORDES (MANISA)",
     "Cozum":"İlksel"
   },
   {
@@ -9987,16 +9997,6 @@
     "Derinlik":2.0,
     "ML":"2.0",
     "Yer":"GOKOVA-ULA (MUGLA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.07",
-    "Saat":"13:12:58",
-    "Enlem":37.945,
-    "Boylam":28.0258,
-    "Derinlik":8.2,
-    "ML":"1.4",
-    "Yer":"ILIDAG-KOSK (AYDIN)",
     "Cozum":"İlksel"
   }
 ]
