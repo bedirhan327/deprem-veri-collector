@@ -1,12 +1,62 @@
 [
   {
     "Tarih":"2026.01.20",
+    "Saat":"13:48:15",
+    "Enlem":38.191,
+    "Boylam":36.9068,
+    "Derinlik":4.1,
+    "ML":"1.8",
+    "Yer":"HUYUKLU-AFSIN (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.20",
+    "Saat":"13:47:30",
+    "Enlem":35.2368,
+    "Boylam":33.5542,
+    "Derinlik":0.0,
+    "ML":"1.8",
+    "Yer":"KIBRIS-DEGIRMENLIK",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.20",
+    "Saat":"13:10:35",
+    "Enlem":39.5243,
+    "Boylam":27.686,
+    "Derinlik":4.8,
+    "ML":"1.2",
+    "Yer":"YUNAKDERE-SAVASTEPE (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.20",
+    "Saat":"13:08:43",
+    "Enlem":40.3612,
+    "Boylam":24.0842,
+    "Derinlik":11.6,
+    "ML":"2.4",
+    "Yer":"YUNANISTAN",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.20",
     "Saat":"13:04:05",
     "Enlem":38.2898,
     "Boylam":38.1867,
     "Derinlik":19.7,
     "ML":"1.4",
     "Yer":"IKIZCE-YESILYURT (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.20",
+    "Saat":"12:38:50",
+    "Enlem":36.2047,
+    "Boylam":29.0407,
+    "Derinlik":24.5,
+    "ML":"1.6",
+    "Yer":"AKDENIZ",
     "Cozum":"İlksel"
   },
   {
@@ -4912,21 +4962,21 @@
   {
     "Tarih":"2026.01.14",
     "Saat":"13:29:55",
-    "Enlem":39.14,
-    "Boylam":28.2535,
-    "Derinlik":14.2,
-    "ML":"2.0",
-    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.14",
-    "Saat":"13:29:55",
     "Enlem":39.0052,
     "Boylam":28.3312,
     "Derinlik":22.3,
     "ML":"1.8",
     "Yer":"SALUR-GORDES (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"13:29:55",
+    "Enlem":39.14,
+    "Boylam":28.2535,
+    "Derinlik":14.2,
+    "ML":"2.0",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -9947,56 +9997,6 @@
     "Derinlik":10.4,
     "ML":"1.0",
     "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.08",
-    "Saat":"01:00:15",
-    "Enlem":38.0507,
-    "Boylam":37.4352,
-    "Derinlik":2.8,
-    "ML":"0.9",
-    "Yer":"AGCASAR-NURHAK (KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.08",
-    "Saat":"00:54:07",
-    "Enlem":40.956,
-    "Boylam":39.7695,
-    "Derinlik":8.7,
-    "ML":"2.2",
-    "Yer":"KAVALA-(TRABZON)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.08",
-    "Saat":"00:53:55",
-    "Enlem":39.165,
-    "Boylam":28.2275,
-    "Derinlik":12.1,
-    "ML":"1.9",
-    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.08",
-    "Saat":"00:31:54",
-    "Enlem":40.8807,
-    "Boylam":28.4378,
-    "Derinlik":14.4,
-    "ML":"1.7",
-    "Yer":"GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.08",
-    "Saat":"00:30:11",
-    "Enlem":38.1398,
-    "Boylam":44.7605,
-    "Derinlik":5.0,
-    "ML":"2.3",
-    "Yer":"TURKIYE-IRAN SINIR BOLGESI",
     "Cozum":"İlksel"
   }
 ]
