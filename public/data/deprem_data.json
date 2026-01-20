@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.20",
+    "Saat":"08:39:11",
+    "Enlem":39.1475,
+    "Boylam":28.0493,
+    "Derinlik":5.0,
+    "ML":"1.2",
+    "Yer":"ISACA-AKHISAR (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.20",
     "Saat":"07:58:41",
     "Enlem":40.6878,
     "Boylam":29.0895,
@@ -7392,21 +7402,21 @@
   {
     "Tarih":"2026.01.10",
     "Saat":"20:27:35",
-    "Enlem":38.3358,
-    "Boylam":38.5867,
-    "Derinlik":19.1,
-    "ML":"1.5",
-    "Yer":"BULUTLU-(MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.10",
-    "Saat":"20:27:35",
     "Enlem":38.217,
     "Boylam":38.5992,
     "Derinlik":13.4,
     "ML":"1.5",
     "Yer":"SOGUTLU-PUTURGE (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"20:27:35",
+    "Enlem":38.3358,
+    "Boylam":38.5867,
+    "Derinlik":19.1,
+    "ML":"1.5",
+    "Yer":"BULUTLU-(MALATYA)",
     "Cozum":"İlksel"
   },
   {
@@ -9987,16 +9997,6 @@
     "Derinlik":15.4,
     "ML":"1.2",
     "Yer":"YALINTAS-ELBISTAN (KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.07",
-    "Saat":"20:19:38",
-    "Enlem":37.812,
-    "Boylam":36.5077,
-    "Derinlik":24.2,
-    "ML":"1.2",
-    "Yer":"KUMARLI-(KAHRAMANMARAS)",
     "Cozum":"İlksel"
   }
 ]
