@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.01.20",
+    "Saat":"07:58:41",
+    "Enlem":40.6878,
+    "Boylam":29.0895,
+    "Derinlik":8.0,
+    "ML":"1.2",
+    "Yer":"CINARCIK (YALOVA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.20",
     "Saat":"06:23:27",
     "Enlem":39.2493,
     "Boylam":28.1047,
@@ -7382,21 +7392,21 @@
   {
     "Tarih":"2026.01.10",
     "Saat":"20:27:35",
-    "Enlem":38.217,
-    "Boylam":38.5992,
-    "Derinlik":13.4,
-    "ML":"1.5",
-    "Yer":"SOGUTLU-PUTURGE (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.10",
-    "Saat":"20:27:35",
     "Enlem":38.3358,
     "Boylam":38.5867,
     "Derinlik":19.1,
     "ML":"1.5",
     "Yer":"BULUTLU-(MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"20:27:35",
+    "Enlem":38.217,
+    "Boylam":38.5992,
+    "Derinlik":13.4,
+    "ML":"1.5",
+    "Yer":"SOGUTLU-PUTURGE (MALATYA)",
     "Cozum":"İlksel"
   },
   {
@@ -9987,16 +9997,6 @@
     "Derinlik":24.2,
     "ML":"1.2",
     "Yer":"KUMARLI-(KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.07",
-    "Saat":"20:10:35",
-    "Enlem":38.1437,
-    "Boylam":38.4718,
-    "Derinlik":18.3,
-    "ML":"0.9",
-    "Yer":"AKSU-SINCIK (ADIYAMAN)",
     "Cozum":"İlksel"
   }
 ]
