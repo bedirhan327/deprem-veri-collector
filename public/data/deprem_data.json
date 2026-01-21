@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.21",
+    "Saat":"19:09:10",
+    "Enlem":39.2112,
+    "Boylam":28.1112,
+    "Derinlik":16.5,
+    "ML":"1.5",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"19:03:17",
+    "Enlem":39.1297,
+    "Boylam":28.3217,
+    "Derinlik":10.1,
+    "ML":"1.5",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"18:45:25",
+    "Enlem":39.1467,
+    "Boylam":28.3025,
+    "Derinlik":11.3,
+    "ML":"2.9",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.21",
     "Saat":"18:37:29",
     "Enlem":39.0617,
     "Boylam":28.4112,
@@ -86,6 +116,16 @@
     "Boylam":28.3138,
     "Derinlik":12.6,
     "ML":"2.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.21",
+    "Saat":"18:14:48",
+    "Enlem":39.1153,
+    "Boylam":28.2773,
+    "Derinlik":17.0,
+    "ML":"2.3",
     "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
@@ -6112,21 +6152,21 @@
   {
     "Tarih":"2026.01.14",
     "Saat":"13:29:55",
-    "Enlem":39.0052,
-    "Boylam":28.3312,
-    "Derinlik":22.3,
-    "ML":"1.8",
-    "Yer":"SALUR-GORDES (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.14",
-    "Saat":"13:29:55",
     "Enlem":39.14,
     "Boylam":28.2535,
     "Derinlik":14.2,
     "ML":"2.0",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"13:29:55",
+    "Enlem":39.0052,
+    "Boylam":28.3312,
+    "Derinlik":22.3,
+    "ML":"1.8",
+    "Yer":"SALUR-GORDES (MANISA)",
     "Cozum":"İlksel"
   },
   {
@@ -9957,46 +9997,6 @@
     "Derinlik":11.2,
     "ML":"1.5",
     "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.09",
-    "Saat":"08:35:41",
-    "Enlem":39.244,
-    "Boylam":28.9558,
-    "Derinlik":13.2,
-    "ML":"2.1",
-    "Yer":"YENILER-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.09",
-    "Saat":"07:51:48",
-    "Enlem":38.1292,
-    "Boylam":38.4115,
-    "Derinlik":8.4,
-    "ML":"2.3",
-    "Yer":"SALKONAK-YESILYURT (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.09",
-    "Saat":"07:49:06",
-    "Enlem":39.2123,
-    "Boylam":28.1193,
-    "Derinlik":12.5,
-    "ML":"2.3",
-    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.09",
-    "Saat":"07:25:51",
-    "Enlem":36.4142,
-    "Boylam":36.27,
-    "Derinlik":13.0,
-    "ML":"1.7",
-    "Yer":"SENBUK-BELEN (HATAY)",
     "Cozum":"İlksel"
   }
 ]
