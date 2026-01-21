@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.22",
+    "Saat":"01:05:31",
+    "Enlem":39.1467,
+    "Boylam":28.2677,
+    "Derinlik":15.2,
+    "ML":"2.7",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"01:00:15",
+    "Enlem":38.7583,
+    "Boylam":27.1257,
+    "Derinlik":5.6,
+    "ML":"1.7",
+    "Yer":"KARAKUZU-ALIAGA (IZMIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"00:54:46",
+    "Enlem":39.1767,
+    "Boylam":28.2975,
+    "Derinlik":11.2,
+    "ML":"1.5",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.22",
     "Saat":"00:52:18",
     "Enlem":39.1515,
     "Boylam":28.316,
@@ -9482,21 +9512,21 @@
   {
     "Tarih":"2026.01.10",
     "Saat":"20:27:35",
-    "Enlem":38.217,
-    "Boylam":38.5992,
-    "Derinlik":13.4,
-    "ML":"1.5",
-    "Yer":"SOGUTLU-PUTURGE (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.10",
-    "Saat":"20:27:35",
     "Enlem":38.3358,
     "Boylam":38.5867,
     "Derinlik":19.1,
     "ML":"1.5",
     "Yer":"BULUTLU-(MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.10",
+    "Saat":"20:27:35",
+    "Enlem":38.217,
+    "Boylam":38.5992,
+    "Derinlik":13.4,
+    "ML":"1.5",
+    "Yer":"SOGUTLU-PUTURGE (MALATYA)",
     "Cozum":"İlksel"
   },
   {
@@ -9967,36 +9997,6 @@
     "Derinlik":9.6,
     "ML":"1.8",
     "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.10",
-    "Saat":"03:02:35",
-    "Enlem":37.3492,
-    "Boylam":37.6975,
-    "Derinlik":7.0,
-    "ML":"2.2",
-    "Yer":"NOHUTALANI-YAVUZELI (GAZIANTEP)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.10",
-    "Saat":"02:56:32",
-    "Enlem":39.1775,
-    "Boylam":28.2507,
-    "Derinlik":9.6,
-    "ML":"2.4",
-    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.10",
-    "Saat":"02:51:49",
-    "Enlem":37.1307,
-    "Boylam":28.4268,
-    "Derinlik":13.9,
-    "ML":"1.4",
-    "Yer":"ULA (MUGLA)",
     "Cozum":"İlksel"
   }
 ]
