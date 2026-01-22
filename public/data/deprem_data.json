@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.22",
+    "Saat":"23:26:47",
+    "Enlem":38.2482,
+    "Boylam":25.8805,
+    "Derinlik":13.5,
+    "ML":"2.8",
+    "Yer":"SAKIZ ADASI (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"23:14:44",
+    "Enlem":40.7897,
+    "Boylam":27.7245,
+    "Derinlik":10.2,
+    "ML":"1.5",
+    "Yer":"MARMARA DENIZI",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.22",
     "Saat":"22:47:48",
     "Enlem":39.1353,
     "Boylam":28.296,
@@ -7972,21 +7992,21 @@
   {
     "Tarih":"2026.01.14",
     "Saat":"13:29:55",
-    "Enlem":39.0052,
-    "Boylam":28.3312,
-    "Derinlik":22.3,
-    "ML":"1.8",
-    "Yer":"SALUR-GORDES (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.14",
-    "Saat":"13:29:55",
     "Enlem":39.14,
     "Boylam":28.2535,
     "Derinlik":14.2,
     "ML":"2.0",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"13:29:55",
+    "Enlem":39.0052,
+    "Boylam":28.3312,
+    "Derinlik":22.3,
+    "ML":"1.8",
+    "Yer":"SALUR-GORDES (MANISA)",
     "Cozum":"İlksel"
   },
   {
@@ -9977,26 +9997,6 @@
     "Derinlik":14.5,
     "ML":"1.5",
     "Yer":"ULUKOY-(MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.11",
-    "Saat":"13:27:28",
-    "Enlem":39.2392,
-    "Boylam":28.1042,
-    "Derinlik":13.5,
-    "ML":"1.7",
-    "Yer":"KOZLU-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.11",
-    "Saat":"13:06:53",
-    "Enlem":40.8788,
-    "Boylam":28.6818,
-    "Derinlik":16.8,
-    "ML":"1.8",
-    "Yer":"AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
     "Cozum":"İlksel"
   }
 ]
