@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.01.22",
+    "Saat":"09:39:22",
+    "Enlem":39.1623,
+    "Boylam":28.2405,
+    "Derinlik":12.7,
+    "ML":"1.8",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.22",
+    "Saat":"09:32:42",
+    "Enlem":38.9803,
+    "Boylam":40.4822,
+    "Derinlik":1.0,
+    "ML":"2.7",
+    "Yer":"CICEKDERE-(BINGOL)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.22",
     "Saat":"09:12:28",
     "Enlem":39.1387,
     "Boylam":28.303,
@@ -7422,21 +7442,21 @@
   {
     "Tarih":"2026.01.14",
     "Saat":"13:29:55",
-    "Enlem":39.14,
-    "Boylam":28.2535,
-    "Derinlik":14.2,
-    "ML":"2.0",
-    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.14",
-    "Saat":"13:29:55",
     "Enlem":39.0052,
     "Boylam":28.3312,
     "Derinlik":22.3,
     "ML":"1.8",
     "Yer":"SALUR-GORDES (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"13:29:55",
+    "Enlem":39.14,
+    "Boylam":28.2535,
+    "Derinlik":14.2,
+    "ML":"2.0",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -9977,26 +9997,6 @@
     "Derinlik":5.4,
     "ML":"2.1",
     "Yer":"KONAKPINAR-(BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.10",
-    "Saat":"21:56:53",
-    "Enlem":38.0417,
-    "Boylam":38.2915,
-    "Derinlik":5.8,
-    "ML":"1.9",
-    "Yer":"KOSEUSAGI-CELIKHAN (ADIYAMAN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.10",
-    "Saat":"21:46:25",
-    "Enlem":37.9977,
-    "Boylam":37.6588,
-    "Derinlik":7.7,
-    "ML":"1.5",
-    "Yer":"KAPIDERE-DOGANSEHIR (MALATYA)",
     "Cozum":"İlksel"
   }
 ]
