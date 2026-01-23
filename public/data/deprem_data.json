@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.01.23",
+    "Saat":"12:26:07",
+    "Enlem":38.3692,
+    "Boylam":37.377,
+    "Derinlik":4.1,
+    "ML":"1.5",
+    "Yer":"INCECIK-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"12:16:02",
+    "Enlem":38.0162,
+    "Boylam":36.2612,
+    "Derinlik":5.4,
+    "ML":"1.6",
+    "Yer":"YENIKOY-SAIMBEYLI (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"12:07:32",
+    "Enlem":39.1763,
+    "Boylam":28.2337,
+    "Derinlik":5.3,
+    "ML":"1.4",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.23",
+    "Saat":"11:53:34",
+    "Enlem":35.2802,
+    "Boylam":33.5835,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"KIBRIS-DEGIRMENLIK",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.23",
     "Saat":"11:26:35",
     "Enlem":39.155,
     "Boylam":28.2933,
@@ -8572,21 +8612,21 @@
   {
     "Tarih":"2026.01.14",
     "Saat":"13:29:55",
-    "Enlem":39.14,
-    "Boylam":28.2535,
-    "Derinlik":14.2,
-    "ML":"2.0",
-    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.14",
-    "Saat":"13:29:55",
     "Enlem":39.0052,
     "Boylam":28.3312,
     "Derinlik":22.3,
     "ML":"1.8",
     "Yer":"SALUR-GORDES (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.14",
+    "Saat":"13:29:55",
+    "Enlem":39.14,
+    "Boylam":28.2535,
+    "Derinlik":14.2,
+    "ML":"2.0",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -9957,46 +9997,6 @@
     "Derinlik":10.8,
     "ML":"1.0",
     "Yer":"YEMISLI-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.12",
-    "Saat":"05:10:42",
-    "Enlem":39.1542,
-    "Boylam":28.114,
-    "Derinlik":10.1,
-    "ML":"1.4",
-    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.12",
-    "Saat":"04:59:55",
-    "Enlem":37.0993,
-    "Boylam":28.505,
-    "Derinlik":14.0,
-    "ML":"1.4",
-    "Yer":"CICEKLI-ULA (MUGLA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.12",
-    "Saat":"04:54:09",
-    "Enlem":39.2027,
-    "Boylam":28.0385,
-    "Derinlik":3.8,
-    "ML":"1.6",
-    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.12",
-    "Saat":"04:53:13",
-    "Enlem":39.1547,
-    "Boylam":28.142,
-    "Derinlik":9.9,
-    "ML":"1.2",
-    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
