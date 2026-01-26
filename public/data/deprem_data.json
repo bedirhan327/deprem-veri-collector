@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.01.26",
+    "Saat":"19:54:50",
+    "Enlem":38.2447,
+    "Boylam":38.0865,
+    "Derinlik":11.2,
+    "ML":"2.0",
+    "Yer":"KIRLANGIC-YESILYURT (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"19:42:39",
+    "Enlem":39.1612,
+    "Boylam":28.1503,
+    "Derinlik":12.8,
+    "ML":"1.8",
+    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.26",
+    "Saat":"19:21:15",
+    "Enlem":38.1078,
+    "Boylam":28.8923,
+    "Derinlik":5.3,
+    "ML":"1.9",
+    "Yer":"CAMKOY-BULDAN (DENIZLI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.01.26",
     "Saat":"19:11:41",
     "Enlem":38.2443,
     "Boylam":38.579,
@@ -9967,36 +9997,6 @@
     "Derinlik":22.3,
     "ML":"1.4",
     "Yer":"ESENLI-SUMBAS (OSMANIYE)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.18",
-    "Saat":"18:17:15",
-    "Enlem":39.162,
-    "Boylam":28.209,
-    "Derinlik":11.8,
-    "ML":"2.7",
-    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.18",
-    "Saat":"17:44:47",
-    "Enlem":38.8515,
-    "Boylam":38.1552,
-    "Derinlik":25.8,
-    "ML":"1.1",
-    "Yer":"ARMUTLU-ARGUVAN (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.01.18",
-    "Saat":"17:43:13",
-    "Enlem":40.803,
-    "Boylam":30.997,
-    "Derinlik":5.0,
-    "ML":"2.2",
-    "Yer":"ICMELER-GOLYAKA (DUZCE)",
     "Cozum":"İlksel"
   }
 ]
