@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.25",
+    "Saat":"19:50:44",
+    "Enlem":37.177,
+    "Boylam":36.955,
+    "Derinlik":1.5,
+    "ML":"2.0",
+    "Yer":"SAKCAGOZE-NURDAGI (GAZIANTEP)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"19:40:11",
+    "Enlem":39.2185,
+    "Boylam":28.1185,
+    "Derinlik":8.1,
+    "ML":"1.6",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.02.25",
     "Saat":"18:22:37",
     "Enlem":40.0202,
     "Boylam":28.7905,
@@ -9172,21 +9192,21 @@
   {
     "Tarih":"2026.02.15",
     "Saat":"11:33:55",
-    "Enlem":39.6925,
-    "Boylam":27.9047,
-    "Derinlik":3.6,
-    "ML":"1.9",
-    "Yer":"UCPINAR-(BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.15",
-    "Saat":"11:33:55",
     "Enlem":39.6955,
     "Boylam":27.9098,
     "Derinlik":3.1,
     "ML":"1.7",
     "Yer":"UCPINAR (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.02.15",
+    "Saat":"11:33:55",
+    "Enlem":39.6925,
+    "Boylam":27.9047,
+    "Derinlik":3.6,
+    "ML":"1.9",
+    "Yer":"UCPINAR-(BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -9977,26 +9997,6 @@
     "Derinlik":5.4,
     "ML":"2.3",
     "Yer":"ALICLIBUCAK-GOKSUN (KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.14",
-    "Saat":"16:02:08",
-    "Enlem":40.0265,
-    "Boylam":28.6955,
-    "Derinlik":10.6,
-    "ML":"1.4",
-    "Yer":"KOCAKORU-MUSTAFAKEMALPASA (BURSA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.14",
-    "Saat":"15:59:39",
-    "Enlem":34.926,
-    "Boylam":32.7022,
-    "Derinlik":18.4,
-    "ML":"2.3",
-    "Yer":"KIBRIS RUM KESIMI",
     "Cozum":"İlksel"
   }
 ]
