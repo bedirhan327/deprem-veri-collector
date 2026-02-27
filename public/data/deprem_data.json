@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.27",
+    "Saat":"17:40:40",
+    "Enlem":39.243,
+    "Boylam":29.0278,
+    "Derinlik":12.3,
+    "ML":"1.5",
+    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.02.27",
+    "Saat":"14:29:05",
+    "Enlem":39.1857,
+    "Boylam":28.1965,
+    "Derinlik":8.9,
+    "ML":"1.7",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.02.27",
     "Saat":"13:43:35",
     "Enlem":39.137,
     "Boylam":28.1217,
@@ -9782,21 +9802,21 @@
   {
     "Tarih":"2026.02.16",
     "Saat":"07:24:14",
-    "Enlem":36.4512,
-    "Boylam":36.2862,
-    "Derinlik":5.7,
-    "ML":"2.7",
-    "Yer":"TOPBOGAZI-KIRIKHAN (HATAY)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.16",
-    "Saat":"07:24:14",
     "Enlem":36.4518,
     "Boylam":36.2835,
     "Derinlik":5.4,
     "ML":"2.7",
     "Yer":"CAKALLI-BELEN (HATAY)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.02.16",
+    "Saat":"07:24:14",
+    "Enlem":36.4512,
+    "Boylam":36.2862,
+    "Derinlik":5.7,
+    "ML":"2.7",
+    "Yer":"TOPBOGAZI-KIRIKHAN (HATAY)",
     "Cozum":"İlksel"
   },
   {
@@ -9977,26 +9997,6 @@
     "Derinlik":0.0,
     "ML":"2.3",
     "Yer":"GORGU-YESILYURT (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.15",
-    "Saat":"19:59:40",
-    "Enlem":39.0818,
-    "Boylam":40.4662,
-    "Derinlik":5.4,
-    "ML":"2.0",
-    "Yer":"TEPEBASI-(BINGOL)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.15",
-    "Saat":"19:40:25",
-    "Enlem":38.0932,
-    "Boylam":37.4923,
-    "Derinlik":5.2,
-    "ML":"1.7",
-    "Yer":"SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
     "Cozum":"İlksel"
   }
 ]
