@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.02.28",
+    "Saat":"11:03:04",
+    "Enlem":39.1655,
+    "Boylam":28.29,
+    "Derinlik":8.6,
+    "ML":"2.0",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.02.28",
     "Saat":"10:29:13",
     "Enlem":39.1448,
     "Boylam":28.261,
     "Derinlik":10.8,
     "ML":"1.7",
     "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.02.28",
+    "Saat":"10:27:43",
+    "Enlem":38.0097,
+    "Boylam":35.5138,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"DIKME-YAHYALI (KAYSERI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.02.28",
+    "Saat":"10:26:40",
+    "Enlem":38.1883,
+    "Boylam":38.2208,
+    "Derinlik":5.3,
+    "ML":"1.3",
+    "Yer":"ATALAR-YESILYURT (MALATYA)",
     "Cozum":"İlksel"
   },
   {
@@ -1692,22 +1722,22 @@
   {
     "Tarih":"2026.02.25",
     "Saat":"11:40:30",
-    "Enlem":39.1238,
-    "Boylam":28.3638,
-    "Derinlik":5.1,
-    "ML":"1.6",
-    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.25",
-    "Saat":"11:40:30",
     "Enlem":39.0612,
     "Boylam":28.3995,
     "Derinlik":11.2,
     "ML":"1.4",
     "Yer":"KOBAKLAR-GORDES (MANISA) REVIZE01 (2026.02.25",
     "Cozum":"11:40:30)"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"11:40:30",
+    "Enlem":39.1238,
+    "Boylam":28.3638,
+    "Derinlik":5.1,
+    "ML":"1.6",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.02.25",
@@ -9967,36 +9997,6 @@
     "Derinlik":5.4,
     "ML":"2.2",
     "Yer":"ARHAVI ACIKLARI-ARTVIN (KARADENIZ)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.16",
-    "Saat":"14:49:48",
-    "Enlem":39.9322,
-    "Boylam":44.546,
-    "Derinlik":19.9,
-    "ML":"2.4",
-    "Yer":"TAZEKOY-ARALIK (IGDIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.16",
-    "Saat":"14:48:26",
-    "Enlem":38.143,
-    "Boylam":38.5665,
-    "Derinlik":10.9,
-    "ML":"1.8",
-    "Yer":"ARIKONAK-SINCIK (ADIYAMAN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.16",
-    "Saat":"14:40:16",
-    "Enlem":37.6587,
-    "Boylam":36.1122,
-    "Derinlik":5.0,
-    "ML":"1.9",
-    "Yer":"ESENLI-SUMBAS (OSMANIYE)",
     "Cozum":"İlksel"
   }
 ]
