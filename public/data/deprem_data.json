@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.02.28",
+    "Saat":"19:31:57",
+    "Enlem":37.7368,
+    "Boylam":36.0785,
+    "Derinlik":9.4,
+    "ML":"1.7",
+    "Yer":"AKOLUK-FEKE (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.02.28",
+    "Saat":"18:52:46",
+    "Enlem":37.4773,
+    "Boylam":37.2043,
+    "Derinlik":14.4,
+    "ML":"1.1",
+    "Yer":"SOGUTLU-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.02.28",
     "Saat":"18:37:39",
     "Enlem":40.1413,
     "Boylam":42.0852,
@@ -1992,22 +2012,22 @@
   {
     "Tarih":"2026.02.25",
     "Saat":"11:40:30",
-    "Enlem":39.0612,
-    "Boylam":28.3995,
-    "Derinlik":11.2,
-    "ML":"1.4",
-    "Yer":"KOBAKLAR-GORDES (MANISA) REVIZE01 (2026.02.25",
-    "Cozum":"11:40:30)"
-  },
-  {
-    "Tarih":"2026.02.25",
-    "Saat":"11:40:30",
     "Enlem":39.1238,
     "Boylam":28.3638,
     "Derinlik":5.1,
     "ML":"1.6",
     "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"11:40:30",
+    "Enlem":39.0612,
+    "Boylam":28.3995,
+    "Derinlik":11.2,
+    "ML":"1.4",
+    "Yer":"KOBAKLAR-GORDES (MANISA) REVIZE01 (2026.02.25",
+    "Cozum":"11:40:30)"
   },
   {
     "Tarih":"2026.02.25",
@@ -9502,20 +9522,20 @@
   {
     "Tarih":"2026.02.17",
     "Saat":"06:57:50",
-    "Enlem":39.2213,
-    "Boylam":29.0105,
-    "Derinlik":3.9,
-    "ML":"1.3",
+    "Enlem":39.2223,
+    "Boylam":29.0097,
+    "Derinlik":7.7,
+    "ML":"1.4",
     "Yer":"EGIRLER-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.02.17",
     "Saat":"06:57:50",
-    "Enlem":39.2223,
-    "Boylam":29.0097,
-    "Derinlik":7.7,
-    "ML":"1.4",
+    "Enlem":39.2213,
+    "Boylam":29.0105,
+    "Derinlik":3.9,
+    "ML":"1.3",
     "Yer":"EGIRLER-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   },
@@ -9977,26 +9997,6 @@
     "Derinlik":5.5,
     "ML":"1.7",
     "Yer":"GURLESEN-SAIMBEYLI (ADANA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.17",
-    "Saat":"00:13:36",
-    "Enlem":38.1115,
-    "Boylam":38.4162,
-    "Derinlik":3.4,
-    "ML":"1.8",
-    "Yer":"KARAGOL-CELIKHAN (ADIYAMAN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.16",
-    "Saat":"23:43:53",
-    "Enlem":36.6862,
-    "Boylam":25.7592,
-    "Derinlik":11.5,
-    "ML":"2.4",
-    "Yer":"EGE DENIZI",
     "Cozum":"İlksel"
   }
 ]
