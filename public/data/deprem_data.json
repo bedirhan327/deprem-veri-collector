@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.02.28",
+    "Saat":"21:30:40",
+    "Enlem":39.229,
+    "Boylam":28.0978,
+    "Derinlik":9.7,
+    "ML":"1.8",
+    "Yer":"KOZLU-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.02.28",
+    "Saat":"21:13:42",
+    "Enlem":37.807,
+    "Boylam":27.3735,
+    "Derinlik":6.1,
+    "ML":"1.9",
+    "Yer":"KIRAZLI-KUSADASI (AYDIN)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.02.28",
+    "Saat":"21:10:12",
+    "Enlem":39.1247,
+    "Boylam":28.335,
+    "Derinlik":12.1,
+    "ML":"2.4",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.02.28",
     "Saat":"19:47:43",
     "Enlem":36.5208,
     "Boylam":29.2592,
@@ -2022,22 +2052,22 @@
   {
     "Tarih":"2026.02.25",
     "Saat":"11:40:30",
-    "Enlem":39.1238,
-    "Boylam":28.3638,
-    "Derinlik":5.1,
-    "ML":"1.6",
-    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.25",
-    "Saat":"11:40:30",
     "Enlem":39.0612,
     "Boylam":28.3995,
     "Derinlik":11.2,
     "ML":"1.4",
     "Yer":"KOBAKLAR-GORDES (MANISA) REVIZE01 (2026.02.25",
     "Cozum":"11:40:30)"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"11:40:30",
+    "Enlem":39.1238,
+    "Boylam":28.3638,
+    "Derinlik":5.1,
+    "ML":"1.6",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.02.25",
@@ -9967,36 +9997,6 @@
     "Derinlik":4.4,
     "ML":"1.6",
     "Yer":"GOKCELER-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.17",
-    "Saat":"01:21:38",
-    "Enlem":39.23,
-    "Boylam":28.9962,
-    "Derinlik":5.2,
-    "ML":"2.4",
-    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.17",
-    "Saat":"01:03:39",
-    "Enlem":39.2162,
-    "Boylam":28.1288,
-    "Derinlik":12.7,
-    "ML":"1.7",
-    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.17",
-    "Saat":"00:48:18",
-    "Enlem":39.1042,
-    "Boylam":28.2335,
-    "Derinlik":15.7,
-    "ML":"1.5",
-    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
