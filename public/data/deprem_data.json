@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.03.04",
+    "Saat":"15:36:40",
+    "Enlem":38.2533,
+    "Boylam":37.671,
+    "Derinlik":8.9,
+    "ML":"2.2",
+    "Yer":"HARUNUSAGI-AKCADAG (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.04",
+    "Saat":"14:48:18",
+    "Enlem":39.2757,
+    "Boylam":27.7077,
+    "Derinlik":5.4,
+    "ML":"2.6",
+    "Yer":"KOZLUOREN-SOMA (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.04",
     "Saat":"14:20:00",
     "Enlem":38.1305,
     "Boylam":38.4923,
@@ -5492,22 +5512,22 @@
   {
     "Tarih":"2026.02.25",
     "Saat":"11:40:30",
-    "Enlem":39.1238,
-    "Boylam":28.3638,
-    "Derinlik":5.1,
-    "ML":"1.6",
-    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.25",
-    "Saat":"11:40:30",
     "Enlem":39.0612,
     "Boylam":28.3995,
     "Derinlik":11.2,
     "ML":"1.4",
     "Yer":"KOBAKLAR-GORDES (MANISA) REVIZE01 (2026.02.25",
     "Cozum":"11:40:30)"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"11:40:30",
+    "Enlem":39.1238,
+    "Boylam":28.3638,
+    "Derinlik":5.1,
+    "ML":"1.6",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.02.25",
@@ -9977,26 +9997,6 @@
     "Derinlik":5.0,
     "ML":"2.9",
     "Yer":"YALINCA-(ERZINCAN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.20",
-    "Saat":"20:29:02",
-    "Enlem":35.042,
-    "Boylam":25.0692,
-    "Derinlik":7.8,
-    "ML":"1.9",
-    "Yer":"GIRIT ADASI (AKDENIZ)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.20",
-    "Saat":"20:18:04",
-    "Enlem":39.121,
-    "Boylam":29.1475,
-    "Derinlik":5.5,
-    "ML":"0.6",
-    "Yer":"INLICE-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   }
 ]
