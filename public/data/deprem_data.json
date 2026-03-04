@@ -11,6 +11,16 @@
   },
   {
     "Tarih":"2026.03.04",
+    "Saat":"10:24:33",
+    "Enlem":35.3482,
+    "Boylam":26.2143,
+    "Derinlik":1.2,
+    "ML":"2.3",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.04",
     "Saat":"10:15:00",
     "Enlem":38.8507,
     "Boylam":26.5483,
@@ -67,6 +77,16 @@
     "Derinlik":3.7,
     "ML":"1.5",
     "Yer":"KARAKIRAN-SARAYKOY (DENIZLI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.04",
+    "Saat":"08:59:55",
+    "Enlem":36.5312,
+    "Boylam":25.677,
+    "Derinlik":6.7,
+    "ML":"2.0",
+    "Yer":"EGE DENIZI",
     "Cozum":"İlksel"
   },
   {
@@ -1277,6 +1297,16 @@
     "Derinlik":12.5,
     "ML":"2.4",
     "Yer":"EGE DENIZI",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.03",
+    "Saat":"06:10:37",
+    "Enlem":35.2762,
+    "Boylam":25.4367,
+    "Derinlik":1.7,
+    "ML":"2.2",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
     "Cozum":"İlksel"
   },
   {
@@ -9967,36 +9997,6 @@
     "Derinlik":10.1,
     "ML":"1.3",
     "Yer":"HISARTEPE-(MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.20",
-    "Saat":"18:06:28",
-    "Enlem":38.311,
-    "Boylam":38.6028,
-    "Derinlik":7.0,
-    "ML":"1.3",
-    "Yer":"PELITLI-(MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.20",
-    "Saat":"18:04:54",
-    "Enlem":38.1398,
-    "Boylam":38.4985,
-    "Derinlik":4.3,
-    "ML":"1.9",
-    "Yer":"AKSU-SINCIK (ADIYAMAN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.20",
-    "Saat":"17:32:48",
-    "Enlem":39.1523,
-    "Boylam":28.0883,
-    "Derinlik":15.7,
-    "ML":"1.2",
-    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
