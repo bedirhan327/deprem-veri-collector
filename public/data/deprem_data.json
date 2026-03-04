@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.03.04",
+    "Saat":"23:41:53",
+    "Enlem":37.4153,
+    "Boylam":38.7685,
+    "Derinlik":2.4,
+    "ML":"1.5",
+    "Yer":"ILHAN-(SANLIURFA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.04",
     "Saat":"23:30:40",
     "Enlem":37.1528,
     "Boylam":28.573,
     "Derinlik":13.0,
     "ML":"1.9",
     "Yer":"YAYLASOGUT-ULA (MUGLA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.04",
+    "Saat":"23:14:24",
+    "Enlem":38.8452,
+    "Boylam":43.6367,
+    "Derinlik":5.0,
+    "ML":"3.2",
+    "Yer":"ESENKOC-MURADIYE (VAN)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.04",
+    "Saat":"23:13:03",
+    "Enlem":38.831,
+    "Boylam":43.6323,
+    "Derinlik":2.0,
+    "ML":"2.6",
+    "Yer":"ESENKOC-MURADIYE (VAN)",
     "Cozum":"İlksel"
   },
   {
@@ -5812,22 +5842,22 @@
   {
     "Tarih":"2026.02.25",
     "Saat":"11:40:30",
-    "Enlem":39.1238,
-    "Boylam":28.3638,
-    "Derinlik":5.1,
-    "ML":"1.6",
-    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.25",
-    "Saat":"11:40:30",
     "Enlem":39.0612,
     "Boylam":28.3995,
     "Derinlik":11.2,
     "ML":"1.4",
     "Yer":"KOBAKLAR-GORDES (MANISA) REVIZE01 (2026.02.25",
     "Cozum":"11:40:30)"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"11:40:30",
+    "Enlem":39.1238,
+    "Boylam":28.3638,
+    "Derinlik":5.1,
+    "ML":"1.6",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.02.25",
@@ -9967,36 +9997,6 @@
     "Derinlik":13.5,
     "ML":"1.7",
     "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.21",
-    "Saat":"04:30:22",
-    "Enlem":38.6937,
-    "Boylam":26.4663,
-    "Derinlik":5.0,
-    "ML":"1.6",
-    "Yer":"TEPEBOZ-KARABURUN (IZMIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.21",
-    "Saat":"04:25:44",
-    "Enlem":38.6733,
-    "Boylam":36.6913,
-    "Derinlik":1.1,
-    "ML":"1.8",
-    "Yer":"CAVDAR-SARIZ (KAYSERI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.21",
-    "Saat":"04:19:19",
-    "Enlem":39.415,
-    "Boylam":25.9195,
-    "Derinlik":5.4,
-    "ML":"1.8",
-    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
     "Cozum":"İlksel"
   }
 ]
