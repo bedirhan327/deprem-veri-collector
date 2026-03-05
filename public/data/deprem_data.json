@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.03.05",
+    "Saat":"17:55:20",
+    "Enlem":39.166,
+    "Boylam":28.2633,
+    "Derinlik":11.9,
+    "ML":"1.5",
+    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.05",
+    "Saat":"17:30:27",
+    "Enlem":38.2502,
+    "Boylam":37.174,
+    "Derinlik":4.3,
+    "ML":"1.8",
+    "Yer":"ALEMBEY-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.05",
+    "Saat":"17:17:35",
+    "Enlem":40.358,
+    "Boylam":42.1767,
+    "Derinlik":1.6,
+    "ML":"2.1",
+    "Yer":"GULLUDAG-NARMAN (ERZURUM)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.05",
     "Saat":"16:42:22",
     "Enlem":37.166,
     "Boylam":28.5322,
@@ -9967,36 +9997,6 @@
     "Derinlik":9.0,
     "ML":"1.9",
     "Yer":"BELEMEDIK-POZANTI (ADANA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.21",
-    "Saat":"21:23:33",
-    "Enlem":38.0452,
-    "Boylam":38.1923,
-    "Derinlik":24.5,
-    "ML":"1.1",
-    "Yer":"PINARBASI-CELIKHAN (ADIYAMAN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.21",
-    "Saat":"21:08:34",
-    "Enlem":37.1562,
-    "Boylam":27.8488,
-    "Derinlik":16.8,
-    "ML":"1.4",
-    "Yer":"BAGDAMLARI-MILAS (MUGLA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.21",
-    "Saat":"21:04:13",
-    "Enlem":39.108,
-    "Boylam":28.1295,
-    "Derinlik":22.1,
-    "ML":"0.9",
-    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
