@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.03.05",
+    "Saat":"22:52:23",
+    "Enlem":36.2818,
+    "Boylam":28.5185,
+    "Derinlik":25.7,
+    "ML":"1.4",
+    "Yer":"AKDENIZ",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.05",
     "Saat":"22:05:40",
     "Enlem":39.162,
     "Boylam":28.2188,
@@ -127,6 +137,16 @@
     "Derinlik":5.0,
     "ML":"2.0",
     "Yer":"ESENCE-AFSIN (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.05",
+    "Saat":"19:11:01",
+    "Enlem":39.2353,
+    "Boylam":28.1188,
+    "Derinlik":5.2,
+    "ML":"1.2",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -9977,26 +9997,6 @@
     "Derinlik":10.0,
     "ML":"1.4",
     "Yer":"SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.22",
-    "Saat":"02:48:42",
-    "Enlem":40.212,
-    "Boylam":31.7508,
-    "Derinlik":3.3,
-    "ML":"2.1",
-    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.22",
-    "Saat":"02:43:03",
-    "Enlem":37.8735,
-    "Boylam":29.3933,
-    "Derinlik":12.9,
-    "ML":"1.2",
-    "Yer":"YOKUSBASI-HONAZ (DENIZLI)",
     "Cozum":"İlksel"
   }
 ]
