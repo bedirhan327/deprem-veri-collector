@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2026.03.05",
+    "Saat":"18:04:04",
+    "Enlem":35.175,
+    "Boylam":26.8943,
+    "Derinlik":5.3,
+    "ML":"3.1",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.05",
     "Saat":"17:55:20",
     "Enlem":39.166,
     "Boylam":28.2633,
     "Derinlik":11.9,
     "ML":"1.5",
     "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.05",
+    "Saat":"17:42:13",
+    "Enlem":37.2472,
+    "Boylam":27.7987,
+    "Derinlik":8.6,
+    "ML":"1.7",
+    "Yer":"ASLANYAKA-MILAS (MUGLA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.05",
+    "Saat":"17:38:54",
+    "Enlem":39.839,
+    "Boylam":38.2922,
+    "Derinlik":6.4,
+    "ML":"1.9",
+    "Yer":"KOYUNKAYA-IMRANLI (SIVAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.05",
+    "Saat":"17:37:54",
+    "Enlem":37.2533,
+    "Boylam":27.8122,
+    "Derinlik":8.9,
+    "ML":"2.0",
+    "Yer":"ASLANYAKA-MILAS (MUGLA)",
     "Cozum":"İlksel"
   },
   {
@@ -6472,22 +6512,22 @@
   {
     "Tarih":"2026.02.25",
     "Saat":"11:40:30",
-    "Enlem":39.1238,
-    "Boylam":28.3638,
-    "Derinlik":5.1,
-    "ML":"1.6",
-    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.25",
-    "Saat":"11:40:30",
     "Enlem":39.0612,
     "Boylam":28.3995,
     "Derinlik":11.2,
     "ML":"1.4",
     "Yer":"KOBAKLAR-GORDES (MANISA) REVIZE01 (2026.02.25",
     "Cozum":"11:40:30)"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"11:40:30",
+    "Enlem":39.1238,
+    "Boylam":28.3638,
+    "Derinlik":5.1,
+    "ML":"1.6",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.02.25",
@@ -9957,46 +9997,6 @@
     "Derinlik":4.9,
     "ML":"1.5",
     "Yer":"GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.21",
-    "Saat":"22:09:07",
-    "Enlem":36.9957,
-    "Boylam":28.1067,
-    "Derinlik":21.2,
-    "ML":"1.5",
-    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.21",
-    "Saat":"22:08:22",
-    "Enlem":35.0887,
-    "Boylam":25.3845,
-    "Derinlik":22.5,
-    "ML":"2.2",
-    "Yer":"GIRIT ADASI (AKDENIZ)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.21",
-    "Saat":"21:40:49",
-    "Enlem":39.1997,
-    "Boylam":28.0025,
-    "Derinlik":4.5,
-    "ML":"1.6",
-    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.21",
-    "Saat":"21:24:55",
-    "Enlem":37.3745,
-    "Boylam":34.9737,
-    "Derinlik":9.0,
-    "ML":"1.9",
-    "Yer":"BELEMEDIK-POZANTI (ADANA)",
     "Cozum":"İlksel"
   }
 ]
