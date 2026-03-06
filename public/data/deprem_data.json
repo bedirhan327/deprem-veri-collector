@@ -1,12 +1,52 @@
 [
   {
     "Tarih":"2026.03.06",
+    "Saat":"15:30:03",
+    "Enlem":39.1482,
+    "Boylam":28.2562,
+    "Derinlik":14.2,
+    "ML":"1.4",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.06",
+    "Saat":"14:52:18",
+    "Enlem":39.0827,
+    "Boylam":27.9542,
+    "Derinlik":13.7,
+    "ML":"1.4",
+    "Yer":"BASLAMIS-AKHISAR (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.06",
     "Saat":"14:21:30",
     "Enlem":39.1988,
     "Boylam":29.0422,
     "Derinlik":19.2,
     "ML":"1.2",
     "Yer":"KARACAOREN-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.06",
+    "Saat":"14:14:32",
+    "Enlem":38.8202,
+    "Boylam":39.1368,
+    "Derinlik":4.5,
+    "ML":"1.7",
+    "Yer":"CATALHARMAN-(ELAZIG)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.06",
+    "Saat":"14:04:55",
+    "Enlem":40.9163,
+    "Boylam":35.9118,
+    "Derinlik":0.0,
+    "ML":"1.5",
+    "Yer":"LADIK (SAMSUN)",
     "Cozum":"İlksel"
   },
   {
@@ -7362,22 +7402,22 @@
   {
     "Tarih":"2026.02.25",
     "Saat":"11:40:30",
-    "Enlem":39.1238,
-    "Boylam":28.3638,
-    "Derinlik":5.1,
-    "ML":"1.6",
-    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.25",
-    "Saat":"11:40:30",
     "Enlem":39.0612,
     "Boylam":28.3995,
     "Derinlik":11.2,
     "ML":"1.4",
     "Yer":"KOBAKLAR-GORDES (MANISA) REVIZE01 (2026.02.25",
     "Cozum":"11:40:30)"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"11:40:30",
+    "Enlem":39.1238,
+    "Boylam":28.3638,
+    "Derinlik":5.1,
+    "ML":"1.6",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.02.25",
@@ -9957,46 +9997,6 @@
     "Derinlik":10.9,
     "ML":"1.5",
     "Yer":"KATRANDAGI-EMET (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.22",
-    "Saat":"18:42:23",
-    "Enlem":39.4165,
-    "Boylam":40.5952,
-    "Derinlik":10.3,
-    "ML":"1.6",
-    "Yer":"YESILGOL-YEDISU (BINGOL)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.22",
-    "Saat":"18:11:12",
-    "Enlem":39.1182,
-    "Boylam":28.3617,
-    "Derinlik":9.7,
-    "ML":"1.2",
-    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.22",
-    "Saat":"17:56:26",
-    "Enlem":39.127,
-    "Boylam":28.2743,
-    "Derinlik":14.9,
-    "ML":"1.9",
-    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.22",
-    "Saat":"17:41:42",
-    "Enlem":37.1622,
-    "Boylam":27.9187,
-    "Derinlik":5.2,
-    "ML":"1.8",
-    "Yer":"KARACAAGAC-MILAS (MUGLA)",
     "Cozum":"İlksel"
   }
 ]
