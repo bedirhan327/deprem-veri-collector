@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.03.06",
+    "Saat":"11:53:33",
+    "Enlem":34.7675,
+    "Boylam":28.9805,
+    "Derinlik":79.7,
+    "ML":"3.7",
+    "Yer":"AKDENIZ",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.06",
+    "Saat":"11:44:36",
+    "Enlem":40.4542,
+    "Boylam":29.2823,
+    "Derinlik":0.0,
+    "ML":"0.9",
+    "Yer":"CELTIKCI-ORHANGAZI (BURSA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.06",
+    "Saat":"11:39:07",
+    "Enlem":35.1763,
+    "Boylam":29.1492,
+    "Derinlik":71.6,
+    "ML":"3.3",
+    "Yer":"AKDENIZ",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.06",
     "Saat":"10:38:54",
     "Enlem":39.1072,
     "Boylam":28.0077,
@@ -7172,22 +7202,22 @@
   {
     "Tarih":"2026.02.25",
     "Saat":"11:40:30",
-    "Enlem":39.0612,
-    "Boylam":28.3995,
-    "Derinlik":11.2,
-    "ML":"1.4",
-    "Yer":"KOBAKLAR-GORDES (MANISA) REVIZE01 (2026.02.25",
-    "Cozum":"11:40:30)"
-  },
-  {
-    "Tarih":"2026.02.25",
-    "Saat":"11:40:30",
     "Enlem":39.1238,
     "Boylam":28.3638,
     "Derinlik":5.1,
     "ML":"1.6",
     "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"11:40:30",
+    "Enlem":39.0612,
+    "Boylam":28.3995,
+    "Derinlik":11.2,
+    "ML":"1.4",
+    "Yer":"KOBAKLAR-GORDES (MANISA) REVIZE01 (2026.02.25",
+    "Cozum":"11:40:30)"
   },
   {
     "Tarih":"2026.02.25",
@@ -9967,36 +9997,6 @@
     "Derinlik":7.0,
     "ML":"2.2",
     "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.22",
-    "Saat":"13:52:45",
-    "Enlem":38.8373,
-    "Boylam":27.9377,
-    "Derinlik":4.2,
-    "ML":"0.8",
-    "Yer":"BOYALILAR-AKHISAR (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.22",
-    "Saat":"13:12:06",
-    "Enlem":39.1252,
-    "Boylam":28.306,
-    "Derinlik":19.3,
-    "ML":"1.3",
-    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.22",
-    "Saat":"12:59:28",
-    "Enlem":40.79,
-    "Boylam":31.1083,
-    "Derinlik":14.1,
-    "ML":"1.6",
-    "Yer":"YENIKARAKOY-(DUZCE)",
     "Cozum":"İlksel"
   }
 ]
