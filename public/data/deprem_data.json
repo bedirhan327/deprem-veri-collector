@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.03.06",
+    "Saat":"19:31:37",
+    "Enlem":37.9605,
+    "Boylam":36.599,
+    "Derinlik":6.8,
+    "ML":"1.8",
+    "Yer":"KURUCAOVA-(KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.06",
+    "Saat":"19:20:55",
+    "Enlem":38.1963,
+    "Boylam":38.6197,
+    "Derinlik":2.1,
+    "ML":"2.7",
+    "Yer":"SOGUTLU-PUTURGE (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.06",
     "Saat":"18:48:11",
     "Enlem":39.0918,
     "Boylam":28.3413,
@@ -7522,22 +7542,22 @@
   {
     "Tarih":"2026.02.25",
     "Saat":"11:40:30",
-    "Enlem":39.0612,
-    "Boylam":28.3995,
-    "Derinlik":11.2,
-    "ML":"1.4",
-    "Yer":"KOBAKLAR-GORDES (MANISA) REVIZE01 (2026.02.25",
-    "Cozum":"11:40:30)"
-  },
-  {
-    "Tarih":"2026.02.25",
-    "Saat":"11:40:30",
     "Enlem":39.1238,
     "Boylam":28.3638,
     "Derinlik":5.1,
     "ML":"1.6",
     "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"11:40:30",
+    "Enlem":39.0612,
+    "Boylam":28.3995,
+    "Derinlik":11.2,
+    "ML":"1.4",
+    "Yer":"KOBAKLAR-GORDES (MANISA) REVIZE01 (2026.02.25",
+    "Cozum":"11:40:30)"
   },
   {
     "Tarih":"2026.02.25",
@@ -9977,26 +9997,6 @@
     "Derinlik":23.5,
     "ML":"1.8",
     "Yer":"SAHNALI-(AYDIN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.22",
-    "Saat":"21:13:07",
-    "Enlem":39.1525,
-    "Boylam":28.3117,
-    "Derinlik":13.2,
-    "ML":"1.8",
-    "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.22",
-    "Saat":"20:47:19",
-    "Enlem":37.7638,
-    "Boylam":35.373,
-    "Derinlik":3.1,
-    "ML":"2.8",
-    "Yer":"KAPUZBASI-YAHYALI (KAYSERI)",
     "Cozum":"İlksel"
   }
 ]
