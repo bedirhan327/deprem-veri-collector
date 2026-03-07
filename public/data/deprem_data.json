@@ -1,5 +1,45 @@
 [
   {
+    "Tarih":"2026.03.08",
+    "Saat":"00:02:20",
+    "Enlem":39.271,
+    "Boylam":28.0752,
+    "Derinlik":8.0,
+    "ML":"1.5",
+    "Yer":"KUCUKBUKU-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.07",
+    "Saat":"23:42:33",
+    "Enlem":40.3048,
+    "Boylam":34.3053,
+    "Derinlik":3.5,
+    "ML":"1.6",
+    "Yer":"CULHALI-SUNGURLU (CORUM)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.07",
+    "Saat":"23:38:15",
+    "Enlem":40.1717,
+    "Boylam":31.7485,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.07",
+    "Saat":"23:13:13",
+    "Enlem":39.1707,
+    "Boylam":28.0378,
+    "Derinlik":9.4,
+    "ML":"1.4",
+    "Yer":"SOGUTLU-AKHISAR (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
     "Tarih":"2026.03.07",
     "Saat":"22:28:52",
     "Enlem":37.1675,
@@ -8302,22 +8342,22 @@
   {
     "Tarih":"2026.02.25",
     "Saat":"11:40:30",
-    "Enlem":39.0612,
-    "Boylam":28.3995,
-    "Derinlik":11.2,
-    "ML":"1.4",
-    "Yer":"KOBAKLAR-GORDES (MANISA) REVIZE01 (2026.02.25",
-    "Cozum":"11:40:30)"
-  },
-  {
-    "Tarih":"2026.02.25",
-    "Saat":"11:40:30",
     "Enlem":39.1238,
     "Boylam":28.3638,
     "Derinlik":5.1,
     "ML":"1.6",
     "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.02.25",
+    "Saat":"11:40:30",
+    "Enlem":39.0612,
+    "Boylam":28.3995,
+    "Derinlik":11.2,
+    "ML":"1.4",
+    "Yer":"KOBAKLAR-GORDES (MANISA) REVIZE01 (2026.02.25",
+    "Cozum":"11:40:30)"
   },
   {
     "Tarih":"2026.02.25",
@@ -9957,46 +9997,6 @@
     "Derinlik":7.2,
     "ML":"2.5",
     "Yer":"CABER-SARAYKOY (DENIZLI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.23",
-    "Saat":"16:13:44",
-    "Enlem":39.1875,
-    "Boylam":29.1098,
-    "Derinlik":5.4,
-    "ML":"0.8",
-    "Yer":"TOKAT-HISARCIK (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.23",
-    "Saat":"16:04:56",
-    "Enlem":36.5587,
-    "Boylam":25.5665,
-    "Derinlik":10.6,
-    "ML":"1.9",
-    "Yer":"EGE DENIZI",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.23",
-    "Saat":"16:03:55",
-    "Enlem":39.3983,
-    "Boylam":25.9437,
-    "Derinlik":12.6,
-    "ML":"2.1",
-    "Yer":"BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.23",
-    "Saat":"15:49:02",
-    "Enlem":38.1248,
-    "Boylam":27.4358,
-    "Derinlik":4.7,
-    "ML":"2.0",
-    "Yer":"TULUM-TORBALI (IZMIR)",
     "Cozum":"İlksel"
   }
 ]
