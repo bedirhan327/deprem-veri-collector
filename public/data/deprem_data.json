@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.03.09",
+    "Saat":"21:30:34",
+    "Enlem":38.0702,
+    "Boylam":28.9672,
+    "Derinlik":11.7,
+    "ML":"1.7",
+    "Yer":"YENICEKENT-BULDAN (DENIZLI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.09",
+    "Saat":"21:28:53",
+    "Enlem":37.1127,
+    "Boylam":30.5605,
+    "Derinlik":11.4,
+    "ML":"2.2",
+    "Yer":"BIYIKLI-DOSEMEALTI (ANTALYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.09",
+    "Saat":"21:26:48",
+    "Enlem":38.814,
+    "Boylam":26.386,
+    "Derinlik":10.9,
+    "ML":"3.4",
+    "Yer":"EGE DENIZI",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.09",
     "Saat":"21:15:27",
     "Enlem":38.0595,
     "Boylam":28.9483,
@@ -9967,36 +9997,6 @@
     "Derinlik":15.1,
     "ML":"1.2",
     "Yer":"KOBAKLAR-GORDES (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.27",
-    "Saat":"01:46:42",
-    "Enlem":38.0855,
-    "Boylam":37.6295,
-    "Derinlik":5.0,
-    "ML":"1.6",
-    "Yer":"TAPKIRANKALE-ELBISTAN (KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.27",
-    "Saat":"01:38:38",
-    "Enlem":38.0735,
-    "Boylam":37.3507,
-    "Derinlik":6.5,
-    "ML":"1.8",
-    "Yer":"AGCASAR-NURHAK (KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.27",
-    "Saat":"00:07:36",
-    "Enlem":39.1455,
-    "Boylam":28.339,
-    "Derinlik":11.9,
-    "ML":"1.4",
-    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
