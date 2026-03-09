@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.03.09",
+    "Saat":"15:04:56",
+    "Enlem":38.0722,
+    "Boylam":28.9485,
+    "Derinlik":8.6,
+    "ML":"2.2",
+    "Yer":"YENICEKENT-BULDAN (DENIZLI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.09",
+    "Saat":"15:00:13",
+    "Enlem":40.8855,
+    "Boylam":31.5745,
+    "Derinlik":14.5,
+    "ML":"1.8",
+    "Yer":"CUKUROREN-YIGILCA (DUZCE)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.09",
     "Saat":"14:08:27",
     "Enlem":38.0808,
     "Boylam":28.9727,
@@ -247,6 +267,16 @@
     "Derinlik":10.4,
     "ML":"3.4",
     "Yer":"YENICEKENT-BULDAN (DENIZLI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.09",
+    "Saat":"11:48:02",
+    "Enlem":37.9312,
+    "Boylam":28.8462,
+    "Derinlik":19.3,
+    "ML":"1.5",
+    "Yer":"KARAKIRAN-SARAYKOY (DENIZLI)",
     "Cozum":"İlksel"
   },
   {
@@ -9967,36 +9997,6 @@
     "Derinlik":4.9,
     "ML":"1.6",
     "Yer":"UGURKOY-ILIC (ERZINCAN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.26",
-    "Saat":"06:09:24",
-    "Enlem":37.0617,
-    "Boylam":36.9545,
-    "Derinlik":7.3,
-    "ML":"1.3",
-    "Yer":"KUZOLUK-NURDAGI (GAZIANTEP)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.26",
-    "Saat":"05:47:05",
-    "Enlem":38.7437,
-    "Boylam":27.8623,
-    "Derinlik":7.0,
-    "ML":"1.8",
-    "Yer":"HACIBASTANLAR-GOLMARMARA (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.02.26",
-    "Saat":"05:43:13",
-    "Enlem":39.2252,
-    "Boylam":28.1585,
-    "Derinlik":10.4,
-    "ML":"1.2",
-    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
