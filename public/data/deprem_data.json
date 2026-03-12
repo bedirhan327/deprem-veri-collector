@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.03.13",
+    "Saat":"01:31:13",
+    "Enlem":39.1448,
+    "Boylam":28.2958,
+    "Derinlik":8.7,
+    "ML":"1.0",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.13",
+    "Saat":"01:19:00",
+    "Enlem":39.2063,
+    "Boylam":28.2108,
+    "Derinlik":7.6,
+    "ML":"1.3",
+    "Yer":"ILICA-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.13",
+    "Saat":"01:17:05",
+    "Enlem":39.0978,
+    "Boylam":28.1692,
+    "Derinlik":11.9,
+    "ML":"1.0",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.13",
     "Saat":"00:36:40",
     "Enlem":39.1103,
     "Boylam":28.1697,
@@ -9967,36 +9997,6 @@
     "Derinlik":24.0,
     "ML":"1.2",
     "Yer":"KIRKKUYU-KULU (KONYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.03",
-    "Saat":"17:39:28",
-    "Enlem":40.6923,
-    "Boylam":35.298,
-    "Derinlik":16.8,
-    "ML":"1.6",
-    "Yer":"PINARBASI-MECITOZU (CORUM)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.03",
-    "Saat":"16:43:26",
-    "Enlem":37.734,
-    "Boylam":27.5013,
-    "Derinlik":11.6,
-    "ML":"1.4",
-    "Yer":"KARAATLI-SOKE (AYDIN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.03",
-    "Saat":"16:35:05",
-    "Enlem":38.3783,
-    "Boylam":38.003,
-    "Derinlik":15.8,
-    "ML":"1.8",
-    "Yer":"GUZYURDU-AKCADAG (MALATYA)",
     "Cozum":"İlksel"
   }
 ]
