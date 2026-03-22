@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.03.22",
+    "Saat":"22:01:42",
+    "Enlem":39.2528,
+    "Boylam":29.0082,
+    "Derinlik":5.3,
+    "ML":"1.4",
+    "Yer":"YESILDERE-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.22",
+    "Saat":"21:59:01",
+    "Enlem":39.1963,
+    "Boylam":28.08,
+    "Derinlik":10.7,
+    "ML":"1.5",
+    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.22",
+    "Saat":"21:43:08",
+    "Enlem":39.2965,
+    "Boylam":28.0368,
+    "Derinlik":9.4,
+    "ML":"1.7",
+    "Yer":"CAKILLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.22",
     "Saat":"21:24:12",
     "Enlem":37.6197,
     "Boylam":36.274,
@@ -5872,9 +5902,9 @@
   {
     "Tarih":"2026.03.16",
     "Saat":"15:40:53",
-    "Enlem":38.3088,
-    "Boylam":37.7423,
-    "Derinlik":5.8,
+    "Enlem":38.2785,
+    "Boylam":37.7828,
+    "Derinlik":14.5,
     "ML":"1.6",
     "Yer":"CEVIRME-AKCADAG (MALATYA)",
     "Cozum":"İlksel"
@@ -5882,9 +5912,9 @@
   {
     "Tarih":"2026.03.16",
     "Saat":"15:40:53",
-    "Enlem":38.2785,
-    "Boylam":37.7828,
-    "Derinlik":14.5,
+    "Enlem":38.3088,
+    "Boylam":37.7423,
+    "Derinlik":5.8,
     "ML":"1.6",
     "Yer":"CEVIRME-AKCADAG (MALATYA)",
     "Cozum":"İlksel"
@@ -6162,22 +6192,22 @@
   {
     "Tarih":"2026.03.16",
     "Saat":"09:03:47",
-    "Enlem":38.0912,
-    "Boylam":28.9612,
-    "Derinlik":3.0,
-    "ML":"3.9",
-    "Yer":"HAMDIYE-GUNEY (DENIZLI) REVIZE01 (2026.03.16",
-    "Cozum":"09:03:47)"
-  },
-  {
-    "Tarih":"2026.03.16",
-    "Saat":"09:03:47",
     "Enlem":38.0915,
     "Boylam":28.9642,
     "Derinlik":2.0,
     "ML":"3.9",
     "Yer":"HAMDIYE-GUNEY (DENIZLI)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.16",
+    "Saat":"09:03:47",
+    "Enlem":38.0912,
+    "Boylam":28.9612,
+    "Derinlik":3.0,
+    "ML":"3.9",
+    "Yer":"HAMDIYE-GUNEY (DENIZLI) REVIZE01 (2026.03.16",
+    "Cozum":"09:03:47)"
   },
   {
     "Tarih":"2026.03.16",
@@ -6432,20 +6462,20 @@
   {
     "Tarih":"2026.03.16",
     "Saat":"02:52:57",
-    "Enlem":37.9432,
-    "Boylam":27.224,
-    "Derinlik":5.3,
-    "ML":"1.6",
+    "Enlem":37.9382,
+    "Boylam":27.2315,
+    "Derinlik":3.6,
+    "ML":"1.7",
     "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.03.16",
     "Saat":"02:52:57",
-    "Enlem":37.9382,
-    "Boylam":27.2315,
-    "Derinlik":3.6,
-    "ML":"1.7",
+    "Enlem":37.9432,
+    "Boylam":27.224,
+    "Derinlik":5.3,
+    "ML":"1.6",
     "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
     "Cozum":"İlksel"
   },
@@ -6712,22 +6742,22 @@
   {
     "Tarih":"2026.03.15",
     "Saat":"22:27:49",
-    "Enlem":38.1772,
-    "Boylam":38.038,
-    "Derinlik":6.8,
-    "ML":"1.5",
-    "Yer":"GOZENE-YESILYURT (MALATYA) REVIZE01 (2026.03.15",
-    "Cozum":"22:27:49)"
-  },
-  {
-    "Tarih":"2026.03.15",
-    "Saat":"22:27:49",
     "Enlem":38.1798,
     "Boylam":37.9937,
     "Derinlik":11.2,
     "ML":"1.5",
     "Yer":"SUCATI-DOGANSEHIR (MALATYA)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.15",
+    "Saat":"22:27:49",
+    "Enlem":38.1772,
+    "Boylam":38.038,
+    "Derinlik":6.8,
+    "ML":"1.5",
+    "Yer":"GOZENE-YESILYURT (MALATYA) REVIZE01 (2026.03.15",
+    "Cozum":"22:27:49)"
   },
   {
     "Tarih":"2026.03.15",
@@ -9967,36 +9997,6 @@
     "Derinlik":1.5,
     "ML":"1.5",
     "Yer":"OLUKLU-NIKSAR (TOKAT)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.13",
-    "Saat":"09:22:06",
-    "Enlem":40.6343,
-    "Boylam":36.7418,
-    "Derinlik":6.4,
-    "ML":"1.6",
-    "Yer":"KUMBETLI-NIKSAR (TOKAT)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.13",
-    "Saat":"09:17:46",
-    "Enlem":37.1985,
-    "Boylam":26.6593,
-    "Derinlik":28.0,
-    "ML":"1.6",
-    "Yer":"ONIKI ADALAR (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.13",
-    "Saat":"09:08:09",
-    "Enlem":40.648,
-    "Boylam":36.7738,
-    "Derinlik":9.1,
-    "ML":"1.5",
-    "Yer":"KUMBETLI-NIKSAR (TOKAT)",
     "Cozum":"İlksel"
   }
 ]
