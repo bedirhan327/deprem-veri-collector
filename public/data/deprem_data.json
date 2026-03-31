@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.03.31",
+    "Saat":"18:33:35",
+    "Enlem":36.4605,
+    "Boylam":34.3342,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"ERDEMLI ACIKLARI-MERSIN (AKDENIZ)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.31",
+    "Saat":"18:33:09",
+    "Enlem":39.8863,
+    "Boylam":41.8128,
+    "Derinlik":5.5,
+    "ML":"2.6",
+    "Yer":"UZUNARK-PASINLER (ERZURUM)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.31",
+    "Saat":"18:20:55",
+    "Enlem":38.9188,
+    "Boylam":28.7418,
+    "Derinlik":10.3,
+    "ML":"1.5",
+    "Yer":"MARMARACIK-DEMIRCI (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.31",
+    "Saat":"18:03:53",
+    "Enlem":36.4833,
+    "Boylam":29.1782,
+    "Derinlik":19.2,
+    "ML":"2.3",
+    "Yer":"KARAAGAC-FETHIYE (MUGLA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.31",
     "Saat":"17:50:31",
     "Enlem":41.1082,
     "Boylam":29.0505,
@@ -7162,8 +7202,8 @@
   {
     "Tarih":"2026.03.23",
     "Saat":"12:28:54",
-    "Enlem":40.5507,
-    "Boylam":33.3047,
+    "Enlem":40.5508,
+    "Boylam":33.3052,
     "Derinlik":8.6,
     "ML":"1.6",
     "Yer":"KAMISKOY-SABANOZU (CANKIRI)",
@@ -7172,8 +7212,8 @@
   {
     "Tarih":"2026.03.23",
     "Saat":"12:28:54",
-    "Enlem":40.5508,
-    "Boylam":33.3052,
+    "Enlem":40.5507,
+    "Boylam":33.3047,
     "Derinlik":8.6,
     "ML":"1.6",
     "Yer":"KAMISKOY-SABANOZU (CANKIRI)",
@@ -7362,21 +7402,21 @@
   {
     "Tarih":"2026.03.23",
     "Saat":"09:44:00",
-    "Enlem":36.9737,
-    "Boylam":34.412,
-    "Derinlik":6.7,
-    "ML":"2.6",
-    "Yer":"YUKSEKOLUK-TOROSLAR (MERSIN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.23",
-    "Saat":"09:44:00",
     "Enlem":36.9542,
     "Boylam":34.4202,
     "Derinlik":6.9,
     "ML":"2.6",
     "Yer":"DEMIRISIK-MEZITLI (MERSIN)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.23",
+    "Saat":"09:44:00",
+    "Enlem":36.9737,
+    "Boylam":34.412,
+    "Derinlik":6.7,
+    "ML":"2.6",
+    "Yer":"YUKSEKOLUK-TOROSLAR (MERSIN)",
     "Cozum":"İlksel"
   },
   {
@@ -9957,46 +9997,6 @@
     "Derinlik":8.8,
     "ML":"2.6",
     "Yer":"HACET-KIRKAGAC (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.21",
-    "Saat":"00:30:53",
-    "Enlem":37.5195,
-    "Boylam":37.2395,
-    "Derinlik":8.9,
-    "ML":"1.2",
-    "Yer":"ARMUTLU-PAZARCIK (KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.21",
-    "Saat":"00:17:34",
-    "Enlem":39.239,
-    "Boylam":29.025,
-    "Derinlik":11.2,
-    "ML":"2.0",
-    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.20",
-    "Saat":"23:57:22",
-    "Enlem":37.693,
-    "Boylam":35.3598,
-    "Derinlik":13.8,
-    "ML":"1.4",
-    "Yer":"YETIMLI-ALADAG (ADANA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.20",
-    "Saat":"23:47:33",
-    "Enlem":39.3828,
-    "Boylam":26.2287,
-    "Derinlik":10.6,
-    "ML":"1.4",
-    "Yer":"MIDILLI ADASI (EGE DENIZI)",
     "Cozum":"İlksel"
   }
 ]
