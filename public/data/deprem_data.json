@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.04.02",
+    "Saat":"13:34:30",
+    "Enlem":38.2372,
+    "Boylam":38.7038,
+    "Derinlik":5.4,
+    "ML":"2.2",
+    "Yer":"CAYKOY-PUTURGE (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.02",
+    "Saat":"13:09:48",
+    "Enlem":39.1255,
+    "Boylam":28.203,
+    "Derinlik":4.9,
+    "ML":"1.1",
+    "Yer":"KINIK-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.02",
     "Saat":"13:09:27",
     "Enlem":37.9285,
     "Boylam":36.5108,
@@ -3802,20 +3822,20 @@
   {
     "Tarih":"2026.03.28",
     "Saat":"12:52:32",
-    "Enlem":36.012,
-    "Boylam":28.0858,
-    "Derinlik":5.4,
-    "ML":"2.7",
+    "Enlem":36.0417,
+    "Boylam":28.0957,
+    "Derinlik":5.0,
+    "ML":"2.8",
     "Yer":"AKDENIZ",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.03.28",
     "Saat":"12:52:32",
-    "Enlem":36.0417,
-    "Boylam":28.0957,
-    "Derinlik":5.0,
-    "ML":"2.8",
+    "Enlem":36.012,
+    "Boylam":28.0858,
+    "Derinlik":5.4,
+    "ML":"2.7",
     "Yer":"AKDENIZ",
     "Cozum":"İlksel"
   },
@@ -7312,20 +7332,20 @@
   {
     "Tarih":"2026.03.24",
     "Saat":"10:38:48",
-    "Enlem":38.0697,
-    "Boylam":28.9637,
+    "Enlem":38.0682,
+    "Boylam":28.9643,
     "Derinlik":9.1,
-    "ML":"3.0",
+    "ML":"2.9",
     "Yer":"YENICEKENT-BULDAN (DENIZLI)",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.03.24",
     "Saat":"10:38:48",
-    "Enlem":38.0682,
-    "Boylam":28.9643,
+    "Enlem":38.0697,
+    "Boylam":28.9637,
     "Derinlik":9.1,
-    "ML":"2.9",
+    "ML":"3.0",
     "Yer":"YENICEKENT-BULDAN (DENIZLI)",
     "Cozum":"İlksel"
   },
@@ -8522,21 +8542,21 @@
   {
     "Tarih":"2026.03.23",
     "Saat":"09:44:00",
-    "Enlem":36.9737,
-    "Boylam":34.412,
-    "Derinlik":6.7,
-    "ML":"2.6",
-    "Yer":"YUKSEKOLUK-TOROSLAR (MERSIN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.23",
-    "Saat":"09:44:00",
     "Enlem":36.9542,
     "Boylam":34.4202,
     "Derinlik":6.9,
     "ML":"2.6",
     "Yer":"DEMIRISIK-MEZITLI (MERSIN)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.23",
+    "Saat":"09:44:00",
+    "Enlem":36.9737,
+    "Boylam":34.412,
+    "Derinlik":6.7,
+    "ML":"2.6",
+    "Yer":"YUKSEKOLUK-TOROSLAR (MERSIN)",
     "Cozum":"İlksel"
   },
   {
@@ -9977,26 +9997,6 @@
     "Derinlik":5.0,
     "ML":"1.9",
     "Yer":"YENIKOY-DARENDE (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.22",
-    "Saat":"02:19:12",
-    "Enlem":39.5332,
-    "Boylam":27.784,
-    "Derinlik":9.7,
-    "ML":"1.1",
-    "Yer":"KARAKAVAK (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.22",
-    "Saat":"01:59:56",
-    "Enlem":36.2958,
-    "Boylam":30.6028,
-    "Derinlik":26.1,
-    "ML":"2.0",
-    "Yer":"ADRASAN-KUMLUCA (ANTALYA)",
     "Cozum":"İlksel"
   }
 ]
