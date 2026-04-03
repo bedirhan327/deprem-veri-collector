@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.04.03",
+    "Saat":"18:41:39",
+    "Enlem":38.0503,
+    "Boylam":28.9672,
+    "Derinlik":5.3,
+    "ML":"1.8",
+    "Yer":"YENICEKENT-BULDAN (DENIZLI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.03",
+    "Saat":"18:28:12",
+    "Enlem":36.961,
+    "Boylam":28.0062,
+    "Derinlik":5.4,
+    "ML":"2.3",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.03",
+    "Saat":"18:14:40",
+    "Enlem":36.5758,
+    "Boylam":34.2305,
+    "Derinlik":1.6,
+    "ML":"1.6",
+    "Yer":"UCTEPE-ERDEMLI (MERSIN)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.03",
+    "Saat":"17:59:11",
+    "Enlem":38.0338,
+    "Boylam":28.9677,
+    "Derinlik":18.9,
+    "ML":"1.7",
+    "Yer":"MAHMUTLU-BULDAN (DENIZLI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.03",
     "Saat":"17:50:00",
     "Enlem":39.2528,
     "Boylam":29.027,
@@ -4882,20 +4922,20 @@
   {
     "Tarih":"2026.03.28",
     "Saat":"12:52:32",
-    "Enlem":36.012,
-    "Boylam":28.0858,
-    "Derinlik":5.4,
-    "ML":"2.7",
+    "Enlem":36.0417,
+    "Boylam":28.0957,
+    "Derinlik":5.0,
+    "ML":"2.8",
     "Yer":"AKDENIZ",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.03.28",
     "Saat":"12:52:32",
-    "Enlem":36.0417,
-    "Boylam":28.0957,
-    "Derinlik":5.0,
-    "ML":"2.8",
+    "Enlem":36.012,
+    "Boylam":28.0858,
+    "Derinlik":5.4,
+    "ML":"2.7",
     "Yer":"AKDENIZ",
     "Cozum":"İlksel"
   },
@@ -6442,21 +6482,21 @@
   {
     "Tarih":"2026.03.26",
     "Saat":"13:17:13",
-    "Enlem":39.123,
-    "Boylam":28.3628,
-    "Derinlik":11.8,
-    "ML":"1.5",
-    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.26",
-    "Saat":"13:17:13",
     "Enlem":39.0632,
     "Boylam":28.1785,
     "Derinlik":27.0,
     "ML":"1.0",
     "Yer":"CICEKLI-GORDES (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.26",
+    "Saat":"13:17:13",
+    "Enlem":39.123,
+    "Boylam":28.3628,
+    "Derinlik":11.8,
+    "ML":"1.5",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -8392,20 +8432,20 @@
   {
     "Tarih":"2026.03.24",
     "Saat":"10:38:48",
-    "Enlem":38.0682,
-    "Boylam":28.9643,
+    "Enlem":38.0697,
+    "Boylam":28.9637,
     "Derinlik":9.1,
-    "ML":"2.9",
+    "ML":"3.0",
     "Yer":"YENICEKENT-BULDAN (DENIZLI)",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.03.24",
     "Saat":"10:38:48",
-    "Enlem":38.0697,
-    "Boylam":28.9637,
+    "Enlem":38.0682,
+    "Boylam":28.9643,
     "Derinlik":9.1,
-    "ML":"3.0",
+    "ML":"2.9",
     "Yer":"YENICEKENT-BULDAN (DENIZLI)",
     "Cozum":"İlksel"
   },
@@ -9402,8 +9442,8 @@
   {
     "Tarih":"2026.03.23",
     "Saat":"12:28:54",
-    "Enlem":40.5508,
-    "Boylam":33.3052,
+    "Enlem":40.5507,
+    "Boylam":33.3047,
     "Derinlik":8.6,
     "ML":"1.6",
     "Yer":"KAMISKOY-SABANOZU (CANKIRI)",
@@ -9412,8 +9452,8 @@
   {
     "Tarih":"2026.03.23",
     "Saat":"12:28:54",
-    "Enlem":40.5507,
-    "Boylam":33.3047,
+    "Enlem":40.5508,
+    "Boylam":33.3052,
     "Derinlik":8.6,
     "ML":"1.6",
     "Yer":"KAMISKOY-SABANOZU (CANKIRI)",
@@ -9957,46 +9997,6 @@
     "Derinlik":11.5,
     "ML":"1.4",
     "Yer":"BUYUKCAY-MERZIFON (AMASYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.23",
-    "Saat":"00:11:03",
-    "Enlem":40.6647,
-    "Boylam":29.208,
-    "Derinlik":10.6,
-    "ML":"1.4",
-    "Yer":"SAMANLI (YALOVA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.23",
-    "Saat":"00:08:03",
-    "Enlem":38.3047,
-    "Boylam":38.8347,
-    "Derinlik":5.0,
-    "ML":"1.9",
-    "Yer":"GUNDEGER-PUTURGE (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.22",
-    "Saat":"23:45:26",
-    "Enlem":39.1872,
-    "Boylam":43.8227,
-    "Derinlik":10.2,
-    "ML":"1.8",
-    "Yer":"KUSKUNKIRAN-CALDIRAN (VAN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.22",
-    "Saat":"23:43:48",
-    "Enlem":40.6948,
-    "Boylam":35.2588,
-    "Derinlik":8.3,
-    "ML":"1.6",
-    "Yer":"KARAHISAR-(CORUM)",
     "Cozum":"İlksel"
   }
 ]
