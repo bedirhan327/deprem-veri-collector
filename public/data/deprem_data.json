@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.04.04",
+    "Saat":"20:15:24",
+    "Enlem":37.0658,
+    "Boylam":28.317,
+    "Derinlik":5.1,
+    "ML":"1.4",
+    "Yer":"AKYAKA-ULA (MUGLA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.04",
+    "Saat":"20:08:03",
+    "Enlem":39.4303,
+    "Boylam":25.8385,
+    "Derinlik":7.7,
+    "ML":"1.9",
+    "Yer":"GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.04",
+    "Saat":"20:04:18",
+    "Enlem":37.4507,
+    "Boylam":37.2717,
+    "Derinlik":9.4,
+    "ML":"1.4",
+    "Yer":"DAMLATAS-PAZARCIK (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.04",
     "Saat":"19:36:19",
     "Enlem":37.2475,
     "Boylam":27.7892,
@@ -7282,21 +7312,21 @@
   {
     "Tarih":"2026.03.26",
     "Saat":"13:17:13",
-    "Enlem":39.123,
-    "Boylam":28.3628,
-    "Derinlik":11.8,
-    "ML":"1.5",
-    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.26",
-    "Saat":"13:17:13",
     "Enlem":39.0632,
     "Boylam":28.1785,
     "Derinlik":27.0,
     "ML":"1.0",
     "Yer":"CICEKLI-GORDES (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.26",
+    "Saat":"13:17:13",
+    "Enlem":39.123,
+    "Boylam":28.3628,
+    "Derinlik":11.8,
+    "ML":"1.5",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -9232,20 +9262,20 @@
   {
     "Tarih":"2026.03.24",
     "Saat":"10:38:48",
-    "Enlem":38.0682,
-    "Boylam":28.9643,
+    "Enlem":38.0697,
+    "Boylam":28.9637,
     "Derinlik":9.1,
-    "ML":"2.9",
+    "ML":"3.0",
     "Yer":"YENICEKENT-BULDAN (DENIZLI)",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.03.24",
     "Saat":"10:38:48",
-    "Enlem":38.0697,
-    "Boylam":28.9637,
+    "Enlem":38.0682,
+    "Boylam":28.9643,
     "Derinlik":9.1,
-    "ML":"3.0",
+    "ML":"2.9",
     "Yer":"YENICEKENT-BULDAN (DENIZLI)",
     "Cozum":"İlksel"
   },
@@ -9967,36 +9997,6 @@
     "Derinlik":10.8,
     "ML":"2.4",
     "Yer":"KIZILGUR-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.23",
-    "Saat":"19:39:05",
-    "Enlem":39.1933,
-    "Boylam":28.2635,
-    "Derinlik":11.0,
-    "ML":"1.3",
-    "Yer":"ISIKLAR-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.23",
-    "Saat":"18:32:49",
-    "Enlem":39.6255,
-    "Boylam":33.7215,
-    "Derinlik":5.3,
-    "ML":"2.3",
-    "Yer":"YENIALIBUDAK-KESKIN (KIRIKKALE)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.23",
-    "Saat":"18:24:54",
-    "Enlem":38.1548,
-    "Boylam":27.3818,
-    "Derinlik":16.1,
-    "ML":"1.4",
-    "Yer":"TORBALI (IZMIR)",
     "Cozum":"İlksel"
   }
 ]
