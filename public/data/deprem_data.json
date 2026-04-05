@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.04.05",
+    "Saat":"18:56:28",
+    "Enlem":36.3512,
+    "Boylam":33.8817,
+    "Derinlik":8.4,
+    "ML":"0.6",
+    "Yer":"BAHCEDERESI-SILIFKE (MERSIN)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.05",
+    "Saat":"18:26:00",
+    "Enlem":36.5962,
+    "Boylam":36.6338,
+    "Derinlik":7.8,
+    "ML":"1.8",
+    "Yer":"TURKIYE-SURIYE SINIR BOLGESI",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.05",
     "Saat":"18:22:07",
     "Enlem":39.0455,
     "Boylam":28.1922,
@@ -8222,21 +8242,21 @@
   {
     "Tarih":"2026.03.26",
     "Saat":"13:17:13",
-    "Enlem":39.0632,
-    "Boylam":28.1785,
-    "Derinlik":27.0,
-    "ML":"1.0",
-    "Yer":"CICEKLI-GORDES (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.26",
-    "Saat":"13:17:13",
     "Enlem":39.123,
     "Boylam":28.3628,
     "Derinlik":11.8,
     "ML":"1.5",
     "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.26",
+    "Saat":"13:17:13",
+    "Enlem":39.0632,
+    "Boylam":28.1785,
+    "Derinlik":27.0,
+    "ML":"1.0",
+    "Yer":"CICEKLI-GORDES (MANISA)",
     "Cozum":"İlksel"
   },
   {
@@ -9977,26 +9997,6 @@
     "Derinlik":8.5,
     "ML":"2.3",
     "Yer":"HAMDIYE-GUNEY (DENIZLI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.24",
-    "Saat":"15:44:27",
-    "Enlem":38.8395,
-    "Boylam":33.0163,
-    "Derinlik":23.3,
-    "ML":"1.5",
-    "Yer":"ACIKUYU-KULU (KONYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.24",
-    "Saat":"15:38:29",
-    "Enlem":35.3675,
-    "Boylam":32.2837,
-    "Derinlik":78.3,
-    "ML":"3.7",
-    "Yer":"AKDENIZ",
     "Cozum":"İlksel"
   }
 ]
