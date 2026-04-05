@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.04.05",
+    "Saat":"12:27:31",
+    "Enlem":39.0255,
+    "Boylam":27.6298,
+    "Derinlik":5.0,
+    "ML":"1.3",
+    "Yer":"EVKAFTEKE-AKHISAR (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.05",
+    "Saat":"12:13:28",
+    "Enlem":39.1165,
+    "Boylam":28.3715,
+    "Derinlik":8.9,
+    "ML":"1.6",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.05",
+    "Saat":"11:50:06",
+    "Enlem":40.2167,
+    "Boylam":31.7398,
+    "Derinlik":9.6,
+    "ML":"1.9",
+    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.05",
     "Saat":"11:48:11",
     "Enlem":39.1667,
     "Boylam":28.1297,
@@ -9932,20 +9962,20 @@
   {
     "Tarih":"2026.03.24",
     "Saat":"10:38:48",
-    "Enlem":38.0682,
-    "Boylam":28.9643,
+    "Enlem":38.0697,
+    "Boylam":28.9637,
     "Derinlik":9.1,
-    "ML":"2.9",
+    "ML":"3.0",
     "Yer":"YENICEKENT-BULDAN (DENIZLI)",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.03.24",
     "Saat":"10:38:48",
-    "Enlem":38.0697,
-    "Boylam":28.9637,
+    "Enlem":38.0682,
+    "Boylam":28.9643,
     "Derinlik":9.1,
-    "ML":"3.0",
+    "ML":"2.9",
     "Yer":"YENICEKENT-BULDAN (DENIZLI)",
     "Cozum":"İlksel"
   },
@@ -9967,36 +9997,6 @@
     "Derinlik":7.8,
     "ML":"1.7",
     "Yer":"EMIROGLU-PAZARCIK (KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.24",
-    "Saat":"09:38:50",
-    "Enlem":37.0387,
-    "Boylam":28.2982,
-    "Derinlik":5.0,
-    "ML":"1.2",
-    "Yer":"AKYAKA-ULA (MUGLA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.24",
-    "Saat":"09:35:20",
-    "Enlem":39.1278,
-    "Boylam":27.7647,
-    "Derinlik":19.8,
-    "ML":"1.1",
-    "Yer":"SILEDIK-KIRKAGAC (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.24",
-    "Saat":"09:35:19",
-    "Enlem":39.158,
-    "Boylam":27.7768,
-    "Derinlik":20.3,
-    "ML":"1.1",
-    "Yer":"SILEDIK-KIRKAGAC (MANISA)",
     "Cozum":"İlksel"
   }
 ]
