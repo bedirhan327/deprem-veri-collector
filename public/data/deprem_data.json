@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.04.06",
+    "Saat":"12:20:13",
+    "Enlem":37.4918,
+    "Boylam":40.323,
+    "Derinlik":5.0,
+    "ML":"1.7",
+    "Yer":"KARATAS-MAZIDAGI (MARDIN)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.06",
+    "Saat":"11:54:57",
+    "Enlem":39.1023,
+    "Boylam":28.308,
+    "Derinlik":11.4,
+    "ML":"1.1",
+    "Yer":"YUREGIL-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.06",
+    "Saat":"11:23:06",
+    "Enlem":39.7425,
+    "Boylam":30.626,
+    "Derinlik":0.0,
+    "ML":"2.2",
+    "Yer":"SULTANDERE-ODUNPAZARI (ESKISEHIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.06",
     "Saat":"11:16:00",
     "Enlem":39.1182,
     "Boylam":28.3568,
@@ -8972,21 +9002,21 @@
   {
     "Tarih":"2026.03.26",
     "Saat":"13:17:13",
-    "Enlem":39.123,
-    "Boylam":28.3628,
-    "Derinlik":11.8,
-    "ML":"1.5",
-    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.26",
-    "Saat":"13:17:13",
     "Enlem":39.0632,
     "Boylam":28.1785,
     "Derinlik":27.0,
     "ML":"1.0",
     "Yer":"CICEKLI-GORDES (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.03.26",
+    "Saat":"13:17:13",
+    "Enlem":39.123,
+    "Boylam":28.3628,
+    "Derinlik":11.8,
+    "ML":"1.5",
+    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   },
   {
@@ -9967,36 +9997,6 @@
     "Derinlik":17.1,
     "ML":"1.6",
     "Yer":"YENICEKENT-BULDAN (DENIZLI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.25",
-    "Saat":"15:29:52",
-    "Enlem":39.2298,
-    "Boylam":29.0463,
-    "Derinlik":10.0,
-    "ML":"1.6",
-    "Yer":"KATRANDAGI-EMET (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.25",
-    "Saat":"15:11:54",
-    "Enlem":39.2855,
-    "Boylam":41.9482,
-    "Derinlik":14.2,
-    "ML":"2.2",
-    "Yer":"DUMAN-KARACOBAN (ERZURUM)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.25",
-    "Saat":"14:54:52",
-    "Enlem":37.8768,
-    "Boylam":29.7712,
-    "Derinlik":8.2,
-    "ML":"2.4",
-    "Yer":"ORTULU-DAZKIRI (AFYONKARAHISAR)",
     "Cozum":"İlksel"
   }
 ]
