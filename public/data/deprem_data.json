@@ -1,6 +1,86 @@
 [
   {
     "Tarih":"2026.04.08",
+    "Saat":"16:48:44",
+    "Enlem":39.2188,
+    "Boylam":28.9905,
+    "Derinlik":15.1,
+    "ML":"1.2",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.08",
+    "Saat":"16:44:27",
+    "Enlem":39.5618,
+    "Boylam":29.3665,
+    "Derinlik":0.0,
+    "ML":"1.6",
+    "Yer":"AYVALI-TAVSANLI (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.08",
+    "Saat":"16:41:52",
+    "Enlem":39.224,
+    "Boylam":28.9933,
+    "Derinlik":11.5,
+    "ML":"1.6",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.08",
+    "Saat":"16:34:58",
+    "Enlem":39.8913,
+    "Boylam":40.786,
+    "Derinlik":25.3,
+    "ML":"2.1",
+    "Yer":"ABDALCIK-ASKALE (ERZURUM)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.08",
+    "Saat":"16:18:15",
+    "Enlem":36.3268,
+    "Boylam":24.2708,
+    "Derinlik":2.7,
+    "ML":"3.1",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.08",
+    "Saat":"15:30:31",
+    "Enlem":38.9583,
+    "Boylam":28.533,
+    "Derinlik":8.1,
+    "ML":"2.0",
+    "Yer":"OKSUZLU-DEMIRCI (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.08",
+    "Saat":"15:28:46",
+    "Enlem":38.4503,
+    "Boylam":29.1293,
+    "Derinlik":5.0,
+    "ML":"1.8",
+    "Yer":"GEDIKLER-ULUBEY (USAK)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.08",
+    "Saat":"15:20:54",
+    "Enlem":39.8903,
+    "Boylam":39.6293,
+    "Derinlik":18.4,
+    "ML":"1.3",
+    "Yer":"DEVEKORUSU-KELKIT (GUMUSHANE)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.08",
     "Saat":"14:35:01",
     "Enlem":35.9525,
     "Boylam":22.4135,
@@ -292,21 +372,21 @@
   {
     "Tarih":"2026.04.08",
     "Saat":"06:21:43",
-    "Enlem":40.2017,
-    "Boylam":31.7278,
-    "Derinlik":5.0,
-    "ML":"1.9",
-    "Yer":"SEKLI-BEYPAZARI (ANKARA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.08",
-    "Saat":"06:21:43",
     "Enlem":40.1763,
     "Boylam":31.7403,
     "Derinlik":9.7,
     "ML":"1.8",
     "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.08",
+    "Saat":"06:21:43",
+    "Enlem":40.2017,
+    "Boylam":31.7278,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"SEKLI-BEYPAZARI (ANKARA)",
     "Cozum":"İlksel"
   },
   {
@@ -9917,86 +9997,6 @@
     "Derinlik":9.6,
     "ML":"1.9",
     "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.27",
-    "Saat":"20:09:43",
-    "Enlem":38.3325,
-    "Boylam":38.88,
-    "Derinlik":8.4,
-    "ML":"2.0",
-    "Yer":"UZUNHUSEYIN-KALE (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.27",
-    "Saat":"19:52:20",
-    "Enlem":36.9973,
-    "Boylam":29.2862,
-    "Derinlik":10.2,
-    "ML":"1.7",
-    "Yer":"CEVIZLI-CAMELI (DENIZLI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.27",
-    "Saat":"19:48:24",
-    "Enlem":37.9802,
-    "Boylam":27.0688,
-    "Derinlik":3.3,
-    "ML":"1.3",
-    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.27",
-    "Saat":"18:47:14",
-    "Enlem":36.5383,
-    "Boylam":25.928,
-    "Derinlik":5.3,
-    "ML":"2.1",
-    "Yer":"EGE DENIZI",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.27",
-    "Saat":"18:15:42",
-    "Enlem":39.2342,
-    "Boylam":29.0137,
-    "Derinlik":15.6,
-    "ML":"0.8",
-    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.27",
-    "Saat":"17:54:36",
-    "Enlem":37.6582,
-    "Boylam":35.3733,
-    "Derinlik":14.1,
-    "ML":"1.6",
-    "Yer":"YETIMLI-ALADAG (ADANA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.27",
-    "Saat":"17:51:50",
-    "Enlem":36.2217,
-    "Boylam":33.7245,
-    "Derinlik":0.0,
-    "ML":"1.0",
-    "Yer":"AKDERE-SILIFKE (MERSIN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.27",
-    "Saat":"17:42:13",
-    "Enlem":41.0765,
-    "Boylam":28.9183,
-    "Derinlik":0.0,
-    "ML":"0.7",
-    "Yer":"GAZIOSMANPASA (ISTANBUL)",
     "Cozum":"İlksel"
   }
 ]
