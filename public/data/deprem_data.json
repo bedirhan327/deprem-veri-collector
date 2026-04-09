@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.04.09",
+    "Saat":"14:14:05",
+    "Enlem":38.0202,
+    "Boylam":28.969,
+    "Derinlik":5.1,
+    "ML":"1.8",
+    "Yer":"MAHMUTLU-BULDAN (DENIZLI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.09",
+    "Saat":"13:50:17",
+    "Enlem":39.6997,
+    "Boylam":29.1713,
+    "Derinlik":8.3,
+    "ML":"1.8",
+    "Yer":"HARMANCIK (BURSA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.09",
+    "Saat":"13:39:27",
+    "Enlem":39.1705,
+    "Boylam":29.0552,
+    "Derinlik":26.2,
+    "ML":"1.2",
+    "Yer":"KARACAOREN-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.09",
     "Saat":"12:20:00",
     "Enlem":39.8422,
     "Boylam":26.3347,
@@ -992,21 +1022,21 @@
   {
     "Tarih":"2026.04.08",
     "Saat":"06:21:43",
-    "Enlem":40.1763,
-    "Boylam":31.7403,
-    "Derinlik":9.7,
-    "ML":"1.8",
-    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.08",
-    "Saat":"06:21:43",
     "Enlem":40.2017,
     "Boylam":31.7278,
     "Derinlik":5.0,
     "ML":"1.9",
     "Yer":"SEKLI-BEYPAZARI (ANKARA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.08",
+    "Saat":"06:21:43",
+    "Enlem":40.1763,
+    "Boylam":31.7403,
+    "Derinlik":9.7,
+    "ML":"1.8",
+    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
     "Cozum":"İlksel"
   },
   {
@@ -9967,36 +9997,6 @@
     "Derinlik":5.3,
     "ML":"1.9",
     "Yer":"KUP-ALADAG (ADANA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.28",
-    "Saat":"17:16:22",
-    "Enlem":40.6412,
-    "Boylam":36.7723,
-    "Derinlik":3.8,
-    "ML":"2.2",
-    "Yer":"KUMBETLI-NIKSAR (TOKAT)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.28",
-    "Saat":"17:02:06",
-    "Enlem":38.09,
-    "Boylam":38.4432,
-    "Derinlik":10.4,
-    "ML":"1.7",
-    "Yer":"KARAGOL-CELIKHAN (ADIYAMAN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.28",
-    "Saat":"16:51:02",
-    "Enlem":40.4603,
-    "Boylam":26.311,
-    "Derinlik":13.2,
-    "ML":"1.4",
-    "Yer":"SAROS KORFEZI (EGE DENIZI)",
     "Cozum":"İlksel"
   }
 ]
