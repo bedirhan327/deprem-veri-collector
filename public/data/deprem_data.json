@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.04.09",
+    "Saat":"23:51:25",
+    "Enlem":40.4832,
+    "Boylam":29.1998,
+    "Derinlik":8.0,
+    "ML":"1.4",
+    "Yer":"SAHINYURDU-GEMLIK (BURSA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.09",
+    "Saat":"23:23:35",
+    "Enlem":39.374,
+    "Boylam":27.831,
+    "Derinlik":7.3,
+    "ML":"1.7",
+    "Yer":"CAKILLIK-(BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.09",
+    "Saat":"23:23:00",
+    "Enlem":37.8882,
+    "Boylam":29.388,
+    "Derinlik":10.7,
+    "ML":"1.2",
+    "Yer":"KARAPINAR-CAL (DENIZLI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.09",
+    "Saat":"23:16:36",
+    "Enlem":38.4612,
+    "Boylam":31.7647,
+    "Derinlik":5.0,
+    "ML":"1.8",
+    "Yer":"KONARI-TUZLUKCU (KONYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.09",
     "Saat":"23:06:07",
     "Enlem":39.2307,
     "Boylam":29.096,
@@ -1332,21 +1372,21 @@
   {
     "Tarih":"2026.04.08",
     "Saat":"06:21:43",
-    "Enlem":40.2017,
-    "Boylam":31.7278,
-    "Derinlik":5.0,
-    "ML":"1.9",
-    "Yer":"SEKLI-BEYPAZARI (ANKARA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.08",
-    "Saat":"06:21:43",
     "Enlem":40.1763,
     "Boylam":31.7403,
     "Derinlik":9.7,
     "ML":"1.8",
     "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.08",
+    "Saat":"06:21:43",
+    "Enlem":40.2017,
+    "Boylam":31.7278,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"SEKLI-BEYPAZARI (ANKARA)",
     "Cozum":"İlksel"
   },
   {
@@ -9957,46 +9997,6 @@
     "Derinlik":5.4,
     "ML":"2.4",
     "Yer":"KATRANDAGI-EMET (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.29",
-    "Saat":"03:14:42",
-    "Enlem":37.9685,
-    "Boylam":36.5643,
-    "Derinlik":5.3,
-    "ML":"1.6",
-    "Yer":"KURUCAOVA-(KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.29",
-    "Saat":"02:57:45",
-    "Enlem":38.2655,
-    "Boylam":38.2745,
-    "Derinlik":7.3,
-    "ML":"1.2",
-    "Yer":"GUNDUZBEY-YESILYURT (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.29",
-    "Saat":"02:52:20",
-    "Enlem":39.2352,
-    "Boylam":29.0212,
-    "Derinlik":10.2,
-    "ML":"1.5",
-    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.29",
-    "Saat":"02:46:16",
-    "Enlem":37.06,
-    "Boylam":27.8672,
-    "Derinlik":9.3,
-    "ML":"1.5",
-    "Yer":"GURCEGIZ-MILAS (MUGLA)",
     "Cozum":"İlksel"
   }
 ]
