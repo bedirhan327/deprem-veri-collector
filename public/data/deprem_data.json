@@ -1,12 +1,32 @@
 [
   {
     "Tarih":"2026.04.09",
+    "Saat":"16:51:32",
+    "Enlem":39.3385,
+    "Boylam":29.318,
+    "Derinlik":0.0,
+    "ML":"1.2",
+    "Yer":"BAHATLAR-EMET (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.09",
     "Saat":"15:53:06",
     "Enlem":39.177,
     "Boylam":28.2162,
     "Derinlik":16.5,
     "ML":"1.4",
     "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.09",
+    "Saat":"15:38:14",
+    "Enlem":39.0722,
+    "Boylam":26.905,
+    "Derinlik":5.0,
+    "ML":"1.8",
+    "Yer":"DIKILI (IZMIR)",
     "Cozum":"İlksel"
   },
   {
@@ -1062,21 +1082,21 @@
   {
     "Tarih":"2026.04.08",
     "Saat":"06:21:43",
-    "Enlem":40.2017,
-    "Boylam":31.7278,
-    "Derinlik":5.0,
-    "ML":"1.9",
-    "Yer":"SEKLI-BEYPAZARI (ANKARA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.08",
-    "Saat":"06:21:43",
     "Enlem":40.1763,
     "Boylam":31.7403,
     "Derinlik":9.7,
     "ML":"1.8",
     "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.08",
+    "Saat":"06:21:43",
+    "Enlem":40.2017,
+    "Boylam":31.7278,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"SEKLI-BEYPAZARI (ANKARA)",
     "Cozum":"İlksel"
   },
   {
@@ -9977,26 +9997,6 @@
     "Derinlik":7.6,
     "ML":"1.7",
     "Yer":"HACET-KIRKAGAC (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.28",
-    "Saat":"18:24:22",
-    "Enlem":34.685,
-    "Boylam":25.8395,
-    "Derinlik":10.4,
-    "ML":"2.4",
-    "Yer":"GIRIT ADASI ACIKLARI (AKDENIZ)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.28",
-    "Saat":"18:10:18",
-    "Enlem":41.1713,
-    "Boylam":28.7127,
-    "Derinlik":8.1,
-    "ML":"1.4",
-    "Yer":"HACIMASLI-ARNAVUTKOY (ISTANBUL)",
     "Cozum":"İlksel"
   }
 ]
