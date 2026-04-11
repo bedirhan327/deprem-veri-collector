@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.04.11",
+    "Saat":"08:02:11",
+    "Enlem":39.254,
+    "Boylam":29.0092,
+    "Derinlik":5.0,
+    "ML":"1.2",
+    "Yer":"YESILDERE-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.11",
+    "Saat":"07:55:37",
+    "Enlem":39.2687,
+    "Boylam":41.5032,
+    "Derinlik":9.8,
+    "ML":"1.5",
+    "Yer":"CALTILI-VARTO (MUS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.11",
+    "Saat":"07:53:35",
+    "Enlem":38.3698,
+    "Boylam":38.2995,
+    "Derinlik":10.7,
+    "ML":"1.4",
+    "Yer":"MALATYA (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.11",
+    "Saat":"07:02:30",
+    "Enlem":40.1848,
+    "Boylam":31.7458,
+    "Derinlik":2.6,
+    "ML":"2.2",
+    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.11",
     "Saat":"06:30:35",
     "Enlem":38.2707,
     "Boylam":38.8157,
@@ -2652,21 +2692,21 @@
   {
     "Tarih":"2026.04.08",
     "Saat":"06:21:43",
-    "Enlem":40.2017,
-    "Boylam":31.7278,
-    "Derinlik":5.0,
-    "ML":"1.9",
-    "Yer":"SEKLI-BEYPAZARI (ANKARA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.08",
-    "Saat":"06:21:43",
     "Enlem":40.1763,
     "Boylam":31.7403,
     "Derinlik":9.7,
     "ML":"1.8",
     "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.08",
+    "Saat":"06:21:43",
+    "Enlem":40.2017,
+    "Boylam":31.7278,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"SEKLI-BEYPAZARI (ANKARA)",
     "Cozum":"İlksel"
   },
   {
@@ -9957,46 +9997,6 @@
     "Derinlik":10.3,
     "ML":"2.5",
     "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.30",
-    "Saat":"16:07:28",
-    "Enlem":40.6485,
-    "Boylam":29.1198,
-    "Derinlik":13.3,
-    "ML":"1.1",
-    "Yer":"CINARCIK (YALOVA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.30",
-    "Saat":"15:54:12",
-    "Enlem":37.9415,
-    "Boylam":27.657,
-    "Derinlik":5.4,
-    "ML":"1.8",
-    "Yer":"CARIKLAR-GERMENCIK (AYDIN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.30",
-    "Saat":"15:52:58",
-    "Enlem":36.7182,
-    "Boylam":27.9412,
-    "Derinlik":66.7,
-    "ML":"1.5",
-    "Yer":"BOZBURUN ACIKLARI-MUGLA (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.03.30",
-    "Saat":"15:40:12",
-    "Enlem":37.9262,
-    "Boylam":27.643,
-    "Derinlik":11.0,
-    "ML":"1.5",
-    "Yer":"BOZKOY-GERMENCIK (AYDIN)",
     "Cozum":"İlksel"
   }
 ]
