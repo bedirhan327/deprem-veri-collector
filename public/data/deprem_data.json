@@ -1,11 +1,31 @@
 [
   {
     "Tarih":"2026.04.13",
+    "Saat":"02:29:39",
+    "Enlem":40.8258,
+    "Boylam":31.5225,
+    "Derinlik":5.2,
+    "ML":"2.1",
+    "Yer":"KIZILAGIL-(BOLU)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.13",
     "Saat":"01:35:32",
     "Enlem":39.2543,
     "Boylam":28.9712,
     "Derinlik":6.9,
     "ML":"3.1",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.13",
+    "Saat":"01:24:35",
+    "Enlem":39.249,
+    "Boylam":29.0008,
+    "Derinlik":4.9,
+    "ML":"1.8",
     "Yer":"YEMISLI-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   },
@@ -1533,8 +1553,8 @@
     "Tarih":"2026.04.12",
     "Saat":"01:59:27",
     "Enlem":39.2178,
-    "Boylam":29.0262,
-    "Derinlik":12.6,
+    "Boylam":29.0243,
+    "Derinlik":13.0,
     "ML":"1.7",
     "Yer":"EGIRLER-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
@@ -1543,8 +1563,8 @@
     "Tarih":"2026.04.12",
     "Saat":"01:59:27",
     "Enlem":39.2178,
-    "Boylam":29.0243,
-    "Derinlik":13.0,
+    "Boylam":29.0262,
+    "Derinlik":12.6,
     "ML":"1.7",
     "Yer":"EGIRLER-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
@@ -3252,21 +3272,21 @@
   {
     "Tarih":"2026.04.11",
     "Saat":"17:31:56",
-    "Enlem":39.2602,
-    "Boylam":28.9578,
-    "Derinlik":6.6,
-    "ML":"4.9",
-    "Yer":"KARAKOCA-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.11",
-    "Saat":"17:31:56",
     "Enlem":39.2533,
     "Boylam":28.9687,
     "Derinlik":5.4,
     "ML":"4.9",
     "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.11",
+    "Saat":"17:31:56",
+    "Enlem":39.2602,
+    "Boylam":28.9578,
+    "Derinlik":6.6,
+    "ML":"4.9",
+    "Yer":"KARAKOCA-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   },
   {
@@ -9977,26 +9997,6 @@
     "Derinlik":12.5,
     "ML":"1.7",
     "Yer":"CAKMAK-(MUGLA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.04",
-    "Saat":"19:09:37",
-    "Enlem":37.2997,
-    "Boylam":28.4002,
-    "Derinlik":13.7,
-    "ML":"1.2",
-    "Yer":"KOZAGAC-(MUGLA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.04",
-    "Saat":"18:30:18",
-    "Enlem":37.8763,
-    "Boylam":28.7815,
-    "Derinlik":4.0,
-    "ML":"1.2",
-    "Yer":"TIRKAZ-SARAYKOY (DENIZLI)",
     "Cozum":"İlksel"
   }
 ]
