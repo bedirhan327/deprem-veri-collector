@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.04.12",
+    "Saat":"22:55:12",
+    "Enlem":39.2022,
+    "Boylam":28.0295,
+    "Derinlik":19.6,
+    "ML":"1.1",
+    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.12",
+    "Saat":"22:42:15",
+    "Enlem":39.2118,
+    "Boylam":28.9857,
+    "Derinlik":16.5,
+    "ML":"0.9",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.12",
     "Saat":"21:51:48",
     "Enlem":39.2435,
     "Boylam":28.9842,
@@ -1423,8 +1443,8 @@
     "Tarih":"2026.04.12",
     "Saat":"01:59:27",
     "Enlem":39.2178,
-    "Boylam":29.0243,
-    "Derinlik":13.0,
+    "Boylam":29.0262,
+    "Derinlik":12.6,
     "ML":"1.7",
     "Yer":"EGIRLER-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
@@ -1433,8 +1453,8 @@
     "Tarih":"2026.04.12",
     "Saat":"01:59:27",
     "Enlem":39.2178,
-    "Boylam":29.0262,
-    "Derinlik":12.6,
+    "Boylam":29.0243,
+    "Derinlik":13.0,
     "ML":"1.7",
     "Yer":"EGIRLER-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
@@ -3072,21 +3092,21 @@
   {
     "Tarih":"2026.04.11",
     "Saat":"17:39:54",
-    "Enlem":39.2368,
-    "Boylam":28.943,
-    "Derinlik":6.3,
-    "ML":"2.0",
-    "Yer":"YENILER-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.11",
-    "Saat":"17:39:54",
     "Enlem":39.2022,
     "Boylam":28.8997,
     "Derinlik":13.3,
     "ML":"2.1",
     "Yer":"ORENLI-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.11",
+    "Saat":"17:39:54",
+    "Enlem":39.2368,
+    "Boylam":28.943,
+    "Derinlik":6.3,
+    "ML":"2.0",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   },
   {
@@ -9977,26 +9997,6 @@
     "Derinlik":13.4,
     "ML":"2.1",
     "Yer":"HAMDIYE-GUNEY (DENIZLI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.04",
-    "Saat":"15:14:14",
-    "Enlem":37.8758,
-    "Boylam":36.5195,
-    "Derinlik":5.0,
-    "ML":"2.1",
-    "Yer":"KUMARLI-(KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.04",
-    "Saat":"14:51:43",
-    "Enlem":39.2612,
-    "Boylam":28.0908,
-    "Derinlik":7.8,
-    "ML":"1.5",
-    "Yer":"KUCUKBUKU-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
