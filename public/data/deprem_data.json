@@ -1,6 +1,76 @@
 [
   {
     "Tarih":"2026.04.19",
+    "Saat":"23:54:11",
+    "Enlem":39.2717,
+    "Boylam":28.9575,
+    "Derinlik":19.0,
+    "ML":"0.7",
+    "Yer":"KARAKOCA-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.19",
+    "Saat":"23:52:40",
+    "Enlem":36.7053,
+    "Boylam":25.7635,
+    "Derinlik":6.2,
+    "ML":"2.0",
+    "Yer":"EGE DENIZI",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.19",
+    "Saat":"23:44:36",
+    "Enlem":37.3093,
+    "Boylam":28.8528,
+    "Derinlik":2.5,
+    "ML":"1.7",
+    "Yer":"KAYABASI-KALE (DENIZLI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.19",
+    "Saat":"23:28:40",
+    "Enlem":40.6812,
+    "Boylam":31.6063,
+    "Derinlik":3.7,
+    "ML":"1.8",
+    "Yer":"TASOLUK-(BOLU)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.19",
+    "Saat":"23:21:37",
+    "Enlem":36.9445,
+    "Boylam":27.7542,
+    "Derinlik":7.6,
+    "ML":"1.8",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.19",
+    "Saat":"23:15:46",
+    "Enlem":40.8162,
+    "Boylam":31.575,
+    "Derinlik":4.9,
+    "ML":"1.4",
+    "Yer":"KOZLU-(BOLU)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.19",
+    "Saat":"22:52:50",
+    "Enlem":40.8248,
+    "Boylam":27.4988,
+    "Derinlik":16.2,
+    "ML":"1.0",
+    "Yer":"YENIKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.19",
     "Saat":"22:50:04",
     "Enlem":38.3973,
     "Boylam":37.59,
@@ -7793,8 +7863,8 @@
     "Tarih":"2026.04.12",
     "Saat":"01:59:27",
     "Enlem":39.2178,
-    "Boylam":29.0243,
-    "Derinlik":13.0,
+    "Boylam":29.0262,
+    "Derinlik":12.6,
     "ML":"1.7",
     "Yer":"EGIRLER-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
@@ -7803,8 +7873,8 @@
     "Tarih":"2026.04.12",
     "Saat":"01:59:27",
     "Enlem":39.2178,
-    "Boylam":29.0262,
-    "Derinlik":12.6,
+    "Boylam":29.0243,
+    "Derinlik":13.0,
     "ML":"1.7",
     "Yer":"EGIRLER-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
@@ -8272,21 +8342,21 @@
   {
     "Tarih":"2026.04.11",
     "Saat":"22:29:19",
-    "Enlem":39.239,
-    "Boylam":29.0228,
-    "Derinlik":14.9,
-    "ML":"2.0",
-    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.11",
-    "Saat":"22:29:19",
     "Enlem":39.2368,
     "Boylam":29.034,
     "Derinlik":11.3,
     "ML":"2.1",
     "Yer":"KATRANDAGI-EMET (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.11",
+    "Saat":"22:29:19",
+    "Enlem":39.239,
+    "Boylam":29.0228,
+    "Derinlik":14.9,
+    "ML":"2.0",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   },
   {
@@ -9442,21 +9512,21 @@
   {
     "Tarih":"2026.04.11",
     "Saat":"17:39:54",
-    "Enlem":39.2022,
-    "Boylam":28.8997,
-    "Derinlik":13.3,
-    "ML":"2.1",
-    "Yer":"ORENLI-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.11",
-    "Saat":"17:39:54",
     "Enlem":39.2368,
     "Boylam":28.943,
     "Derinlik":6.3,
     "ML":"2.0",
     "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.04.11",
+    "Saat":"17:39:54",
+    "Enlem":39.2022,
+    "Boylam":28.8997,
+    "Derinlik":13.3,
+    "ML":"2.1",
+    "Yer":"ORENLI-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   },
   {
@@ -9927,76 +9997,6 @@
     "Derinlik":9.8,
     "ML":"1.5",
     "Yer":"CALTILI-VARTO (MUS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.11",
-    "Saat":"07:53:35",
-    "Enlem":38.3698,
-    "Boylam":38.2995,
-    "Derinlik":10.7,
-    "ML":"1.4",
-    "Yer":"MALATYA (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.11",
-    "Saat":"07:51:43",
-    "Enlem":37.9407,
-    "Boylam":36.5815,
-    "Derinlik":5.0,
-    "ML":"1.2",
-    "Yer":"KURUCAOVA (KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.11",
-    "Saat":"07:42:24",
-    "Enlem":37.938,
-    "Boylam":36.366,
-    "Derinlik":3.2,
-    "ML":"1.2",
-    "Yer":"YOGUNOLUK-GOKSUN (KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.11",
-    "Saat":"07:30:02",
-    "Enlem":39.2742,
-    "Boylam":28.9552,
-    "Derinlik":4.9,
-    "ML":"0.8",
-    "Yer":"KARAKOCA-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.11",
-    "Saat":"07:02:30",
-    "Enlem":40.1848,
-    "Boylam":31.7458,
-    "Derinlik":2.6,
-    "ML":"2.2",
-    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.11",
-    "Saat":"06:44:26",
-    "Enlem":37.9917,
-    "Boylam":35.9227,
-    "Derinlik":5.0,
-    "ML":"1.3",
-    "Yer":"CORAK-SAIMBEYLI (ADANA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.11",
-    "Saat":"06:37:03",
-    "Enlem":38.0567,
-    "Boylam":37.106,
-    "Derinlik":7.9,
-    "ML":"1.1",
-    "Yer":"KANDILKOY-EKINOZU (KAHRAMANMARAS)",
     "Cozum":"İlksel"
   }
 ]
