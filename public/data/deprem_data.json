@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.05.01",
+    "Saat":"14:24:38",
+    "Enlem":38.1782,
+    "Boylam":37.3012,
+    "Derinlik":6.4,
+    "ML":"2.0",
+    "Yer":"AKBAYIR-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.01",
+    "Saat":"14:07:13",
+    "Enlem":37.5615,
+    "Boylam":29.6967,
+    "Derinlik":5.0,
+    "ML":"2.4",
+    "Yer":"ISIKLAR-YESILOVA (BURDUR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.01",
+    "Saat":"13:46:10",
+    "Enlem":37.9863,
+    "Boylam":27.1125,
+    "Derinlik":5.4,
+    "ML":"2.2",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.01",
     "Saat":"13:26:48",
     "Enlem":36.3883,
     "Boylam":33.444,
@@ -97,6 +127,16 @@
     "Derinlik":7.5,
     "ML":"1.6",
     "Yer":"EGE DENIZI",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.01",
+    "Saat":"10:55:10",
+    "Enlem":37.9532,
+    "Boylam":36.1102,
+    "Derinlik":19.1,
+    "ML":"1.7",
+    "Yer":"SAIMBEYLI (ADANA)",
     "Cozum":"İlksel"
   },
   {
@@ -9957,46 +9997,6 @@
     "Derinlik":5.1,
     "ML":"1.9",
     "Yer":"AKYAKA-ULA (MUGLA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.20",
-    "Saat":"14:58:32",
-    "Enlem":39.172,
-    "Boylam":28.3552,
-    "Derinlik":11.0,
-    "ML":"1.4",
-    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.20",
-    "Saat":"14:49:46",
-    "Enlem":39.3522,
-    "Boylam":40.614,
-    "Derinlik":11.7,
-    "ML":"1.7",
-    "Yer":"ELMALI-YEDISU (BINGOL)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.20",
-    "Saat":"14:29:09",
-    "Enlem":39.2208,
-    "Boylam":28.1163,
-    "Derinlik":11.4,
-    "ML":"1.3",
-    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.04.20",
-    "Saat":"14:27:32",
-    "Enlem":40.8052,
-    "Boylam":30.9262,
-    "Derinlik":17.1,
-    "ML":"1.7",
-    "Yer":"DEREKOY-GUMUSOVA (DUZCE)",
     "Cozum":"İlksel"
   }
 ]
