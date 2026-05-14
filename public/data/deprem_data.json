@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.05.14",
+    "Saat":"12:00:27",
+    "Enlem":37.976,
+    "Boylam":36.6227,
+    "Derinlik":5.0,
+    "ML":"2.8",
+    "Yer":"KURUCAOVA-(KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.14",
+    "Saat":"10:37:13",
+    "Enlem":37.891,
+    "Boylam":26.9373,
+    "Derinlik":5.3,
+    "ML":"1.4",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.14",
+    "Saat":"09:04:18",
+    "Enlem":39.0892,
+    "Boylam":34.7325,
+    "Derinlik":9.1,
+    "ML":"2.1",
+    "Yer":"CAGSAK-KOZAKLI (NEVSEHIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.14",
+    "Saat":"08:59:16",
+    "Enlem":39.1893,
+    "Boylam":28.1427,
+    "Derinlik":18.2,
+    "ML":"1.5",
+    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.14",
     "Saat":"08:56:28",
     "Enlem":38.2793,
     "Boylam":37.8078,
@@ -9957,46 +9997,6 @@
     "Derinlik":9.1,
     "ML":"1.5",
     "Yer":"SEYITUSAGI-YESILYURT (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.03",
-    "Saat":"04:31:50",
-    "Enlem":39.1793,
-    "Boylam":28.1272,
-    "Derinlik":13.4,
-    "ML":"1.7",
-    "Yer":"ORMANICI-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.03",
-    "Saat":"04:14:11",
-    "Enlem":38.284,
-    "Boylam":38.2895,
-    "Derinlik":4.5,
-    "ML":"1.9",
-    "Yer":"GUNDUZBEY-YESILYURT (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.03",
-    "Saat":"04:10:32",
-    "Enlem":39.1793,
-    "Boylam":28.2108,
-    "Derinlik":15.3,
-    "ML":"3.1",
-    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.03",
-    "Saat":"04:06:05",
-    "Enlem":38.3735,
-    "Boylam":37.4315,
-    "Derinlik":5.1,
-    "ML":"1.4",
-    "Yer":"YALINTAS-ELBISTAN (KAHRAMANMARAS)",
     "Cozum":"İlksel"
   }
 ]
