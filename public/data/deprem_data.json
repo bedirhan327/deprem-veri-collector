@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.05.18",
+    "Saat":"20:46:43",
+    "Enlem":39.4025,
+    "Boylam":26.3095,
+    "Derinlik":9.7,
+    "ML":"1.6",
+    "Yer":"EDREMIT KORFEZI (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.18",
+    "Saat":"20:18:04",
+    "Enlem":37.9998,
+    "Boylam":37.3713,
+    "Derinlik":5.0,
+    "ML":"2.0",
+    "Yer":"BARIS-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.18",
+    "Saat":"18:36:23",
+    "Enlem":41.5843,
+    "Boylam":27.6772,
+    "Derinlik":7.5,
+    "ML":"1.8",
+    "Yer":"PAZARLI-VIZE (KIRKLARELI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.18",
     "Saat":"18:03:36",
     "Enlem":39.823,
     "Boylam":23.3808,
@@ -9967,36 +9997,6 @@
     "Derinlik":6.7,
     "ML":"3.6",
     "Yer":"GIRIT ADASI ACIKLARI (AKDENIZ)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.06",
-    "Saat":"22:12:54",
-    "Enlem":38.304,
-    "Boylam":27.5827,
-    "Derinlik":5.3,
-    "ML":"1.4",
-    "Yer":"OSMANLAR-BAYINDIR (IZMIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.06",
-    "Saat":"21:38:19",
-    "Enlem":40.1762,
-    "Boylam":31.7537,
-    "Derinlik":2.8,
-    "ML":"2.1",
-    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.06",
-    "Saat":"21:26:10",
-    "Enlem":39.5527,
-    "Boylam":26.41,
-    "Derinlik":8.0,
-    "ML":"1.7",
-    "Yer":"KOZLU-AYVACIK (CANAKKALE)",
     "Cozum":"İlksel"
   }
 ]
