@@ -1,6 +1,356 @@
 [
   {
     "Tarih":"2026.05.24",
+    "Saat":"07:19:19",
+    "Enlem":39.1753,
+    "Boylam":28.9562,
+    "Derinlik":19.4,
+    "ML":"1.5",
+    "Yer":"NASA-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"07:19:12",
+    "Enlem":37.742,
+    "Boylam":36.0585,
+    "Derinlik":5.9,
+    "ML":"2.0",
+    "Yer":"AKOLUK-FEKE (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"07:12:49",
+    "Enlem":40.7635,
+    "Boylam":27.3892,
+    "Derinlik":14.5,
+    "ML":"0.9",
+    "Yer":"UCMAKDERE-SARKOY (TEKIRDAG)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"06:40:01",
+    "Enlem":37.8167,
+    "Boylam":36.0065,
+    "Derinlik":12.3,
+    "ML":"2.1",
+    "Yer":"KOVUKCINAR-FEKE (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"06:35:48",
+    "Enlem":35.4318,
+    "Boylam":26.567,
+    "Derinlik":5.0,
+    "ML":"2.9",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"06:33:11",
+    "Enlem":41.0085,
+    "Boylam":39.9672,
+    "Derinlik":10.0,
+    "ML":"2.0",
+    "Yer":"YESILYALI-ARSIN (TRABZON)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"06:17:44",
+    "Enlem":39.1745,
+    "Boylam":28.2148,
+    "Derinlik":12.0,
+    "ML":"1.4",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"05:55:05",
+    "Enlem":37.7648,
+    "Boylam":36.0667,
+    "Derinlik":2.4,
+    "ML":"1.7",
+    "Yer":"AKOLUK-FEKE (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"05:40:57",
+    "Enlem":39.2305,
+    "Boylam":28.1098,
+    "Derinlik":7.6,
+    "ML":"1.7",
+    "Yer":"BAYIRLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"05:40:05",
+    "Enlem":37.7803,
+    "Boylam":36.0422,
+    "Derinlik":6.3,
+    "ML":"1.7",
+    "Yer":"AKOLUK-FEKE (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"05:30:41",
+    "Enlem":37.7643,
+    "Boylam":36.0757,
+    "Derinlik":5.5,
+    "ML":"2.7",
+    "Yer":"AKOLUK-FEKE (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"05:28:40",
+    "Enlem":38.3848,
+    "Boylam":37.4913,
+    "Derinlik":14.5,
+    "ML":"1.3",
+    "Yer":"YALINTAS-ELBISTAN (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"05:23:05",
+    "Enlem":36.3812,
+    "Boylam":28.5093,
+    "Derinlik":18.2,
+    "ML":"1.3",
+    "Yer":"AKDENIZ",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"05:19:14",
+    "Enlem":37.7753,
+    "Boylam":36.0062,
+    "Derinlik":6.1,
+    "ML":"1.5",
+    "Yer":"AKOLUK-FEKE (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"05:09:57",
+    "Enlem":36.9772,
+    "Boylam":33.7857,
+    "Derinlik":19.3,
+    "ML":"1.7",
+    "Yer":"OZBOYNUINCELI-SILIFKE (MERSIN)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"05:09:26",
+    "Enlem":37.7808,
+    "Boylam":35.995,
+    "Derinlik":11.6,
+    "ML":"2.0",
+    "Yer":"KIRIKUSAGI-FEKE (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"05:08:30",
+    "Enlem":39.1605,
+    "Boylam":28.9528,
+    "Derinlik":17.4,
+    "ML":"0.7",
+    "Yer":"NASA-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"05:08:22",
+    "Enlem":37.7378,
+    "Boylam":36.1772,
+    "Derinlik":5.0,
+    "ML":"2.6",
+    "Yer":"HALILBEYLI-SAIMBEYLI (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"05:03:21",
+    "Enlem":37.7847,
+    "Boylam":36.038,
+    "Derinlik":1.9,
+    "ML":"2.0",
+    "Yer":"AKOLUK-FEKE (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"05:02:52",
+    "Enlem":37.8935,
+    "Boylam":27.4762,
+    "Derinlik":8.5,
+    "ML":"1.5",
+    "Yer":"NAIPLI-GERMENCIK (AYDIN)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"05:00:13",
+    "Enlem":37.7348,
+    "Boylam":36.0717,
+    "Derinlik":9.2,
+    "ML":"2.1",
+    "Yer":"AKOLUK-FEKE (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"04:52:07",
+    "Enlem":37.7753,
+    "Boylam":36.0335,
+    "Derinlik":5.0,
+    "ML":"1.8",
+    "Yer":"AKOLUK-FEKE (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"04:50:14",
+    "Enlem":38.416,
+    "Boylam":27.2493,
+    "Derinlik":20.4,
+    "ML":"1.1",
+    "Yer":"GOKDERE-BORNOVA (IZMIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"04:48:47",
+    "Enlem":37.7493,
+    "Boylam":36.0418,
+    "Derinlik":1.2,
+    "ML":"1.8",
+    "Yer":"AKOLUK-FEKE (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"04:47:19",
+    "Enlem":37.7685,
+    "Boylam":36.0097,
+    "Derinlik":5.0,
+    "ML":"1.9",
+    "Yer":"AKOLUK-FEKE (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"04:38:09",
+    "Enlem":37.8252,
+    "Boylam":36.0257,
+    "Derinlik":5.0,
+    "ML":"1.8",
+    "Yer":"KOVUKCINAR-FEKE (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"04:35:53",
+    "Enlem":37.7808,
+    "Boylam":36.0388,
+    "Derinlik":5.0,
+    "ML":"1.7",
+    "Yer":"AKOLUK-FEKE (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"04:34:10",
+    "Enlem":37.7847,
+    "Boylam":36.0387,
+    "Derinlik":7.1,
+    "ML":"2.3",
+    "Yer":"AKOLUK-FEKE (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"04:33:25",
+    "Enlem":37.7543,
+    "Boylam":36.0425,
+    "Derinlik":8.0,
+    "ML":"2.3",
+    "Yer":"AKOLUK-FEKE (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"04:31:42",
+    "Enlem":37.7478,
+    "Boylam":36.0153,
+    "Derinlik":8.7,
+    "ML":"2.8",
+    "Yer":"AKOLUK-FEKE (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"04:26:50",
+    "Enlem":37.7592,
+    "Boylam":36.0933,
+    "Derinlik":5.0,
+    "ML":"4.9",
+    "Yer":"AKOLUK-FEKE (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"04:14:16",
+    "Enlem":38.2445,
+    "Boylam":37.7352,
+    "Derinlik":7.6,
+    "ML":"1.6",
+    "Yer":"CEVIRME-AKCADAG (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"04:07:08",
+    "Enlem":37.9803,
+    "Boylam":27.202,
+    "Derinlik":6.5,
+    "ML":"2.4",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"03:42:01",
+    "Enlem":38.2458,
+    "Boylam":38.5858,
+    "Derinlik":4.1,
+    "ML":"2.3",
+    "Yer":"TANISIK-(MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
+    "Saat":"03:17:08",
+    "Enlem":35.412,
+    "Boylam":26.561,
+    "Derinlik":5.0,
+    "ML":"3.5",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.24",
     "Saat":"03:00:00",
     "Enlem":38.1073,
     "Boylam":37.4448,
@@ -9647,356 +9997,6 @@
     "Derinlik":5.4,
     "ML":"1.5",
     "Yer":"CICEKLI-GORDES (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.12",
-    "Saat":"02:24:53",
-    "Enlem":38.3463,
-    "Boylam":38.7372,
-    "Derinlik":13.5,
-    "ML":"1.6",
-    "Yer":"SARIOT-KALE (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.12",
-    "Saat":"02:24:42",
-    "Enlem":36.8713,
-    "Boylam":29.1343,
-    "Derinlik":7.7,
-    "ML":"1.1",
-    "Yer":"ARPACIK-FETHIYE (MUGLA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.12",
-    "Saat":"02:20:44",
-    "Enlem":39.8935,
-    "Boylam":42.3452,
-    "Derinlik":27.3,
-    "ML":"1.5",
-    "Yer":"ASAGIAKTAS-HORASAN (ERZURUM)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.12",
-    "Saat":"02:20:19",
-    "Enlem":38.1157,
-    "Boylam":36.9022,
-    "Derinlik":5.0,
-    "ML":"2.4",
-    "Yer":"KEMALPASA-GOKSUN (KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.12",
-    "Saat":"02:05:11",
-    "Enlem":38.8608,
-    "Boylam":37.4192,
-    "Derinlik":5.0,
-    "ML":"2.8",
-    "Yer":"KULAHLI-GURUN (SIVAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.12",
-    "Saat":"01:09:48",
-    "Enlem":38.2048,
-    "Boylam":38.344,
-    "Derinlik":17.9,
-    "ML":"0.6",
-    "Yer":"UCGOZE-YESILYURT (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.12",
-    "Saat":"01:00:40",
-    "Enlem":37.6985,
-    "Boylam":35.4008,
-    "Derinlik":16.4,
-    "ML":"1.3",
-    "Yer":"KUP-ALADAG (ADANA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.12",
-    "Saat":"01:00:14",
-    "Enlem":36.9383,
-    "Boylam":29.0052,
-    "Derinlik":5.3,
-    "ML":"0.9",
-    "Yer":"BOZBEL-DALAMAN (MUGLA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.12",
-    "Saat":"00:34:52",
-    "Enlem":37.0675,
-    "Boylam":27.8472,
-    "Derinlik":9.4,
-    "ML":"2.1",
-    "Yer":"AKCAKAYA-MILAS (MUGLA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.12",
-    "Saat":"00:19:23",
-    "Enlem":38.0805,
-    "Boylam":38.3567,
-    "Derinlik":23.2,
-    "ML":"1.3",
-    "Yer":"TASDAMLAR-CELIKHAN (ADIYAMAN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.12",
-    "Saat":"00:16:09",
-    "Enlem":37.6892,
-    "Boylam":35.4032,
-    "Derinlik":5.0,
-    "ML":"1.9",
-    "Yer":"KUP-ALADAG (ADANA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.12",
-    "Saat":"00:10:18",
-    "Enlem":37.6882,
-    "Boylam":35.3853,
-    "Derinlik":5.0,
-    "ML":"2.4",
-    "Yer":"KUP-ALADAG (ADANA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"23:59:12",
-    "Enlem":37.6865,
-    "Boylam":35.4007,
-    "Derinlik":7.2,
-    "ML":"2.9",
-    "Yer":"KUP-ALADAG (ADANA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"23:17:51",
-    "Enlem":37.6718,
-    "Boylam":35.4108,
-    "Derinlik":12.4,
-    "ML":"1.2",
-    "Yer":"KUP-ALADAG (ADANA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"23:13:11",
-    "Enlem":38.1797,
-    "Boylam":37.668,
-    "Derinlik":10.7,
-    "ML":"2.2",
-    "Yer":"ATMALIKASANLI-ELBISTAN (KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"23:08:02",
-    "Enlem":38.4065,
-    "Boylam":38.877,
-    "Derinlik":12.3,
-    "ML":"1.2",
-    "Yer":"YAYLANLI-BASKIL (ELAZIG)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"22:53:35",
-    "Enlem":38.2068,
-    "Boylam":38.1687,
-    "Derinlik":7.9,
-    "ML":"1.0",
-    "Yer":"ATALAR-YESILYURT (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"22:36:38",
-    "Enlem":39.081,
-    "Boylam":28.3523,
-    "Derinlik":11.1,
-    "ML":"1.8",
-    "Yer":"KOBAKLAR-GORDES (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"22:15:29",
-    "Enlem":37.8793,
-    "Boylam":36.4363,
-    "Derinlik":8.4,
-    "ML":"1.6",
-    "Yer":"BUYUKCAMURLU-GOKSUN (KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"21:07:58",
-    "Enlem":39.1263,
-    "Boylam":28.9777,
-    "Derinlik":10.1,
-    "ML":"0.9",
-    "Yer":"YESILOVA-SIMAV (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"20:31:17",
-    "Enlem":39.9598,
-    "Boylam":35.5925,
-    "Derinlik":10.7,
-    "ML":"1.3",
-    "Yer":"CAKIRKOY-CEKEREK (YOZGAT)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"20:20:41",
-    "Enlem":39.1483,
-    "Boylam":25.9922,
-    "Derinlik":6.6,
-    "ML":"1.4",
-    "Yer":"MIDILLI ADASI (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"20:14:24",
-    "Enlem":37.0615,
-    "Boylam":27.9252,
-    "Derinlik":5.2,
-    "ML":"1.8",
-    "Yer":"CAMLICA-MILAS (MUGLA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"20:02:46",
-    "Enlem":35.5855,
-    "Boylam":26.5282,
-    "Derinlik":9.0,
-    "ML":"2.2",
-    "Yer":"EGE DENIZI",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"19:35:03",
-    "Enlem":38.25,
-    "Boylam":37.7528,
-    "Derinlik":11.0,
-    "ML":"1.6",
-    "Yer":"CEVIRME-AKCADAG (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"19:27:03",
-    "Enlem":38.8468,
-    "Boylam":37.3925,
-    "Derinlik":5.0,
-    "ML":"2.9",
-    "Yer":"KARADORUK-GURUN (SIVAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"19:19:36",
-    "Enlem":38.2757,
-    "Boylam":37.6948,
-    "Derinlik":11.5,
-    "ML":"1.3",
-    "Yer":"HARUNUSAGI-AKCADAG (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"18:38:21",
-    "Enlem":39.9983,
-    "Boylam":35.4963,
-    "Derinlik":6.7,
-    "ML":"2.2",
-    "Yer":"CEMALOGLU-CEKEREK (YOZGAT)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"18:07:50",
-    "Enlem":39.1563,
-    "Boylam":41.9837,
-    "Derinlik":16.0,
-    "ML":"2.4",
-    "Yer":"AKCAKAYNAK-BULANIK (MUS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"17:54:04",
-    "Enlem":39.1373,
-    "Boylam":28.3592,
-    "Derinlik":8.8,
-    "ML":"1.4",
-    "Yer":"YAYLABAYIR-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"17:36:06",
-    "Enlem":38.3757,
-    "Boylam":38.9095,
-    "Derinlik":7.2,
-    "ML":"2.6",
-    "Yer":"KAYABAGLARI-SIVRICE (ELAZIG)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"17:24:06",
-    "Enlem":37.3427,
-    "Boylam":35.0678,
-    "Derinlik":5.4,
-    "ML":"1.6",
-    "Yer":"GILDIRLI-KARAISALI (ADANA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"16:56:47",
-    "Enlem":40.0172,
-    "Boylam":35.5293,
-    "Derinlik":8.6,
-    "ML":"1.7",
-    "Yer":"KAHYALI-CEKEREK (YOZGAT)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"16:31:45",
-    "Enlem":40.0455,
-    "Boylam":35.5167,
-    "Derinlik":2.3,
-    "ML":"2.6",
-    "Yer":"ISAKLI-CEKEREK (YOZGAT)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.11",
-    "Saat":"16:21:48",
-    "Enlem":39.2688,
-    "Boylam":25.9995,
-    "Derinlik":11.3,
-    "ML":"1.8",
-    "Yer":"MIDILLI ADASI (EGE DENIZI)",
     "Cozum":"İlksel"
   }
 ]
