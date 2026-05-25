@@ -1,12 +1,102 @@
 [
   {
     "Tarih":"2026.05.25",
+    "Saat":"18:25:03",
+    "Enlem":39.1272,
+    "Boylam":28.0468,
+    "Derinlik":13.0,
+    "ML":"1.7",
+    "Yer":"ISACA-AKHISAR (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.25",
+    "Saat":"17:45:32",
+    "Enlem":37.9367,
+    "Boylam":36.4225,
+    "Derinlik":14.1,
+    "ML":"2.0",
+    "Yer":"FINDIKLIKOYAK-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.25",
+    "Saat":"17:18:54",
+    "Enlem":40.3933,
+    "Boylam":28.8977,
+    "Derinlik":6.1,
+    "ML":"1.6",
+    "Yer":"MUDANYA (BURSA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.25",
+    "Saat":"17:00:05",
+    "Enlem":36.0742,
+    "Boylam":36.2008,
+    "Derinlik":5.0,
+    "ML":"1.5",
+    "Yer":"YUNUSHANI-ALTINOZU (HATAY)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.25",
+    "Saat":"16:43:47",
+    "Enlem":37.9035,
+    "Boylam":36.3825,
+    "Derinlik":8.2,
+    "ML":"2.3",
+    "Yer":"BUYUKCAMURLU-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.25",
+    "Saat":"16:26:56",
+    "Enlem":40.7422,
+    "Boylam":31.7027,
+    "Derinlik":0.0,
+    "ML":"1.4",
+    "Yer":"AHMETLER-(BOLU)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.25",
+    "Saat":"15:59:00",
+    "Enlem":39.1545,
+    "Boylam":28.199,
+    "Derinlik":17.3,
+    "ML":"1.6",
+    "Yer":"AKTAS-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.25",
+    "Saat":"15:38:49",
+    "Enlem":38.2463,
+    "Boylam":38.5662,
+    "Derinlik":4.4,
+    "ML":"2.5",
+    "Yer":"GULUMUSAGI-(MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.25",
     "Saat":"14:57:03",
     "Enlem":39.0193,
     "Boylam":28.327,
     "Derinlik":16.1,
     "ML":"1.0",
     "Yer":"SALUR-GORDES (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.25",
+    "Saat":"14:55:38",
+    "Enlem":40.3322,
+    "Boylam":37.7217,
+    "Derinlik":3.1,
+    "ML":"2.1",
+    "Yer":"YUVALI-MESUDIYE (ORDU)",
     "Cozum":"İlksel"
   },
   {
@@ -9907,96 +9997,6 @@
     "Derinlik":6.8,
     "ML":"2.3",
     "Yer":"KIZILKAYA-TOROSLAR (MERSIN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.13",
-    "Saat":"13:13:30",
-    "Enlem":37.88,
-    "Boylam":36.4688,
-    "Derinlik":9.7,
-    "ML":"1.8",
-    "Yer":"DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.13",
-    "Saat":"13:03:21",
-    "Enlem":39.1732,
-    "Boylam":28.1553,
-    "Derinlik":15.9,
-    "ML":"1.2",
-    "Yer":"SINANDEDE-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.13",
-    "Saat":"12:18:35",
-    "Enlem":39.4403,
-    "Boylam":28.1032,
-    "Derinlik":0.0,
-    "ML":"2.0",
-    "Yer":"KADIKOY-BIGADIC (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.13",
-    "Saat":"12:16:52",
-    "Enlem":38.942,
-    "Boylam":37.841,
-    "Derinlik":11.1,
-    "ML":"1.7",
-    "Yer":"DAVULKU-HEKIMHAN (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.13",
-    "Saat":"11:27:42",
-    "Enlem":36.5195,
-    "Boylam":33.3592,
-    "Derinlik":16.6,
-    "ML":"1.2",
-    "Yer":"YESILKOY-MUT (MERSIN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.13",
-    "Saat":"10:59:14",
-    "Enlem":36.4805,
-    "Boylam":33.3398,
-    "Derinlik":12.4,
-    "ML":"1.7",
-    "Yer":"ORENPINAR-GULNAR (MERSIN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.13",
-    "Saat":"10:26:22",
-    "Enlem":36.9,
-    "Boylam":29.1177,
-    "Derinlik":3.5,
-    "ML":"1.6",
-    "Yer":"KARABAYIR-CAMELI (DENIZLI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.13",
-    "Saat":"10:22:52",
-    "Enlem":38.96,
-    "Boylam":29.9672,
-    "Derinlik":12.3,
-    "ML":"1.5",
-    "Yer":"YESILYURT-ALTINTAS (KUTAHYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.13",
-    "Saat":"10:22:43",
-    "Enlem":40.3278,
-    "Boylam":27.6902,
-    "Derinlik":16.4,
-    "ML":"2.0",
-    "Yer":"MISAKCA-BANDIRMA (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
