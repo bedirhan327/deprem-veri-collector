@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.05.30",
+    "Saat":"18:15:40",
+    "Enlem":38.8302,
+    "Boylam":40.1257,
+    "Derinlik":9.6,
+    "ML":"2.1",
+    "Yer":"ISAAGAMEZRASI-KOVANCILAR (ELAZIG)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.30",
+    "Saat":"18:03:47",
+    "Enlem":38.2908,
+    "Boylam":37.7517,
+    "Derinlik":10.4,
+    "ML":"2.1",
+    "Yer":"CEVIRME-AKCADAG (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.30",
+    "Saat":"18:02:36",
+    "Enlem":36.3093,
+    "Boylam":34.7258,
+    "Derinlik":7.6,
+    "ML":"2.9",
+    "Yer":"AKDENIZ",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.05.30",
     "Saat":"16:36:13",
     "Enlem":41.223,
     "Boylam":44.1408,
@@ -9967,36 +9997,6 @@
     "Derinlik":3.2,
     "ML":"1.5",
     "Yer":"CALTICAK-KIRKAGAC (MANISA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.19",
-    "Saat":"17:32:51",
-    "Enlem":39.5787,
-    "Boylam":26.0157,
-    "Derinlik":12.0,
-    "ML":"1.8",
-    "Yer":"GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.19",
-    "Saat":"17:26:17",
-    "Enlem":36.4308,
-    "Boylam":33.5258,
-    "Derinlik":6.9,
-    "ML":"0.8",
-    "Yer":"ZEYNE-GULNAR (MERSIN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.19",
-    "Saat":"16:59:28",
-    "Enlem":39.1352,
-    "Boylam":28.9047,
-    "Derinlik":12.8,
-    "ML":"1.1",
-    "Yer":"CAYSIMAV-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   }
 ]
