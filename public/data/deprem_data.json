@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.06.01",
+    "Saat":"17:45:44",
+    "Enlem":38.268,
+    "Boylam":38.5992,
+    "Derinlik":18.4,
+    "ML":"1.6",
+    "Yer":"PELITLI-(MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.06.01",
+    "Saat":"17:41:05",
+    "Enlem":39.2092,
+    "Boylam":28.9913,
+    "Derinlik":12.6,
+    "ML":"1.4",
+    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.06.01",
     "Saat":"15:49:43",
     "Enlem":39.0037,
     "Boylam":27.096,
@@ -28,6 +48,16 @@
     "ML":"1.6",
     "Yer":"CERKEZ SULTANIYE-SOMA (MANISA)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.06.01",
+    "Saat":"15:35:07",
+    "Enlem":37.0758,
+    "Boylam":44.6982,
+    "Derinlik":7.8,
+    "ML":"3.8",
+    "Yer":"TUTUNLU-SEMDINLI (HAKKARI) REVIZE01 (2026.06.01",
+    "Cozum":"15:35:07)"
   },
   {
     "Tarih":"2026.06.01",
@@ -9967,36 +9997,6 @@
     "Derinlik":18.3,
     "ML":"1.1",
     "Yer":"KALEKOY-GOKCEADA (CANAKKALE)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.22",
-    "Saat":"00:00:51",
-    "Enlem":39.2425,
-    "Boylam":28.0825,
-    "Derinlik":9.4,
-    "ML":"2.4",
-    "Yer":"KOZLU-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.21",
-    "Saat":"23:50:02",
-    "Enlem":36.8925,
-    "Boylam":29.126,
-    "Derinlik":2.8,
-    "ML":"1.9",
-    "Yer":"KARABAYIR-CAMELI (DENIZLI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.05.21",
-    "Saat":"23:38:06",
-    "Enlem":39.2383,
-    "Boylam":28.0735,
-    "Derinlik":13.4,
-    "ML":"1.7",
-    "Yer":"ALAKIR-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
