@@ -1,6 +1,106 @@
 [
   {
     "Tarih":"2026.06.30",
+    "Saat":"10:19:24",
+    "Enlem":38.5765,
+    "Boylam":31.0617,
+    "Derinlik":5.8,
+    "ML":"1.6",
+    "Yer":"PINARKAYA-CAY (AFYONKARAHISAR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.06.30",
+    "Saat":"10:13:25",
+    "Enlem":37.8152,
+    "Boylam":37.7148,
+    "Derinlik":5.0,
+    "ML":"3.0",
+    "Yer":"AKCAKAYA-GOLBASI (ADIYAMAN)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.06.30",
+    "Saat":"10:12:53",
+    "Enlem":39.0102,
+    "Boylam":25.8785,
+    "Derinlik":5.0,
+    "ML":"2.8",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.06.30",
+    "Saat":"10:10:35",
+    "Enlem":37.9037,
+    "Boylam":36.1283,
+    "Derinlik":5.5,
+    "ML":"1.9",
+    "Yer":"EYUPLU-SAIMBEYLI (ADANA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.06.30",
+    "Saat":"09:46:13",
+    "Enlem":37.9202,
+    "Boylam":37.2903,
+    "Derinlik":4.4,
+    "ML":"1.6",
+    "Yer":"UMUTLU-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.06.30",
+    "Saat":"08:31:41",
+    "Enlem":39.3337,
+    "Boylam":28.1512,
+    "Derinlik":10.9,
+    "ML":"1.4",
+    "Yer":"SULLER-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.06.30",
+    "Saat":"07:54:09",
+    "Enlem":39.023,
+    "Boylam":28.7103,
+    "Derinlik":9.6,
+    "ML":"1.7",
+    "Yer":"ESKIHISAR-DEMIRCI (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.06.30",
+    "Saat":"07:16:16",
+    "Enlem":39.2413,
+    "Boylam":28.9507,
+    "Derinlik":15.7,
+    "ML":"1.4",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.06.30",
+    "Saat":"06:44:37",
+    "Enlem":39.0193,
+    "Boylam":25.9452,
+    "Derinlik":5.9,
+    "ML":"1.9",
+    "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.06.30",
+    "Saat":"06:30:14",
+    "Enlem":34.4858,
+    "Boylam":23.5002,
+    "Derinlik":14.1,
+    "ML":"3.1",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.06.30",
     "Saat":"06:14:58",
     "Enlem":39.0408,
     "Boylam":25.9562,
@@ -77,6 +177,16 @@
     "Derinlik":8.2,
     "ML":"1.5",
     "Yer":"MIDILLI ADASI GUNEYI (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.06.30",
+    "Saat":"04:03:49",
+    "Enlem":38.7642,
+    "Boylam":22.7753,
+    "Derinlik":6.0,
+    "ML":"2.8",
+    "Yer":"YUNANISTAN",
     "Cozum":"İlksel"
   },
   {
@@ -8892,22 +9002,22 @@
   {
     "Tarih":"2026.06.16",
     "Saat":"18:39:15",
-    "Enlem":38.7487,
-    "Boylam":36.418,
-    "Derinlik":9.3,
-    "ML":"1.5",
-    "Yer":"KILICMEHMET-PINARBASI (KAYSERI) REVIZE01 (2026.06.16",
-    "Cozum":"18:39:15)"
-  },
-  {
-    "Tarih":"2026.06.16",
-    "Saat":"18:39:15",
     "Enlem":38.7498,
     "Boylam":36.4163,
     "Derinlik":7.6,
     "ML":"1.5",
     "Yer":"KILICMEHMET-PINARBASI (KAYSERI)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.06.16",
+    "Saat":"18:39:15",
+    "Enlem":38.7487,
+    "Boylam":36.418,
+    "Derinlik":9.3,
+    "ML":"1.5",
+    "Yer":"KILICMEHMET-PINARBASI (KAYSERI) REVIZE01 (2026.06.16",
+    "Cozum":"18:39:15)"
   },
   {
     "Tarih":"2026.06.16",
@@ -9472,9 +9582,9 @@
   {
     "Tarih":"2026.06.16",
     "Saat":"08:25:23",
-    "Enlem":38.7757,
-    "Boylam":36.595,
-    "Derinlik":6.9,
+    "Enlem":38.774,
+    "Boylam":36.5965,
+    "Derinlik":7.0,
     "ML":"1.3",
     "Yer":"ESKIYASSIPINAR-PINARBASI (KAYSERI)",
     "Cozum":"İlksel"
@@ -9482,9 +9592,9 @@
   {
     "Tarih":"2026.06.16",
     "Saat":"08:25:23",
-    "Enlem":38.774,
-    "Boylam":36.5965,
-    "Derinlik":7.0,
+    "Enlem":38.7757,
+    "Boylam":36.595,
+    "Derinlik":6.9,
     "ML":"1.3",
     "Yer":"ESKIYASSIPINAR-PINARBASI (KAYSERI)",
     "Cozum":"İlksel"
@@ -9887,116 +9997,6 @@
     "Derinlik":7.9,
     "ML":"1.7",
     "Yer":"YUKARIBURANDERE-PINARBASI (KAYSERI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.06.16",
-    "Saat":"02:25:08",
-    "Enlem":38.7767,
-    "Boylam":36.5732,
-    "Derinlik":8.8,
-    "ML":"1.3",
-    "Yer":"ESKIYASSIPINAR-PINARBASI (KAYSERI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.06.16",
-    "Saat":"02:05:57",
-    "Enlem":38.7682,
-    "Boylam":36.5575,
-    "Derinlik":6.2,
-    "ML":"1.5",
-    "Yer":"YUKARIBURANDERE-PINARBASI (KAYSERI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.06.16",
-    "Saat":"02:02:54",
-    "Enlem":38.755,
-    "Boylam":36.5465,
-    "Derinlik":8.5,
-    "ML":"1.9",
-    "Yer":"YUKARIBURANDERE-PINARBASI (KAYSERI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.06.16",
-    "Saat":"01:56:44",
-    "Enlem":38.784,
-    "Boylam":36.5357,
-    "Derinlik":9.1,
-    "ML":"1.5",
-    "Yer":"ASAGIBORANDERE-PINARBASI (KAYSERI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.06.16",
-    "Saat":"01:54:33",
-    "Enlem":38.7693,
-    "Boylam":36.5565,
-    "Derinlik":7.7,
-    "ML":"2.2",
-    "Yer":"YUKARIBURANDERE-PINARBASI (KAYSERI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.06.16",
-    "Saat":"01:42:04",
-    "Enlem":38.7603,
-    "Boylam":36.5568,
-    "Derinlik":5.3,
-    "ML":"2.1",
-    "Yer":"YUKARIBURANDERE-PINARBASI (KAYSERI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.06.16",
-    "Saat":"01:34:27",
-    "Enlem":38.7682,
-    "Boylam":36.5487,
-    "Derinlik":5.9,
-    "ML":"2.6",
-    "Yer":"YUKARIBURANDERE-PINARBASI (KAYSERI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.06.16",
-    "Saat":"01:27:25",
-    "Enlem":38.7768,
-    "Boylam":36.6072,
-    "Derinlik":10.9,
-    "ML":"1.9",
-    "Yer":"ESKIYASSIPINAR-PINARBASI (KAYSERI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.06.16",
-    "Saat":"01:25:27",
-    "Enlem":38.7727,
-    "Boylam":36.579,
-    "Derinlik":9.1,
-    "ML":"1.8",
-    "Yer":"ESKIYASSIPINAR-PINARBASI (KAYSERI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.06.16",
-    "Saat":"01:22:21",
-    "Enlem":38.7755,
-    "Boylam":36.5453,
-    "Derinlik":5.8,
-    "ML":"1.8",
-    "Yer":"YUKARIBURANDERE-PINARBASI (KAYSERI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.06.16",
-    "Saat":"01:12:15",
-    "Enlem":38.7373,
-    "Boylam":36.4805,
-    "Derinlik":21.1,
-    "ML":"1.2",
-    "Yer":"GEBELEK-PINARBASI (KAYSERI)",
     "Cozum":"İlksel"
   }
 ]
