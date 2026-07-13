@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.07.14",
+    "Saat":"00:46:17",
+    "Enlem":39.246,
+    "Boylam":28.9737,
+    "Derinlik":5.3,
+    "ML":"1.6",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.07.14",
     "Saat":"00:03:37",
     "Enlem":38.804,
     "Boylam":37.2607,
@@ -9272,9 +9282,9 @@
   {
     "Tarih":"2026.06.29",
     "Saat":"02:51:01",
-    "Enlem":39.1502,
-    "Boylam":28.3117,
-    "Derinlik":8.1,
+    "Enlem":39.1498,
+    "Boylam":28.312,
+    "Derinlik":8.5,
     "ML":"1.3",
     "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
@@ -9282,9 +9292,9 @@
   {
     "Tarih":"2026.06.29",
     "Saat":"02:51:01",
-    "Enlem":39.1498,
-    "Boylam":28.312,
-    "Derinlik":8.5,
+    "Enlem":39.1502,
+    "Boylam":28.3117,
+    "Derinlik":8.1,
     "ML":"1.3",
     "Yer":"KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
@@ -9392,16 +9402,6 @@
   {
     "Tarih":"2026.06.29",
     "Saat":"01:36:39",
-    "Enlem":38.7773,
-    "Boylam":36.5573,
-    "Derinlik":12.0,
-    "ML":"1.3",
-    "Yer":"YUKARIBURANDERE-PINARBASI (KAYSERI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.06.29",
-    "Saat":"01:36:39",
     "Enlem":38.7777,
     "Boylam":36.5575,
     "Derinlik":11.9,
@@ -9411,12 +9411,12 @@
   },
   {
     "Tarih":"2026.06.29",
-    "Saat":"01:31:35",
-    "Enlem":38.8385,
-    "Boylam":31.4577,
-    "Derinlik":5.6,
-    "ML":"1.6",
-    "Yer":"LEYLEKLI-EMIRDAG (AFYONKARAHISAR)",
+    "Saat":"01:36:39",
+    "Enlem":38.7773,
+    "Boylam":36.5573,
+    "Derinlik":12.0,
+    "ML":"1.3",
+    "Yer":"YUKARIBURANDERE-PINARBASI (KAYSERI)",
     "Cozum":"İlksel"
   },
   {
@@ -9425,6 +9425,16 @@
     "Enlem":38.8387,
     "Boylam":31.4577,
     "Derinlik":5.7,
+    "ML":"1.6",
+    "Yer":"LEYLEKLI-EMIRDAG (AFYONKARAHISAR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.06.29",
+    "Saat":"01:31:35",
+    "Enlem":38.8385,
+    "Boylam":31.4577,
+    "Derinlik":5.6,
     "ML":"1.6",
     "Yer":"LEYLEKLI-EMIRDAG (AFYONKARAHISAR)",
     "Cozum":"İlksel"
@@ -9732,16 +9742,6 @@
   {
     "Tarih":"2026.06.28",
     "Saat":"21:55:23",
-    "Enlem":38.332,
-    "Boylam":39.0137,
-    "Derinlik":8.0,
-    "ML":"1.5",
-    "Yer":"ILINCAK-SIVRICE (ELAZIG)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.06.28",
-    "Saat":"21:55:23",
     "Enlem":38.3437,
     "Boylam":39.008,
     "Derinlik":8.1,
@@ -9751,12 +9751,12 @@
   },
   {
     "Tarih":"2026.06.28",
-    "Saat":"21:36:45",
-    "Enlem":38.4253,
-    "Boylam":37.845,
-    "Derinlik":11.7,
-    "ML":"1.7",
-    "Yer":"COBANUSAGI-AKCADAG (MALATYA)",
+    "Saat":"21:55:23",
+    "Enlem":38.332,
+    "Boylam":39.0137,
+    "Derinlik":8.0,
+    "ML":"1.5",
+    "Yer":"ILINCAK-SIVRICE (ELAZIG)",
     "Cozum":"İlksel"
   },
   {
@@ -9766,6 +9766,16 @@
     "Boylam":37.8453,
     "Derinlik":11.7,
     "ML":"2.0",
+    "Yer":"COBANUSAGI-AKCADAG (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.06.28",
+    "Saat":"21:36:45",
+    "Enlem":38.4253,
+    "Boylam":37.845,
+    "Derinlik":11.7,
+    "ML":"1.7",
     "Yer":"COBANUSAGI-AKCADAG (MALATYA)",
     "Cozum":"İlksel"
   },
@@ -9862,9 +9872,9 @@
   {
     "Tarih":"2026.06.28",
     "Saat":"20:38:27",
-    "Enlem":38.2933,
-    "Boylam":37.7798,
-    "Derinlik":23.7,
+    "Enlem":38.2922,
+    "Boylam":37.7773,
+    "Derinlik":23.3,
     "ML":"1.0",
     "Yer":"DUTLU-AKCADAG (MALATYA)",
     "Cozum":"İlksel"
@@ -9872,9 +9882,9 @@
   {
     "Tarih":"2026.06.28",
     "Saat":"20:38:27",
-    "Enlem":38.2922,
-    "Boylam":37.7773,
-    "Derinlik":23.3,
+    "Enlem":38.2933,
+    "Boylam":37.7798,
+    "Derinlik":23.7,
     "ML":"1.0",
     "Yer":"DUTLU-AKCADAG (MALATYA)",
     "Cozum":"İlksel"
@@ -9986,16 +9996,6 @@
     "Boylam":25.4347,
     "Derinlik":6.6,
     "ML":"1.7",
-    "Yer":"GIRIT ADASI (AKDENIZ)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.06.28",
-    "Saat":"19:07:04",
-    "Enlem":35.2505,
-    "Boylam":25.3677,
-    "Derinlik":5.5,
-    "ML":"2.0",
     "Yer":"GIRIT ADASI (AKDENIZ)",
     "Cozum":"İlksel"
   }
