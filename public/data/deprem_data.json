@@ -1,6 +1,76 @@
 [
   {
     "Tarih":"2026.07.18",
+    "Saat":"08:34:28",
+    "Enlem":38.969,
+    "Boylam":29.9305,
+    "Derinlik":7.6,
+    "ML":"2.0",
+    "Yer":"YESILYURT-ALTINTAS (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.07.18",
+    "Saat":"08:15:16",
+    "Enlem":37.8703,
+    "Boylam":36.3628,
+    "Derinlik":5.5,
+    "ML":"2.1",
+    "Yer":"KUCUKCAMURLU-GOKSUN (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.07.18",
+    "Saat":"08:11:16",
+    "Enlem":36.952,
+    "Boylam":27.9377,
+    "Derinlik":13.2,
+    "ML":"1.6",
+    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.07.18",
+    "Saat":"08:03:34",
+    "Enlem":38.4367,
+    "Boylam":39.0048,
+    "Derinlik":8.5,
+    "ML":"1.9",
+    "Yer":"CORTUNLU-SIVRICE (ELAZIG)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.07.18",
+    "Saat":"08:01:19",
+    "Enlem":39.2472,
+    "Boylam":28.9802,
+    "Derinlik":5.0,
+    "ML":"1.6",
+    "Yer":"YEMISLI-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.07.18",
+    "Saat":"07:59:05",
+    "Enlem":38.4303,
+    "Boylam":39.0132,
+    "Derinlik":11.4,
+    "ML":"2.2",
+    "Yer":"CORTUNLU-SIVRICE (ELAZIG)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.07.18",
+    "Saat":"07:09:18",
+    "Enlem":38.2445,
+    "Boylam":38.3697,
+    "Derinlik":4.8,
+    "ML":"1.0",
+    "Yer":"UCGOZE-YESILYURT (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.07.18",
     "Saat":"06:55:24",
     "Enlem":37.0875,
     "Boylam":27.9963,
@@ -41,6 +111,16 @@
   },
   {
     "Tarih":"2026.07.18",
+    "Saat":"06:40:24",
+    "Enlem":40.0365,
+    "Boylam":40.5587,
+    "Derinlik":13.7,
+    "ML":"1.5",
+    "Yer":"KAPIKALE-ASKALE (ERZURUM)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.07.18",
     "Saat":"06:39:02",
     "Enlem":40.0533,
     "Boylam":40.5488,
@@ -68,6 +148,16 @@
     "ML":"1.5",
     "Yer":"GULUMUSAGI-(MALATYA)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.07.18",
+    "Saat":"06:20:58",
+    "Enlem":38.238,
+    "Boylam":38.4803,
+    "Derinlik":14.9,
+    "ML":"5.0",
+    "Yer":"GULUMUSAGI-(MALATYA) REVIZE01 (2026.07.18",
+    "Cozum":"06:20:58)"
   },
   {
     "Tarih":"2026.07.18",
@@ -9907,96 +9997,6 @@
     "Derinlik":5.3,
     "ML":"2.0",
     "Yer":"ALACABAYIR-(BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.03",
-    "Saat":"09:13:47",
-    "Enlem":37.8567,
-    "Boylam":43.5935,
-    "Derinlik":3.4,
-    "ML":"2.1",
-    "Yer":"UCDOGAN-GURPINAR (VAN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.03",
-    "Saat":"08:58:09",
-    "Enlem":37.671,
-    "Boylam":29.9182,
-    "Derinlik":4.8,
-    "ML":"1.5",
-    "Yer":"GOKCEYAKA-YESILOVA (BURDUR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.03",
-    "Saat":"08:18:16",
-    "Enlem":36.9358,
-    "Boylam":27.614,
-    "Derinlik":7.0,
-    "ML":"2.3",
-    "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.03",
-    "Saat":"07:37:04",
-    "Enlem":38.294,
-    "Boylam":38.8245,
-    "Derinlik":4.3,
-    "ML":"1.8",
-    "Yer":"BOLUKKAYA-PUTURGE (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.03",
-    "Saat":"06:58:02",
-    "Enlem":38.2128,
-    "Boylam":37.668,
-    "Derinlik":5.0,
-    "ML":"1.4",
-    "Yer":"ATMALIKASANLI-ELBISTAN (KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.03",
-    "Saat":"06:45:23",
-    "Enlem":41.4065,
-    "Boylam":43.9423,
-    "Derinlik":5.0,
-    "ML":"2.6",
-    "Yer":"GURCISTAN",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.03",
-    "Saat":"06:36:43",
-    "Enlem":37.9768,
-    "Boylam":36.2975,
-    "Derinlik":5.0,
-    "ML":"2.6",
-    "Yer":"KAZANDERE-GOKSUN (KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.03",
-    "Saat":"05:59:44",
-    "Enlem":39.201,
-    "Boylam":28.01,
-    "Derinlik":12.0,
-    "ML":"2.3",
-    "Yer":"SAHINKAYA-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.03",
-    "Saat":"05:05:49",
-    "Enlem":37.9853,
-    "Boylam":36.6242,
-    "Derinlik":5.3,
-    "ML":"2.1",
-    "Yer":"ELMALI-GOKSUN (KAHRAMANMARAS)",
     "Cozum":"İlksel"
   }
 ]
