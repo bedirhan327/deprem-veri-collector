@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.07.29",
+    "Saat":"19:50:23",
+    "Enlem":40.4578,
+    "Boylam":29.1913,
+    "Derinlik":4.5,
+    "ML":"2.5",
+    "Yer":"CIHATLI-GEMLIK (BURSA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.07.29",
+    "Saat":"19:34:54",
+    "Enlem":38.0577,
+    "Boylam":37.3697,
+    "Derinlik":8.1,
+    "ML":"1.8",
+    "Yer":"AGCASAR-NURHAK (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.07.29",
     "Saat":"18:10:24",
     "Enlem":38.617,
     "Boylam":26.8038,
     "Derinlik":6.1,
     "ML":"2.7",
     "Yer":"IZMIR KORFEZI (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.07.29",
+    "Saat":"17:59:55",
+    "Enlem":33.2405,
+    "Boylam":28.5535,
+    "Derinlik":168.1,
+    "ML":"3.3",
+    "Yer":"GIRIT ADASI ACIKLARI (AKDENIZ)",
     "Cozum":"İlksel"
   },
   {
@@ -8262,22 +8292,22 @@
   {
     "Tarih":"2026.07.18",
     "Saat":"06:20:58",
-    "Enlem":38.2195,
-    "Boylam":38.5013,
-    "Derinlik":5.5,
-    "ML":"5.0",
-    "Yer":"GULUMUSAGI-(MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.18",
-    "Saat":"06:20:58",
     "Enlem":38.238,
     "Boylam":38.4803,
     "Derinlik":14.9,
     "ML":"5.0",
     "Yer":"GULUMUSAGI-(MALATYA) REVIZE01 (2026.07.18",
     "Cozum":"06:20:58)"
+  },
+  {
+    "Tarih":"2026.07.18",
+    "Saat":"06:20:58",
+    "Enlem":38.2195,
+    "Boylam":38.5013,
+    "Derinlik":5.5,
+    "ML":"5.0",
+    "Yer":"GULUMUSAGI-(MALATYA)",
+    "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.07.18",
@@ -8902,9 +8932,9 @@
   {
     "Tarih":"2026.07.17",
     "Saat":"15:37:57",
-    "Enlem":38.7908,
-    "Boylam":38.7565,
-    "Derinlik":7.2,
+    "Enlem":38.791,
+    "Boylam":38.756,
+    "Derinlik":5.9,
     "ML":"1.6",
     "Yer":"KEBAN (ELAZIG)",
     "Cozum":"İlksel"
@@ -8912,9 +8942,9 @@
   {
     "Tarih":"2026.07.17",
     "Saat":"15:37:57",
-    "Enlem":38.791,
-    "Boylam":38.756,
-    "Derinlik":5.9,
+    "Enlem":38.7908,
+    "Boylam":38.7565,
+    "Derinlik":7.2,
     "ML":"1.6",
     "Yer":"KEBAN (ELAZIG)",
     "Cozum":"İlksel"
@@ -9967,36 +9997,6 @@
     "Derinlik":6.3,
     "ML":"2.8",
     "Yer":"EGE DENIZI",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.16",
-    "Saat":"12:54:43",
-    "Enlem":39.956,
-    "Boylam":26.0852,
-    "Derinlik":9.7,
-    "ML":"1.5",
-    "Yer":"UVECIK ACIKLARI-CANAKKALE (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.16",
-    "Saat":"12:49:03",
-    "Enlem":40.8093,
-    "Boylam":32.2747,
-    "Derinlik":20.4,
-    "ML":"1.1",
-    "Yer":"CAYORENGUNEY-GEREDE (BOLU)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.16",
-    "Saat":"12:44:55",
-    "Enlem":39.1933,
-    "Boylam":29.0168,
-    "Derinlik":20.8,
-    "ML":"1.1",
-    "Yer":"EGIRLER-SIMAV (KUTAHYA)",
     "Cozum":"İlksel"
   }
 ]
