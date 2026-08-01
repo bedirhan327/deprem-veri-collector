@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.08.01",
+    "Saat":"18:11:20",
+    "Enlem":38.1297,
+    "Boylam":37.7872,
+    "Derinlik":28.4,
+    "ML":"1.1",
+    "Yer":"FINDIKKOY-DOGANSEHIR (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.01",
+    "Saat":"17:59:59",
+    "Enlem":41.1273,
+    "Boylam":29.1587,
+    "Derinlik":9.4,
+    "ML":"0.8",
+    "Yer":"ZERZAVATCI-BEYKOZ (ISTANBUL)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.01",
+    "Saat":"17:57:31",
+    "Enlem":36.7315,
+    "Boylam":28.0882,
+    "Derinlik":3.6,
+    "ML":"1.0",
+    "Yer":"SELIMIYE-MARMARIS (MUGLA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.01",
+    "Saat":"17:57:29",
+    "Enlem":38.3102,
+    "Boylam":37.8607,
+    "Derinlik":15.2,
+    "ML":"1.5",
+    "Yer":"HANCERLI-AKCADAG (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.01",
     "Saat":"17:24:35",
     "Enlem":40.8188,
     "Boylam":27.9563,
@@ -9957,46 +9997,6 @@
     "Derinlik":6.3,
     "ML":"2.7",
     "Yer":"ISKENDERUN KORFEZI (AKDENIZ)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.18",
-    "Saat":"20:23:57",
-    "Enlem":37.4292,
-    "Boylam":30.0652,
-    "Derinlik":8.4,
-    "ML":"1.8",
-    "Yer":"PINARBASI-KEMER (BURDUR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.18",
-    "Saat":"19:55:47",
-    "Enlem":40.7228,
-    "Boylam":27.5138,
-    "Derinlik":4.4,
-    "ML":"1.7",
-    "Yer":"GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.18",
-    "Saat":"19:46:24",
-    "Enlem":37.0747,
-    "Boylam":27.999,
-    "Derinlik":5.3,
-    "ML":"1.7",
-    "Yer":"KALEM-MILAS (MUGLA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.18",
-    "Saat":"19:34:31",
-    "Enlem":39.2275,
-    "Boylam":28.353,
-    "Derinlik":7.7,
-    "ML":"1.6",
-    "Yer":"OSMANLAR-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
   }
 ]
