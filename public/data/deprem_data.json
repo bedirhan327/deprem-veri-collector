@@ -1,6 +1,56 @@
 [
   {
     "Tarih":"2026.08.06",
+    "Saat":"12:00:53",
+    "Enlem":36.657,
+    "Boylam":33.3728,
+    "Derinlik":25.0,
+    "ML":"1.3",
+    "Yer":"FAKIRCA-MUT (MERSIN)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.06",
+    "Saat":"11:38:12",
+    "Enlem":38.1598,
+    "Boylam":38.615,
+    "Derinlik":13.7,
+    "ML":"2.1",
+    "Yer":"TEKEDERESI-PUTURGE (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.06",
+    "Saat":"09:29:57",
+    "Enlem":37.8985,
+    "Boylam":35.1212,
+    "Derinlik":1.7,
+    "ML":"1.9",
+    "Yer":"PINARBASI-CAMARDI (NIGDE)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.06",
+    "Saat":"09:26:40",
+    "Enlem":38.0115,
+    "Boylam":32.6985,
+    "Derinlik":0.0,
+    "ML":"1.2",
+    "Yer":"CENGILTI-KARATAY (KONYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.06",
+    "Saat":"09:10:56",
+    "Enlem":39.3057,
+    "Boylam":28.9353,
+    "Derinlik":13.1,
+    "ML":"1.0",
+    "Yer":"ORTACA-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.06",
     "Saat":"08:59:38",
     "Enlem":39.2995,
     "Boylam":26.0947,
@@ -3562,8 +3612,8 @@
   {
     "Tarih":"2026.08.01",
     "Saat":"02:19:29",
-    "Enlem":37.1603,
-    "Boylam":28.6558,
+    "Enlem":37.1585,
+    "Boylam":28.6557,
     "Derinlik":5.0,
     "ML":"1.8",
     "Yer":"TURGUT-ULA (MUGLA)",
@@ -3572,8 +3622,8 @@
   {
     "Tarih":"2026.08.01",
     "Saat":"02:19:29",
-    "Enlem":37.1585,
-    "Boylam":28.6557,
+    "Enlem":37.1603,
+    "Boylam":28.6558,
     "Derinlik":5.0,
     "ML":"1.8",
     "Yer":"TURGUT-ULA (MUGLA)",
@@ -9947,56 +9997,6 @@
     "Derinlik":5.3,
     "ML":"1.8",
     "Yer":"CAMDIBI-HAVRAN (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.22",
-    "Saat":"14:43:13",
-    "Enlem":39.3383,
-    "Boylam":26.0492,
-    "Derinlik":11.0,
-    "ML":"2.4",
-    "Yer":"MIDILLI ADASI (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.22",
-    "Saat":"14:42:23",
-    "Enlem":38.773,
-    "Boylam":36.5415,
-    "Derinlik":5.0,
-    "ML":"2.8",
-    "Yer":"YUKARIBURANDERE-PINARBASI (KAYSERI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.22",
-    "Saat":"14:39:07",
-    "Enlem":39.31,
-    "Boylam":26.0902,
-    "Derinlik":12.6,
-    "ML":"1.6",
-    "Yer":"MIDILLI ADASI (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.22",
-    "Saat":"14:31:45",
-    "Enlem":38.842,
-    "Boylam":26.8387,
-    "Derinlik":7.8,
-    "ML":"1.4",
-    "Yer":"CANDARLI KORFEZI (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.22",
-    "Saat":"13:46:11",
-    "Enlem":39.3395,
-    "Boylam":26.0707,
-    "Derinlik":5.0,
-    "ML":"1.4",
-    "Yer":"MIDILLI ADASI (EGE DENIZI)",
     "Cozum":"İlksel"
   }
 ]
