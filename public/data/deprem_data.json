@@ -1,5 +1,35 @@
 [
   {
+    "Tarih":"2026.08.08",
+    "Saat":"00:35:58",
+    "Enlem":39.2477,
+    "Boylam":28.961,
+    "Derinlik":10.8,
+    "ML":"1.2",
+    "Yer":"YENILER-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.08",
+    "Saat":"00:11:59",
+    "Enlem":39.19,
+    "Boylam":40.3572,
+    "Derinlik":5.1,
+    "ML":"1.9",
+    "Yer":"KUSCIMENI-ADAKLI (BINGOL)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.08",
+    "Saat":"00:08:21",
+    "Enlem":36.01,
+    "Boylam":29.8893,
+    "Derinlik":18.9,
+    "ML":"1.7",
+    "Yer":"KAS ACIKLARI-ANTALYA (AKDENIZ)",
+    "Cozum":"İlksel"
+  },
+  {
     "Tarih":"2026.08.07",
     "Saat":"23:31:53",
     "Enlem":38.1392,
@@ -37,6 +67,16 @@
     "Derinlik":5.5,
     "ML":"2.6",
     "Yer":"KARAKOCA-SIMAV (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.07",
+    "Saat":"22:30:53",
+    "Enlem":39.3988,
+    "Boylam":24.039,
+    "Derinlik":12.0,
+    "ML":"1.6",
+    "Yer":"YUNANISTAN",
     "Cozum":"İlksel"
   },
   {
@@ -4612,8 +4652,8 @@
   {
     "Tarih":"2026.08.01",
     "Saat":"02:19:29",
-    "Enlem":37.1603,
-    "Boylam":28.6558,
+    "Enlem":37.1585,
+    "Boylam":28.6557,
     "Derinlik":5.0,
     "ML":"1.8",
     "Yer":"TURGUT-ULA (MUGLA)",
@@ -4622,8 +4662,8 @@
   {
     "Tarih":"2026.08.01",
     "Saat":"02:19:29",
-    "Enlem":37.1585,
-    "Boylam":28.6557,
+    "Enlem":37.1603,
+    "Boylam":28.6558,
     "Derinlik":5.0,
     "ML":"1.8",
     "Yer":"TURGUT-ULA (MUGLA)",
@@ -9957,46 +9997,6 @@
     "Derinlik":5.3,
     "ML":"1.6",
     "Yer":"MIDILLI ADASI (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.24",
-    "Saat":"14:55:05",
-    "Enlem":36.5787,
-    "Boylam":25.3672,
-    "Derinlik":9.3,
-    "ML":"2.0",
-    "Yer":"EGE DENIZI",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.24",
-    "Saat":"14:41:57",
-    "Enlem":38.0937,
-    "Boylam":40.7102,
-    "Derinlik":5.0,
-    "ML":"3.5",
-    "Yer":"KUMLUK-SILVAN (DIYARBAKIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.24",
-    "Saat":"14:32:56",
-    "Enlem":39.9273,
-    "Boylam":33.0452,
-    "Derinlik":0.0,
-    "ML":"1.4",
-    "Yer":"MAMAK (ANKARA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.24",
-    "Saat":"14:01:59",
-    "Enlem":39.378,
-    "Boylam":25.6932,
-    "Derinlik":3.1,
-    "ML":"4.1",
-    "Yer":"EGE DENIZI",
     "Cozum":"İlksel"
   }
 ]
