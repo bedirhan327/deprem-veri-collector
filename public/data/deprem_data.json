@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.08.07",
+    "Saat":"10:10:56",
+    "Enlem":36.0882,
+    "Boylam":28.0712,
+    "Derinlik":1.4,
+    "ML":"3.5",
+    "Yer":"RODOS ADASI (AKDENIZ)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.07",
+    "Saat":"10:06:13",
+    "Enlem":37.9603,
+    "Boylam":27.0953,
+    "Derinlik":3.7,
+    "ML":"1.9",
+    "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.07",
     "Saat":"09:20:42",
     "Enlem":38.867,
     "Boylam":23.2138,
@@ -4172,8 +4192,8 @@
   {
     "Tarih":"2026.08.01",
     "Saat":"02:19:29",
-    "Enlem":37.1585,
-    "Boylam":28.6557,
+    "Enlem":37.1603,
+    "Boylam":28.6558,
     "Derinlik":5.0,
     "ML":"1.8",
     "Yer":"TURGUT-ULA (MUGLA)",
@@ -4182,8 +4202,8 @@
   {
     "Tarih":"2026.08.01",
     "Saat":"02:19:29",
-    "Enlem":37.1603,
-    "Boylam":28.6558,
+    "Enlem":37.1585,
+    "Boylam":28.6557,
     "Derinlik":5.0,
     "ML":"1.8",
     "Yer":"TURGUT-ULA (MUGLA)",
@@ -9977,26 +9997,6 @@
     "Derinlik":8.3,
     "ML":"1.6",
     "Yer":"DARIYERIBAKACAK-KAYNASLI (DUZCE)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.23",
-    "Saat":"19:05:27",
-    "Enlem":38.3382,
-    "Boylam":37.8538,
-    "Derinlik":6.4,
-    "ML":"2.3",
-    "Yer":"DUMUKLU-AKCADAG (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.23",
-    "Saat":"18:20:23",
-    "Enlem":38.8043,
-    "Boylam":23.3812,
-    "Derinlik":12.4,
-    "ML":"2.2",
-    "Yer":"YUNANISTAN",
     "Cozum":"İlksel"
   }
 ]
