@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.08.07",
+    "Saat":"22:11:54",
+    "Enlem":40.7898,
+    "Boylam":31.5632,
+    "Derinlik":4.8,
+    "ML":"1.7",
+    "Yer":"KIZILAGIL-(BOLU)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.07",
+    "Saat":"22:05:33",
+    "Enlem":36.9513,
+    "Boylam":33.8808,
+    "Derinlik":4.9,
+    "ML":"2.0",
+    "Yer":"EVDILEK-ERDEMLI (MERSIN)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.07",
+    "Saat":"22:02:45",
+    "Enlem":36.0662,
+    "Boylam":28.0573,
+    "Derinlik":9.1,
+    "ML":"3.0",
+    "Yer":"RODOS ADASI (AKDENIZ)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.07",
     "Saat":"20:57:39",
     "Enlem":38.9968,
     "Boylam":42.6553,
@@ -4512,8 +4542,8 @@
   {
     "Tarih":"2026.08.01",
     "Saat":"02:19:29",
-    "Enlem":37.1603,
-    "Boylam":28.6558,
+    "Enlem":37.1585,
+    "Boylam":28.6557,
     "Derinlik":5.0,
     "ML":"1.8",
     "Yer":"TURGUT-ULA (MUGLA)",
@@ -4522,8 +4552,8 @@
   {
     "Tarih":"2026.08.01",
     "Saat":"02:19:29",
-    "Enlem":37.1585,
-    "Boylam":28.6557,
+    "Enlem":37.1603,
+    "Boylam":28.6558,
     "Derinlik":5.0,
     "ML":"1.8",
     "Yer":"TURGUT-ULA (MUGLA)",
@@ -9967,36 +9997,6 @@
     "Derinlik":9.5,
     "ML":"2.2",
     "Yer":"EGE DENIZI",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.24",
-    "Saat":"10:54:26",
-    "Enlem":39.3837,
-    "Boylam":26.289,
-    "Derinlik":4.8,
-    "ML":"2.0",
-    "Yer":"MIDILLI ADASI (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.24",
-    "Saat":"10:09:39",
-    "Enlem":36.2168,
-    "Boylam":27.6842,
-    "Derinlik":6.7,
-    "ML":"1.8",
-    "Yer":"EGE DENIZI",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.24",
-    "Saat":"10:04:02",
-    "Enlem":38.0672,
-    "Boylam":36.6335,
-    "Derinlik":4.5,
-    "ML":"2.2",
-    "Yer":"GUCUKSU-GOKSUN (KAHRAMANMARAS)",
     "Cozum":"İlksel"
   }
 ]
