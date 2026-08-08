@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.08.08",
+    "Saat":"13:16:16",
+    "Enlem":39.8252,
+    "Boylam":27.8658,
+    "Derinlik":16.3,
+    "ML":"0.9",
+    "Yer":"SAMLI-(BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.08",
+    "Saat":"12:40:02",
+    "Enlem":39.1995,
+    "Boylam":27.7032,
+    "Derinlik":0.0,
+    "ML":"1.6",
+    "Yer":"BAYAT-SOMA (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.08",
     "Saat":"12:38:25",
     "Enlem":38.0868,
     "Boylam":32.6102,
@@ -5192,8 +5212,8 @@
   {
     "Tarih":"2026.08.01",
     "Saat":"02:19:29",
-    "Enlem":37.1603,
-    "Boylam":28.6558,
+    "Enlem":37.1585,
+    "Boylam":28.6557,
     "Derinlik":5.0,
     "ML":"1.8",
     "Yer":"TURGUT-ULA (MUGLA)",
@@ -5202,8 +5222,8 @@
   {
     "Tarih":"2026.08.01",
     "Saat":"02:19:29",
-    "Enlem":37.1585,
-    "Boylam":28.6557,
+    "Enlem":37.1603,
+    "Boylam":28.6558,
     "Derinlik":5.0,
     "ML":"1.8",
     "Yer":"TURGUT-ULA (MUGLA)",
@@ -9977,26 +9997,6 @@
     "Derinlik":16.7,
     "ML":"1.5",
     "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.25",
-    "Saat":"11:50:34",
-    "Enlem":41.2585,
-    "Boylam":41.4145,
-    "Derinlik":1.6,
-    "ML":"1.5",
-    "Yer":"YILDIZLI-ARHAVI (ARTVIN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.25",
-    "Saat":"10:37:30",
-    "Enlem":37.209,
-    "Boylam":30.1705,
-    "Derinlik":15.8,
-    "ML":"1.9",
-    "Yer":"GUMUSLU-KORKUTELI (ANTALYA)",
     "Cozum":"İlksel"
   }
 ]
