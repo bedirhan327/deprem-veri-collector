@@ -1,6 +1,36 @@
 [
   {
     "Tarih":"2026.08.10",
+    "Saat":"02:02:27",
+    "Enlem":39.1778,
+    "Boylam":28.224,
+    "Derinlik":11.0,
+    "ML":"2.0",
+    "Yer":"BAYRAKLI-SINDIRGI (BALIKESIR)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.10",
+    "Saat":"01:50:55",
+    "Enlem":40.6455,
+    "Boylam":29.0087,
+    "Derinlik":6.6,
+    "ML":"1.9",
+    "Yer":"SENKOY-CINARCIK (YALOVA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.10",
+    "Saat":"01:44:53",
+    "Enlem":40.6508,
+    "Boylam":28.9997,
+    "Derinlik":11.9,
+    "ML":"2.1",
+    "Yer":"SENKOY-CINARCIK (YALOVA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.10",
     "Saat":"00:21:57",
     "Enlem":38.9473,
     "Boylam":26.0097,
@@ -9967,36 +9997,6 @@
     "Derinlik":4.3,
     "ML":"1.8",
     "Yer":"KARAOMER-GOKSUN (KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.27",
-    "Saat":"03:40:34",
-    "Enlem":39.2255,
-    "Boylam":28.1373,
-    "Derinlik":5.3,
-    "ML":"1.6",
-    "Yer":"MANDIRA-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.27",
-    "Saat":"02:43:06",
-    "Enlem":38.3558,
-    "Boylam":37.9422,
-    "Derinlik":14.9,
-    "ML":"1.7",
-    "Yer":"YAYLIMLI-AKCADAG (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.27",
-    "Saat":"02:37:39",
-    "Enlem":38.5802,
-    "Boylam":39.4947,
-    "Derinlik":8.5,
-    "ML":"1.7",
-    "Yer":"KORUCU-(ELAZIG)",
     "Cozum":"İlksel"
   }
 ]
