@@ -1,6 +1,46 @@
 [
   {
     "Tarih":"2026.08.09",
+    "Saat":"03:31:19",
+    "Enlem":39.1182,
+    "Boylam":29.33,
+    "Derinlik":20.0,
+    "ML":"0.8",
+    "Yer":"DEGIRMENKOY-GEDIZ (KUTAHYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.09",
+    "Saat":"03:16:07",
+    "Enlem":39.4867,
+    "Boylam":26.0442,
+    "Derinlik":5.0,
+    "ML":"1.4",
+    "Yer":"BABAKALE-AYVACIK (CANAKKALE)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.09",
+    "Saat":"03:12:46",
+    "Enlem":39.4907,
+    "Boylam":26.0455,
+    "Derinlik":5.7,
+    "ML":"2.4",
+    "Yer":"BABAKALE-AYVACIK (CANAKKALE)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.09",
+    "Saat":"02:57:42",
+    "Enlem":35.3673,
+    "Boylam":24.4617,
+    "Derinlik":7.1,
+    "ML":"2.2",
+    "Yer":"GIRIT ADASI (AKDENIZ)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.09",
     "Saat":"02:37:42",
     "Enlem":39.773,
     "Boylam":26.479,
@@ -5622,8 +5662,8 @@
   {
     "Tarih":"2026.08.01",
     "Saat":"02:19:29",
-    "Enlem":37.1603,
-    "Boylam":28.6558,
+    "Enlem":37.1585,
+    "Boylam":28.6557,
     "Derinlik":5.0,
     "ML":"1.8",
     "Yer":"TURGUT-ULA (MUGLA)",
@@ -5632,8 +5672,8 @@
   {
     "Tarih":"2026.08.01",
     "Saat":"02:19:29",
-    "Enlem":37.1585,
-    "Boylam":28.6557,
+    "Enlem":37.1603,
+    "Boylam":28.6558,
     "Derinlik":5.0,
     "ML":"1.8",
     "Yer":"TURGUT-ULA (MUGLA)",
@@ -9957,46 +9997,6 @@
     "Derinlik":5.0,
     "ML":"0.8",
     "Yer":"YUKARITOSUNLAR-BEYDAG (IZMIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.26",
-    "Saat":"08:19:20",
-    "Enlem":40.3335,
-    "Boylam":32.8823,
-    "Derinlik":6.3,
-    "ML":"1.8",
-    "Yer":"OZLUCE-CUBUK (ANKARA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.26",
-    "Saat":"07:22:53",
-    "Enlem":39.7135,
-    "Boylam":33.2737,
-    "Derinlik":5.0,
-    "ML":"2.2",
-    "Yer":"YUKARIKAMISLI-ELMADAG (ANKARA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.26",
-    "Saat":"06:21:26",
-    "Enlem":38.2512,
-    "Boylam":31.9555,
-    "Derinlik":4.9,
-    "ML":"1.7",
-    "Yer":"SADIKKOY-ILGIN (KONYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.26",
-    "Saat":"05:57:11",
-    "Enlem":36.915,
-    "Boylam":29.2852,
-    "Derinlik":9.8,
-    "ML":"1.7",
-    "Yer":"TASCILAR-CAMELI (DENIZLI)",
     "Cozum":"İlksel"
   }
 ]
