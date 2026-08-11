@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.08.11",
+    "Saat":"19:11:50",
+    "Enlem":38.2035,
+    "Boylam":38.1313,
+    "Derinlik":2.3,
+    "ML":"1.7",
+    "Yer":"OLUKLU-YESILYURT (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.11",
+    "Saat":"19:07:08",
+    "Enlem":39.5007,
+    "Boylam":24.263,
+    "Derinlik":10.6,
+    "ML":"2.8",
+    "Yer":"EGE DENIZI",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.11",
     "Saat":"18:34:48",
     "Enlem":38.364,
     "Boylam":38.2822,
@@ -11,12 +31,32 @@
   },
   {
     "Tarih":"2026.08.11",
+    "Saat":"18:12:41",
+    "Enlem":38.6283,
+    "Boylam":37.3527,
+    "Derinlik":3.3,
+    "ML":"1.7",
+    "Yer":"TEPECIK-GURUN (SIVAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.11",
     "Saat":"17:59:24",
     "Enlem":39.0905,
     "Boylam":28.0532,
     "Derinlik":16.6,
     "ML":"1.1",
     "Yer":"SAGRAKCI-AKHISAR (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.11",
+    "Saat":"17:45:00",
+    "Enlem":35.4377,
+    "Boylam":31.9655,
+    "Derinlik":9.2,
+    "ML":"2.1",
+    "Yer":"AKDENIZ",
     "Cozum":"İlksel"
   },
   {
@@ -9957,46 +9997,6 @@
     "Derinlik":0.0,
     "ML":"1.2",
     "Yer":"ARIKUYUSU-GULNAR (MERSIN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.28",
-    "Saat":"14:37:32",
-    "Enlem":38.2397,
-    "Boylam":37.7183,
-    "Derinlik":6.2,
-    "ML":"2.5",
-    "Yer":"HARUNUSAGI-AKCADAG (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.28",
-    "Saat":"14:29:40",
-    "Enlem":38.1223,
-    "Boylam":37.1313,
-    "Derinlik":6.7,
-    "ML":"1.9",
-    "Yer":"ORTAOREN-EKINOZU (KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.28",
-    "Saat":"13:41:24",
-    "Enlem":36.3683,
-    "Boylam":34.0702,
-    "Derinlik":16.4,
-    "ML":"0.9",
-    "Yer":"ARKUM-SILIFKE (MERSIN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.28",
-    "Saat":"13:25:17",
-    "Enlem":38.2532,
-    "Boylam":37.7303,
-    "Derinlik":1.0,
-    "ML":"3.3",
-    "Yer":"CEVIRME-AKCADAG (MALATYA)",
     "Cozum":"İlksel"
   }
 ]
