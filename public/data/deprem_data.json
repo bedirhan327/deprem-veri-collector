@@ -1,6 +1,26 @@
 [
   {
     "Tarih":"2026.08.11",
+    "Saat":"18:34:48",
+    "Enlem":38.364,
+    "Boylam":38.2822,
+    "Derinlik":7.5,
+    "ML":"2.0",
+    "Yer":"TOPSOGUT-(MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.11",
+    "Saat":"17:59:24",
+    "Enlem":39.0905,
+    "Boylam":28.0532,
+    "Derinlik":16.6,
+    "ML":"1.1",
+    "Yer":"SAGRAKCI-AKHISAR (MANISA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.11",
     "Saat":"17:42:13",
     "Enlem":39.1987,
     "Boylam":28.088,
@@ -17,6 +37,16 @@
     "Derinlik":5.3,
     "ML":"1.5",
     "Yer":"KOCYOLU-BASKIL (ELAZIG)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.11",
+    "Saat":"17:07:32",
+    "Enlem":39.9908,
+    "Boylam":28.8142,
+    "Derinlik":0.0,
+    "ML":"1.6",
+    "Yer":"OMERALTI-MUSTAFAKEMALPASA (BURSA)",
     "Cozum":"İlksel"
   },
   {
@@ -7382,8 +7412,8 @@
   {
     "Tarih":"2026.08.01",
     "Saat":"02:19:29",
-    "Enlem":37.1603,
-    "Boylam":28.6558,
+    "Enlem":37.1585,
+    "Boylam":28.6557,
     "Derinlik":5.0,
     "ML":"1.8",
     "Yer":"TURGUT-ULA (MUGLA)",
@@ -7392,8 +7422,8 @@
   {
     "Tarih":"2026.08.01",
     "Saat":"02:19:29",
-    "Enlem":37.1585,
-    "Boylam":28.6557,
+    "Enlem":37.1603,
+    "Boylam":28.6558,
     "Derinlik":5.0,
     "ML":"1.8",
     "Yer":"TURGUT-ULA (MUGLA)",
@@ -9967,36 +9997,6 @@
     "Derinlik":1.0,
     "ML":"3.3",
     "Yer":"CEVIRME-AKCADAG (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.28",
-    "Saat":"13:19:01",
-    "Enlem":38.2668,
-    "Boylam":37.691,
-    "Derinlik":10.0,
-    "ML":"1.9",
-    "Yer":"HARUNUSAGI-AKCADAG (MALATYA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.28",
-    "Saat":"12:56:56",
-    "Enlem":39.2205,
-    "Boylam":28.0785,
-    "Derinlik":9.4,
-    "ML":"2.8",
-    "Yer":"KERTIL-SINDIRGI (BALIKESIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.07.28",
-    "Saat":"12:49:45",
-    "Enlem":39.3332,
-    "Boylam":26.0705,
-    "Derinlik":11.3,
-    "ML":"1.8",
-    "Yer":"MIDILLI ADASI (EGE DENIZI)",
     "Cozum":"İlksel"
   }
 ]
