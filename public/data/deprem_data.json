@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.08.25",
+    "Saat":"01:30:59",
+    "Enlem":38.053,
+    "Boylam":29.044,
+    "Derinlik":7.4,
+    "ML":"1.0",
+    "Yer":"BELENARDIC-AKKOY (DENIZLI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.25",
     "Saat":"01:00:32",
     "Enlem":39.123,
     "Boylam":28.3057,
@@ -9402,9 +9412,9 @@
   {
     "Tarih":"2026.08.12",
     "Saat":"10:05:57",
-    "Enlem":39.2005,
-    "Boylam":28.1823,
-    "Derinlik":17.9,
+    "Enlem":39.2013,
+    "Boylam":28.1827,
+    "Derinlik":17.4,
     "ML":"1.8",
     "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
@@ -9412,9 +9422,9 @@
   {
     "Tarih":"2026.08.12",
     "Saat":"10:05:57",
-    "Enlem":39.2013,
-    "Boylam":28.1827,
-    "Derinlik":17.4,
+    "Enlem":39.2005,
+    "Boylam":28.1823,
+    "Derinlik":17.9,
     "ML":"1.8",
     "Yer":"YAYLACIK-SINDIRGI (BALIKESIR)",
     "Cozum":"İlksel"
@@ -9702,16 +9712,6 @@
   {
     "Tarih":"2026.08.12",
     "Saat":"02:22:59",
-    "Enlem":38.1893,
-    "Boylam":40.4292,
-    "Derinlik":17.3,
-    "ML":"1.4",
-    "Yer":"SAGDICLI-SUR (DIYARBAKIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.08.12",
-    "Saat":"02:22:59",
     "Enlem":38.1848,
     "Boylam":40.4413,
     "Derinlik":18.0,
@@ -9721,12 +9721,12 @@
   },
   {
     "Tarih":"2026.08.12",
-    "Saat":"02:18:49",
-    "Enlem":37.0568,
-    "Boylam":28.1228,
-    "Derinlik":7.5,
-    "ML":"1.8",
-    "Yer":"SARNICKOY (MUGLA)",
+    "Saat":"02:22:59",
+    "Enlem":38.1893,
+    "Boylam":40.4292,
+    "Derinlik":17.3,
+    "ML":"1.4",
+    "Yer":"SAGDICLI-SUR (DIYARBAKIR)",
     "Cozum":"İlksel"
   },
   {
@@ -9737,6 +9737,16 @@
     "Derinlik":6.5,
     "ML":"1.8",
     "Yer":"SARNICKOY-(MUGLA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.12",
+    "Saat":"02:18:49",
+    "Enlem":37.0568,
+    "Boylam":28.1228,
+    "Derinlik":7.5,
+    "ML":"1.8",
+    "Yer":"SARNICKOY (MUGLA)",
     "Cozum":"İlksel"
   },
   {
@@ -9987,16 +9997,6 @@
     "Derinlik":11.4,
     "ML":"1.5",
     "Yer":"KUSADASI KORFEZI (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.08.11",
-    "Saat":"21:58:09",
-    "Enlem":35.3648,
-    "Boylam":27.2363,
-    "Derinlik":11.4,
-    "ML":"2.3",
-    "Yer":"AKDENIZ",
     "Cozum":"İlksel"
   }
 ]
