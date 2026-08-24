@@ -5472,22 +5472,22 @@
   {
     "Tarih":"2026.08.18",
     "Saat":"10:44:28",
-    "Enlem":40.8703,
-    "Boylam":29.1343,
-    "Derinlik":14.5,
-    "ML":"0.7",
-    "Yer":"ADALAR (ISTANBUL) REVIZE01 (2026.08.18",
-    "Cozum":"10:44:28)"
-  },
-  {
-    "Tarih":"2026.08.18",
-    "Saat":"10:44:28",
     "Enlem":40.8628,
     "Boylam":29.084,
     "Derinlik":16.1,
     "ML":"0.8",
     "Yer":"ADALAR (ISTANBUL)",
     "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.18",
+    "Saat":"10:44:28",
+    "Enlem":40.8703,
+    "Boylam":29.1343,
+    "Derinlik":14.5,
+    "ML":"0.7",
+    "Yer":"ADALAR (ISTANBUL) REVIZE01 (2026.08.18",
+    "Cozum":"10:44:28)"
   },
   {
     "Tarih":"2026.08.18",
@@ -9372,16 +9372,6 @@
   {
     "Tarih":"2026.08.12",
     "Saat":"02:22:59",
-    "Enlem":38.1848,
-    "Boylam":40.4413,
-    "Derinlik":18.0,
-    "ML":"1.4",
-    "Yer":"SAGDICLI-SUR (DIYARBAKIR)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.08.12",
-    "Saat":"02:22:59",
     "Enlem":38.1893,
     "Boylam":40.4292,
     "Derinlik":17.3,
@@ -9391,12 +9381,12 @@
   },
   {
     "Tarih":"2026.08.12",
-    "Saat":"02:18:49",
-    "Enlem":37.0568,
-    "Boylam":28.1228,
-    "Derinlik":7.5,
-    "ML":"1.8",
-    "Yer":"SARNICKOY (MUGLA)",
+    "Saat":"02:22:59",
+    "Enlem":38.1848,
+    "Boylam":40.4413,
+    "Derinlik":18.0,
+    "ML":"1.4",
+    "Yer":"SAGDICLI-SUR (DIYARBAKIR)",
     "Cozum":"İlksel"
   },
   {
@@ -9407,6 +9397,16 @@
     "Derinlik":6.5,
     "ML":"1.8",
     "Yer":"SARNICKOY-(MUGLA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.12",
+    "Saat":"02:18:49",
+    "Enlem":37.0568,
+    "Boylam":28.1228,
+    "Derinlik":7.5,
+    "ML":"1.8",
+    "Yer":"SARNICKOY (MUGLA)",
     "Cozum":"İlksel"
   },
   {
@@ -9532,21 +9532,21 @@
   {
     "Tarih":"2026.08.12",
     "Saat":"00:02:41",
-    "Enlem":40.2195,
-    "Boylam":28.9255,
-    "Derinlik":5.2,
-    "ML":"1.8",
-    "Yer":"DOGANKOY-NILUFER (BURSA)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.08.12",
-    "Saat":"00:02:41",
     "Enlem":40.2202,
     "Boylam":28.8952,
     "Derinlik":15.4,
     "ML":"1.9",
     "Yer":"YOLCATI-NILUFER (BURSA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.12",
+    "Saat":"00:02:41",
+    "Enlem":40.2195,
+    "Boylam":28.9255,
+    "Derinlik":5.2,
+    "ML":"1.8",
+    "Yer":"DOGANKOY-NILUFER (BURSA)",
     "Cozum":"İlksel"
   },
   {
