@@ -1,6 +1,16 @@
 [
   {
     "Tarih":"2026.08.25",
+    "Saat":"08:52:01",
+    "Enlem":37.7252,
+    "Boylam":29.6562,
+    "Derinlik":2.4,
+    "ML":"1.4",
+    "Yer":"BEYLERLI-CARDAK (DENIZLI)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.08.25",
     "Saat":"08:44:01",
     "Enlem":39.2215,
     "Boylam":28.0207,
@@ -6022,22 +6032,22 @@
   {
     "Tarih":"2026.08.18",
     "Saat":"10:44:28",
-    "Enlem":40.8628,
-    "Boylam":29.084,
-    "Derinlik":16.1,
-    "ML":"0.8",
-    "Yer":"ADALAR (ISTANBUL)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.08.18",
-    "Saat":"10:44:28",
     "Enlem":40.8703,
     "Boylam":29.1343,
     "Derinlik":14.5,
     "ML":"0.7",
     "Yer":"ADALAR (ISTANBUL) REVIZE01 (2026.08.18",
     "Cozum":"10:44:28)"
+  },
+  {
+    "Tarih":"2026.08.18",
+    "Saat":"10:44:28",
+    "Enlem":40.8628,
+    "Boylam":29.084,
+    "Derinlik":16.1,
+    "ML":"0.8",
+    "Yer":"ADALAR (ISTANBUL)",
+    "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.08.18",
@@ -9883,20 +9893,20 @@
     "Tarih":"2026.08.12",
     "Saat":"02:49:12",
     "Enlem":40.1818,
-    "Boylam":31.7203,
-    "Derinlik":5.3,
+    "Boylam":31.7488,
+    "Derinlik":1.9,
     "ML":"2.2",
-    "Yer":"SEKLI-BEYPAZARI (ANKARA)",
+    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
     "Cozum":"İlksel"
   },
   {
     "Tarih":"2026.08.12",
     "Saat":"02:49:12",
     "Enlem":40.1818,
-    "Boylam":31.7488,
-    "Derinlik":1.9,
+    "Boylam":31.7203,
+    "Derinlik":5.3,
     "ML":"2.2",
-    "Yer":"HIRKATEPE-BEYPAZARI (ANKARA)",
+    "Yer":"SEKLI-BEYPAZARI (ANKARA)",
     "Cozum":"İlksel"
   },
   {
@@ -9987,16 +9997,6 @@
     "Derinlik":1.8,
     "ML":"2.0",
     "Yer":"KUMARLI (KAHRAMANMARAS)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.08.12",
-    "Saat":"02:01:48",
-    "Enlem":36.1125,
-    "Boylam":35.9992,
-    "Derinlik":4.7,
-    "ML":"1.0",
-    "Yer":"MIZRAKLI-SAMANDAG (HATAY)",
     "Cozum":"İlksel"
   }
 ]
