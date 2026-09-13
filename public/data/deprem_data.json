@@ -1,12 +1,42 @@
 [
   {
     "Tarih":"2026.09.13",
+    "Saat":"20:36:00",
+    "Enlem":35.4118,
+    "Boylam":27.1393,
+    "Derinlik":3.8,
+    "ML":"2.5",
+    "Yer":"AKDENIZ",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.09.13",
     "Saat":"20:20:37",
     "Enlem":38.1148,
     "Boylam":37.2132,
     "Derinlik":5.3,
     "ML":"2.6",
     "Yer":"AKPINAR-EKINOZU (KAHRAMANMARAS)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.09.13",
+    "Saat":"19:46:53",
+    "Enlem":38.0212,
+    "Boylam":37.5753,
+    "Derinlik":2.8,
+    "ML":"2.1",
+    "Yer":"GOVDELI-DOGANSEHIR (MALATYA)",
+    "Cozum":"İlksel"
+  },
+  {
+    "Tarih":"2026.09.13",
+    "Saat":"19:06:41",
+    "Enlem":39.1738,
+    "Boylam":27.9472,
+    "Derinlik":13.4,
+    "ML":"1.6",
+    "Yer":"AKKOCALI-AKHISAR (MANISA)",
     "Cozum":"İlksel"
   },
   {
@@ -9967,36 +9997,6 @@
     "Derinlik":17.2,
     "ML":"1.7",
     "Yer":"GOKOVA KORFEZI (EGE DENIZI)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.08.29",
-    "Saat":"06:36:06",
-    "Enlem":38.0053,
-    "Boylam":38.184,
-    "Derinlik":12.7,
-    "ML":"1.0",
-    "Yer":"KAVAK-(ADIYAMAN)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.08.29",
-    "Saat":"06:21:49",
-    "Enlem":40.1085,
-    "Boylam":30.419,
-    "Derinlik":10.7,
-    "ML":"1.5",
-    "Yer":"HARMANKOY-INHISAR (BILECIK)",
-    "Cozum":"İlksel"
-  },
-  {
-    "Tarih":"2026.08.29",
-    "Saat":"05:44:36",
-    "Enlem":37.9118,
-    "Boylam":27.3535,
-    "Derinlik":4.9,
-    "ML":"1.5",
-    "Yer":"ACARLAR-SELCUK (IZMIR)",
     "Cozum":"İlksel"
   }
 ]
